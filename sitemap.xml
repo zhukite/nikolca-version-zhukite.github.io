@@ -30,6 +30,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://getnikola.com/categories/fun.html</loc>
+  <lastmod>2014-01-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://getnikola.com/categories/index.html</loc>
   <lastmod>2014-01-08</lastmod>
   <priority>0.5000</priority>
@@ -40,12 +45,22 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://getnikola.com/ce.html</loc>
+  <lastmod>2014-01-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://getnikola.com/galleries/</loc>
   <lastmod>2014-01-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://getnikola.com/galleries/index.html</loc>
+  <lastmod>2014-01-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/have-fun.html</loc>
   <lastmod>2014-01-08</lastmod>
   <priority>0.5000</priority>
  </url>
@@ -66,6 +81,11 @@
  </url>
  <url>
   <loc>http://getnikola.com/posts/ce.html</loc>
+  <lastmod>2014-01-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://getnikola.com/posts/have-fun.html</loc>
   <lastmod>2014-01-08</lastmod>
   <priority>0.5000</priority>
  </url>
