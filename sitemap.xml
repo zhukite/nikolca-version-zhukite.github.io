@@ -45,11 +45,6 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://zhukite.github.io/ce.html</loc>
-  <lastmod>2014-01-08</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
   <loc>http://zhukite.github.io/galleries/</loc>
   <lastmod>2014-01-08</lastmod>
   <priority>0.5000</priority>
@@ -86,16 +81,6 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/ce.html</loc>
-  <lastmod>2014-01-09</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://zhukite.github.io/posts/have-fun.html</loc>
-  <lastmod>2014-01-09</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://zhukite.github.io/posts/hello.html</loc>
   <lastmod>2014-01-09</lastmod>
   <priority>0.5000</priority>
  </url>
