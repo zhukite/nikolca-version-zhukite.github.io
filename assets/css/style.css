@@ -178,11 +178,11 @@ img {
     margin-bottom:20px;
 }
 .con_left {
-    width:700px;
+    width:800px;
     float:left;
 }
 .article_box {
-    width:700px;
+    width:800px;
     background:#fff;
     box-shadow:0 1px 1px rgba(0,0,0,0.3);
     margin-bottom:40px;
@@ -191,7 +191,7 @@ img {
 .article_title {
     height:50px;
     line-height:50px;
-    width:700px;
+    width:800px;
     background:#f7f7f7;
     margin-bottom:20px;
     border-top:1px solid #e5e5e5;
@@ -253,7 +253,7 @@ img {
 }
 .article_box .entry {
     padding:0 20px 20px;
-    width:660px;
+    width:760px;
     overflow:hidden;
 }
 .article_box .entry p {
@@ -449,7 +449,7 @@ img {
     padding-bottom:30px;
 }
 #comment_list li {
-    width:700px;
+    width:800px;
     overflow:hidden;
     padding-bottom:40px;
 }
@@ -587,12 +587,12 @@ img {
 }
 .con_right {
     float:left;
-    width:260px;
-    padding-left:40px;
+    width:180px;
+    padding-left:20px;
     padding-bottom:80px;
 }
 .about_box {
-    width:260px;
+    width:180px;
     height:100px;
     overflow:hidden;
     background:#f7f7f7;
@@ -631,7 +631,7 @@ img {
     margin-top:20px;
 }
 .search div {
-    width:260px;
+    width:180px;
     overflow:hidden;
 }
 #s {
@@ -681,14 +681,14 @@ img {
     text-indent:20px;
 }
 .cate_box li li {
-    width:260px;
+    width:180px;
     border-top:1px solid #e5e5e5;
     height:35px;
     height:35px;
     overflow:hidden;
 }
 .cate_box a {
-    width:260px;
+    width:180px;
     height:35px;
     line-height:35px;
     display:block;
@@ -742,7 +742,7 @@ img {
 }
 .links_box ul {
     padding-top:10px;
-    width:260px;
+    width:180px;
     overflow:hidden;
 }
 .links_box a {
