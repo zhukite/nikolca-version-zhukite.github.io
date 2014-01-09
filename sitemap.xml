@@ -5,88 +5,98 @@
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
-  <loc>http://getnikola.com/</loc>
+  <loc>http://zhukite.github.io/</loc>
+  <lastmod>2014-01-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/2014/</loc>
   <lastmod>2014-01-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://getnikola.com/2014/</loc>
+  <loc>http://zhukite.github.io/2014/index.html</loc>
+  <lastmod>2014-01-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/archive.html</loc>
+  <lastmod>2014-01-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/</loc>
   <lastmod>2014-01-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://getnikola.com/2014/index.html</loc>
+  <loc>http://zhukite.github.io/categories/fun.html</loc>
+  <lastmod>2014-01-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/index.html</loc>
+  <lastmod>2014-01-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/it.html</loc>
+  <lastmod>2014-01-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/ce.html</loc>
   <lastmod>2014-01-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://getnikola.com/archive.html</loc>
+  <loc>http://zhukite.github.io/galleries/</loc>
   <lastmod>2014-01-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://getnikola.com/categories/</loc>
+  <loc>http://zhukite.github.io/galleries/index.html</loc>
+  <lastmod>2014-01-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/have-fun.html</loc>
   <lastmod>2014-01-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://getnikola.com/categories/fun.html</loc>
+  <loc>http://zhukite.github.io/index-1.html</loc>
+  <lastmod>2014-01-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/index.html</loc>
+  <lastmod>2014-01-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/listings/</loc>
   <lastmod>2014-01-08</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://getnikola.com/categories/index.html</loc>
-  <lastmod>2014-01-08</lastmod>
+  <loc>http://zhukite.github.io/listings/index.html</loc>
+  <lastmod>2014-01-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://getnikola.com/categories/it.html</loc>
-  <lastmod>2014-01-08</lastmod>
+  <loc>http://zhukite.github.io/posts/ce.html</loc>
+  <lastmod>2014-01-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://getnikola.com/ce.html</loc>
-  <lastmod>2014-01-08</lastmod>
+  <loc>http://zhukite.github.io/posts/have-fun.html</loc>
+  <lastmod>2014-01-09</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://getnikola.com/galleries/</loc>
-  <lastmod>2014-01-08</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://getnikola.com/galleries/index.html</loc>
-  <lastmod>2014-01-08</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://getnikola.com/have-fun.html</loc>
-  <lastmod>2014-01-08</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://getnikola.com/index.html</loc>
-  <lastmod>2014-01-08</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://getnikola.com/listings/</loc>
-  <lastmod>2014-01-08</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://getnikola.com/listings/index.html</loc>
-  <lastmod>2014-01-08</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://getnikola.com/posts/ce.html</loc>
-  <lastmod>2014-01-08</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://getnikola.com/posts/have-fun.html</loc>
-  <lastmod>2014-01-08</lastmod>
+  <loc>http://zhukite.github.io/posts/hello.html</loc>
+  <lastmod>2014-01-09</lastmod>
   <priority>0.5000</priority>
  </url>
 </urlset>
