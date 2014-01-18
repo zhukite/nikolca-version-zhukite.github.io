@@ -3,7 +3,7 @@
 .. description: 
 .. tags: 西藏 , travel
 .. date: 2014/01/10 13:40:40
-.. title: 丙察察公路(茶马古道)
+.. title: 丙察察线(茶马古道)
 .. slug: bing-cha-cha-gong-lu
 -->
 
