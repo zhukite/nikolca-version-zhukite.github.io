@@ -60,4 +60,4 @@
 <img src="http://ww4.sinaimg.cn/mw1024/67804861gw1eco3a1jdtmj218g0p047n.jpg" width="750"/>
 <br/>
 <br/>
-<embed src="http://video.sina.com.cn/v/b/84694181-1736460385.html" width="750" height="700" loop="true" autostart="1" />
+<embed src="http://video.sina.com.cn/v/b/84694181-1736460385.html" width="450" height="400" loop="true" autostart="1" />
