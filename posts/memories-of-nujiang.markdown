@@ -10,12 +10,14 @@
 ## 第一次骑车进入怒江大峡谷是在2011年的暑假，第二年暑假继续骑车进入怒江并一路北上进入西藏的察瓦龙和察隅，时间过得很快，两年多过去了。想起当时骑着辆破二手车，奔达4天来到丙中洛就报废卖掉，然后徒步进入迪麻洛。
 <br/>
 <img src="http://ww1.sinaimg.cn/mw1024/67804861gw1eco2ggh4gcj21kw16o7p7.jpg" width="750"/>
-## 怒江两岸的溜索
+## 怒江两岸的溜索,随着桥梁的建设增加，溜索将会越来越少，两岸人们出门过河也更安全
 <img src="http://ww4.sinaimg.cn/mw1024/67804861gw1eco3a1jdtmj218g0p047n.jpg" width="750"/>
 <br/>
-<!-- TEASER_END -->
-<br/>
 
+<br/>
+## 刚好拍了一段溜索过江的视频
+<!-- TEASER_END -->
+<div><object id="ssss" width="600" height="500" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=84694181_1736460385_ax/gGiI9XGfK+l1lHz2stqlF+6xCpv2xhGuzuFSgIw5aXQmYJMXNb9UD5iDSAcdD5yoUEJU3cfgv0xwlaQ/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="480" height="370"></embed></object></div>
 <img src="http://ww2.sinaimg.cn/mw1024/67804861tw1eco2k45ahej21kw16ou0r.jpg" width="750"/>
 <br/>
 <br/>
@@ -49,7 +51,7 @@
 <img src="http://ww1.sinaimg.cn/mw1024/67804861gw1eco2qcbcnsj21kw16o7ih.jpg" width="750"/>
 <br/>
 <br/>
-## 霞腊（音译）：用酒煮鸡肉。睡前边喝边吃边唱歌。
+## 霞腊（音译）：用酒煮鸡肉。夜宿铺它村，睡前边喝边吃边唱歌。
 <img src="http://ww1.sinaimg.cn/mw1024/67804861gw1eco2qdzk3xj21kw16odtm.jpg" width="750"/>
 <br/>
 <br/>
@@ -73,13 +75,9 @@
 <br/>
 <br/>
 * * *
-## 刀劈一般的拐弯
+## 刀劈一般的峭壁，或者这个才是真正大拐弯，丙中洛那个不算是。
 <img src="http://ww2.sinaimg.cn/mw1024/67804861gw1eco35txdhqj21kw16odzq.jpg" width="750"/>
 <br/>
 <br/>
 ## 丙察察线上的怒江大桥
 <img src="http://ww2.sinaimg.cn/mw1024/67804861gw1eco35x4q6jj21kw16o7sm.jpg" width="750"/>
-<br/>
-<br/>
-
-<div><object id="ssss" width="600" height="500" ><param name="allowScriptAccess" value="always" /><embed pluginspage="http://www.macromedia.com/go/getflashplayer" src="http://you.video.sina.com.cn/api/sinawebApi/outplayrefer.php/vid=84694181_1736460385_ax/gGiI9XGfK+l1lHz2stqlF+6xCpv2xhGuzuFSgIw5aXQmYJMXNb9UD5iDSAcdD5yoUEJU3cfgv0xwlaQ/s.swf" type="application/x-shockwave-flash" name="ssss" allowFullScreen="true" allowScriptAccess="always" width="480" height="370"></embed></object></div>
