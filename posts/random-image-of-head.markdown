@@ -46,3 +46,4 @@
 <br/><br/>
 * 白居寺后山 江孜 西藏
 <img src="http://ww1.sinaimg.cn/large/67804861gw1ecotm6yia6j20rs06aq4u.jpg" width="750"/>
+* * *
