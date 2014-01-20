@@ -10,13 +10,8 @@
 # 骑行独库公路，风景上可以说是精华升级版的川藏线滇藏线（这里推荐那些一窝蜂扎堆骑川藏南线的骑友去骑骑独库公路）。      
     
        
-          
- <br/>         
-
-# [独库公路的历史](http://baike.baidu.com/view/3259902.htm?noadapt=1)  
-
-
-     
+## <a href="http://baike.baidu.com/view/3259902.htm?noadapt=1" target="_blank">独库公路的历史</a>
+  
 <br/>        
               
               

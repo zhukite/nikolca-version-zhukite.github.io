@@ -10,7 +10,7 @@
 ## 滇西北环线是2011年在路上临时应变想出来的路线，无非是不进藏（因为自行车报废）和不想走回头路，既然如此就把三江并流区域顺时针转一圈，的确比较贪心，一次性横跨怒江，澜沧江，金沙江这三大流域，当然也少不了流域之间的碧罗雪山，梅里雪山，白马雪山，哈巴雪山，玉龙雪山。<!-- TEASER_END -->
 <br/>
 ![](http://ww4.sinaimg.cn/large/67804861gw1ecq9rg5rk2j20k00pq13j.jpg)<br/><br/>
-## 按照流域分布说明，怒江部分具体回忆录在[怒江的回忆](http://zhukite.github.io/posts/memories-of-nujiang.html)。
+## 按照流域分布说明，怒江部分具体回忆录在<a href="http://zhukite.github.io/posts/memories-of-nujiang.html" target="_blank">怒江的回忆</a>。
 <br/>
 ## 从怒江流域到澜沧江流域的穿越需翻过碧罗雪山，目前德（钦）贡（山）公路还没修通，两边的直接联系还是以马帮为主。
 <br/>
