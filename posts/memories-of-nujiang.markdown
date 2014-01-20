@@ -10,7 +10,7 @@
 ## 第一次骑车进入怒江大峡谷是在2011年的暑假，第二年暑假继续骑车进入怒江并一路北上进入西藏的察瓦龙和察隅，时间过得很快，两年多过去了。想起当时骑着辆破二手车，奔达4天来到丙中洛就报废卖掉，然后徒步进入迪麻洛。
 <br/>
 <img src="http://ww1.sinaimg.cn/mw1024/67804861gw1eco2ggh4gcj21kw16o7p7.jpg" width="750"/>
-## 怒江两岸的溜索,随着桥梁的建设增加，溜索将会越来越少，两岸人们出门过河也更安全
+## 怒江两岸的溜索,随着桥梁的建设增加，溜索将会越来越少，两岸人们出门过河也更安全。
 <img src="http://ww4.sinaimg.cn/mw1024/67804861gw1eco3a1jdtmj218g0p047n.jpg" width="750"/>
 <br/>
 
@@ -32,7 +32,7 @@
 <br/>
 <br/>
 * * *
-## 碧罗雪山南线：马帮，云海，冰河
+## 碧罗雪山南线：马帮，云海，冰河，高山牧场
 <img src="http://ww4.sinaimg.cn/mw1024/67804861tw1eco2klddkwj21kw16o1dg.jpg" width="750"/>
 <br/>
 <br/>
@@ -63,6 +63,7 @@
 <img src="http://ww4.sinaimg.cn/mw1024/67804861gw1eco2rbot34j21kw16okik.jpg" width="750"/>
 <br/>
 <br/>
+## 车“骑”人的路
 <img src="http://ww1.sinaimg.cn/mw1024/67804861gw1eco2vwsetnj21kw1m21kx.jpg" width="750"/>
 <br/>
 <br/>
