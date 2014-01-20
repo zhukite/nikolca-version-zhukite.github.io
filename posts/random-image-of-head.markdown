@@ -1,9 +1,9 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags: IT
+.. tags: IT 
 .. date: 2014/01/19 13:41:15
-.. title: 博客封面背景随机变换
+.. title: 博客封面图片随机变换
 .. slug: random-image-of-head
 -->
 
@@ -29,7 +29,7 @@
 <br/>
 ### 接下来对我的那几张图片进行介绍一下,拍得比较满意就贴出来当封面背景照片：
 <br/>
-* 怕米尔 昆仑山 新疆
+* 帕米尔高原 昆仑山 新疆
 <img src="http://ww2.sinaimg.cn/large/67804861gw1ecotm5xyqij20rs06ajtw.jpg" width="750"/>
 <br/><br/>
 * 丙察察线出目诺村的第一个山口森林 西藏

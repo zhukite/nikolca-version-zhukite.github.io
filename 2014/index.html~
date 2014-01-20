@@ -4,6 +4,8 @@
 	imgNameList.push("/1000x226_02.JPG");
 	imgNameList.push("/1000x226_03.JPG");
 	imgNameList.push("/1000x226_04.JPG");
+	imgNameList.push("/1000x226_05.JPG");
+	imgNameList.push("/1000x226_06.JPG");
 </script></head><body>
 <!-- Menubar -->
 <div class="header">
@@ -30,7 +32,11 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
             <h3>2014年文章</h3>
         </div>
         <div class="entry">  
-            <ul><li><a href="../posts/tian-shan-du-ku-gong-lu.html">[2014-01-09 21:07] 天山独库公路</a>
+            <ul><li><a href="../posts/random-image-of-head.html">[2014-01-19 13:41:15] 博客封面图片随机变换</a>
+                </li><li><a href="../posts/memories-of-nujiang.html">[2014-01-18 23:06] Memories of Nujiang(怒江的回忆)</a>
+                </li><li><a href="../posts/bing-cha-cha-gong-lu.html">[2014-01-10 13:40] 丙察察线(茶马古道)</a>
+                </li><li><a href="../posts/pa-mi-er-gao-yuan.html">[2014-01-09 22:48] 帕米尔高原(China part)</a>
+                </li><li><a href="../posts/tian-shan-du-ku-gong-lu.html">[2014-01-09 21:07] 天山独库公路</a>
                 </li><li><a href="../posts/ce.html">[2014-01-08 18:23] 测</a>
             </li></ul></div>
     </div>
@@ -106,4 +112,7 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
             }
 
         });
-    </script><!-- Social buttons --><!-- End of social buttons --></body></html>
+    </script><!-- Social buttons --><script type="text/javascript" id="bdshare_js" data="type=slide&amp;img=6&amp;pos=right"></script><script type="text/javascript" id="bdshell_js"></script><script type="text/javascript">
+        var bds_config = {"bdTop":289};
+        document.getElementById("bdshell_js").src = "http://bdimg.share.baidu.com/static/js/shell_v2.js?cdnversion=" + new Date().getHours();
+	</script><!-- End of social buttons --></body></html>
