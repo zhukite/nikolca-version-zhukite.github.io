@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags: travel, 
+.. tags: travel , 云南
 .. date: 2014/01/20 19:07:48
 .. title: 滇西北回忆
 .. slug: dian-xi-bei-huan-xian

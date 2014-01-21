@@ -68,7 +68,7 @@ img {
     height:226px;
 	margin-left:auto;
 	margin-right:auto;
-    box-shadow:0 2px 2px rgba(0,0,0,0.2);
+    box-shadow:0 5px 5px rgba(0,0,0,0.9);
     background:#f7f7f7;
 }
 .header_box {
@@ -587,16 +587,16 @@ img {
 }
 .con_right {
     float:left;
-    width:200px;
-    padding-left:0px;
+    width:180px;
+    padding-left:20px;
     padding-bottom:80px;
 }
 .about_box {
-    width:200px;
+    width:180px;
     height:100px;
     overflow:hidden;
     background:#f7f7f7;
-    box-shadow:0 1px 1px rgba(0,0,0,0.2);
+    box-shadow:0 5px 5px rgba(0,0,0,0.7);
 }
 .about_box .avatar_box {
     float:left;
@@ -624,14 +624,14 @@ img {
     border-left:2px solid #144263;
     background:#f7f7f7;
     margin-top:20px;
-    box-shadow:0 1px 1px rgba(0,0,0,0.2);
+    box-shadow:0 5px 5px rgba(0,0,0,0.7);
 }
 
 .search {
     margin-top:20px;
 }
 .search div {
-    width:200px;
+    width:180px;
     overflow:hidden;
 }
 #s {
@@ -648,7 +648,7 @@ img {
 #s:focus {
     background:#fff;
     border-color:#144263;
-    box-shadow:0 0 2px rgba(0,0,0,0.3);
+    box-shadow:0 0 4px rgba(0,0,0,0.5);
 }
 #searchsubmit {
     width:62px;
@@ -673,7 +673,7 @@ img {
 .cate_box {
     margin-top:20px;
     background:#f7f7f7;
-    box-shadow:0 1px 1px rgba(0,0,0,0.2);
+    box-shadow:0 3px 3px rgba(0,0,0,0.4);
 }
 .cate_box li {
     font-weight:700;
@@ -681,14 +681,14 @@ img {
     text-indent:20px;
 }
 .cate_box li li {
-    width:200px;
+    width:180px;
     border-top:1px solid #e5e5e5;
     height:35px;
     height:35px;
     overflow:hidden;
 }
 .cate_box a {
-    width:200px;
+    width:180px;
     height:35px;
     line-height:35px;
     display:block;
@@ -742,7 +742,7 @@ img {
 }
 .links_box ul {
     padding-top:10px;
-    width:200px;
+    width:180px;
     overflow:hidden;
 }
 .links_box a {

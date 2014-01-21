@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags: travel
+.. tags: travel , 新疆
 .. date: 2014/01/09 22:48:42
 .. title: 帕米尔高原(China part)
 .. slug: pa-mi-er-gao-yuan

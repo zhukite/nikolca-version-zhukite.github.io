@@ -26,7 +26,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/</loc>
-  <lastmod>2014-01-10</lastmod>
+  <lastmod>2014-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -50,7 +50,22 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://zhukite.github.io/categories/travel-yun-nan-xi-cang.html</loc>
+  <lastmod>2014-01-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://zhukite.github.io/categories/travel.html</loc>
+  <lastmod>2014-01-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/travelyun-nan-xi-cang.html</loc>
+  <lastmod>2014-01-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/ubuntu.html</loc>
   <lastmod>2014-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
@@ -61,6 +76,11 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/xin-jiang.html</loc>
+  <lastmod>2014-01-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/yun-nan.html</loc>
   <lastmod>2014-01-21</lastmod>
   <priority>0.5000</priority>
  </url>

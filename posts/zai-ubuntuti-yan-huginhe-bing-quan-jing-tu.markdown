@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags: IT
+.. tags: IT , ubuntu
 .. date: 2014/01/21 01:58:04
 .. title: 在ubuntu体验Hugin合并全景图
 .. slug: zai-ubuntuti-yan-huginhe-bing-quan-jing-tu
