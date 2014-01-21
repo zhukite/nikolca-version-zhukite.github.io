@@ -68,7 +68,7 @@ img {
     height:226px;
 	margin-left:auto;
 	margin-right:auto;
-    box-shadow:0 5px 5px rgba(0,0,0,0.9);
+    box-shadow:0 3px 3px rgba(0,0,0,0.7);
     background:#f7f7f7;
 }
 .header_box {
@@ -596,7 +596,7 @@ img {
     height:100px;
     overflow:hidden;
     background:#f7f7f7;
-    box-shadow:0 5px 5px rgba(0,0,0,0.7);
+    box-shadow:0 3px 3px rgba(0,0,0,0.3);
 }
 .about_box .avatar_box {
     float:left;
@@ -624,7 +624,7 @@ img {
     border-left:2px solid #144263;
     background:#f7f7f7;
     margin-top:20px;
-    box-shadow:0 5px 5px rgba(0,0,0,0.7);
+    box-shadow:0 3px 3px rgba(0,0,0,0.3);
 }
 
 .search {
@@ -673,7 +673,7 @@ img {
 .cate_box {
     margin-top:20px;
     background:#f7f7f7;
-    box-shadow:0 4px 4px rgba(0,0,0,0.4);
+    box-shadow:0 2px 2px rgba(0,0,0,0.3);
 }
 .cate_box li {
     font-weight:700;
