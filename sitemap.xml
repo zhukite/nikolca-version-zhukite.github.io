@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://zhukite.github.io/</loc>
-  <lastmod>2014-01-19</lastmod>
+  <lastmod>2014-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -71,7 +71,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/galleries/index.html</loc>
-  <lastmod>2014-01-19</lastmod>
+  <lastmod>2014-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -91,7 +91,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/listings/index.html</loc>
-  <lastmod>2014-01-19</lastmod>
+  <lastmod>2014-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -131,6 +131,11 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/zai-ubuntuti-yan-huginhe-bing-quan-jing-tu.html</loc>
+  <lastmod>2014-01-21</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/stories/about.html</loc>
   <lastmod>2014-01-21</lastmod>
   <priority>0.5000</priority>
  </url>
