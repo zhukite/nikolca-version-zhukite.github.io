@@ -11,7 +11,7 @@
     $ sudo apt-get install hugin
 ### 启动 Hugin
     hugin
-### 试了两张图片，当时骑上帕米尔高原时拍下的昆仑山脉，算是西昆仑里面著名山峰，公格尔九别峰和“冰山之父”之称的慕士塔格峰。
+### 测试了两张图片，当时骑上帕米尔高原时拍下的昆仑山脉，分别拿西昆仑里面著名的两座山峰————公格尔九别峰和“冰山之父”之称的慕士塔格峰。
 <!-- TEASER_END -->
 <img src="http://ww4.sinaimg.cn/mw1024/67804861gw1ecqisnl15tj21kw0ci0xs.jpg" width="750"/>
 <br/><br/>
@@ -21,6 +21,6 @@
 <img src="http://ww3.sinaimg.cn/large/67804861gw1ecqiv4q8fjj21kw07aq5z.jpg" width="750"/>
 <br/><br/>
 * * *
-### reference:
+### Reference:
 ### 英语版via：<a href="http://xmodulo.com/2013/12/stitch-photos-together-linux.html" target="_blank">How to stitch photos together on Linux</a>
 ### 中文版via：<a href="http://linux.cn/thread/12210/1/1/" target="_blank">如何在 Linux 中生成全景照片</a>
