@@ -1,6 +1,6 @@
 <!-- 
 .. link: 
-.. description: 西藏，藏南
+.. description: 西藏, 藏南, 边境
 .. tags: 西藏, travel
 .. date: 2014/01/22 21:18:05
 .. title: 藏南明珠城镇---透出幽蓝的光芒
