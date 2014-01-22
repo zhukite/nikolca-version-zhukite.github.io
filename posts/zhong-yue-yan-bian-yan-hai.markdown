@@ -1,6 +1,6 @@
 <!-- 
 .. link: 
-.. description: 
+.. description: 骑行中越沿边公路S325
 .. tags: travel
 .. date: 2014/01/22 14:12:40
 .. title: 骑车在广西海陆边境上转个圈

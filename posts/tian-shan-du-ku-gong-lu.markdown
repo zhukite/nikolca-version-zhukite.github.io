@@ -1,6 +1,6 @@
 <!-- 
 .. link: 
-.. description: 
+.. description: 骑行天山独库公路
 .. tags: travel , 新疆 
 .. date: 2014/01/09 21:07:31
 .. title: 天山独库公路

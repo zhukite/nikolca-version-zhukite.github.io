@@ -1,6 +1,6 @@
 <!-- 
 .. link: 
-.. description: 
+.. description: 骑行，怒江大峡谷，徒步， 丙中洛， 迪麻洛， 碧罗雪山
 .. tags: travel, 云南, 西藏
 .. date: 2014/01/18 23:06:26
 .. title: Memories of Nujiang(怒江的回忆)
