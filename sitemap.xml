@@ -11,12 +11,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/</loc>
-  <lastmod>2014-02-10</lastmod>
+  <lastmod>2014-02-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/index.html</loc>
-  <lastmod>2014-02-10</lastmod>
+  <lastmod>2014-02-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -26,12 +26,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/</loc>
-  <lastmod>2014-02-10</lastmod>
+  <lastmod>2014-02-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/du-shu.html</loc>
-  <lastmod>2014-02-10</lastmod>
+  <lastmod>2014-02-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -41,12 +41,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/index.html</loc>
-  <lastmod>2014-02-10</lastmod>
+  <lastmod>2014-02-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/it.html</loc>
-  <lastmod>2014-02-10</lastmod>
+  <lastmod>2014-02-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -66,7 +66,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/travel.html</loc>
-  <lastmod>2014-02-10</lastmod>
+  <lastmod>2014-02-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -76,17 +76,22 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/ubuntu.html</loc>
-  <lastmod>2014-02-10</lastmod>
+  <lastmod>2014-02-12</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/xi-cang-xin-jiang.html</loc>
+  <lastmod>2014-02-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/xi-cang.html</loc>
-  <lastmod>2014-02-10</lastmod>
+  <lastmod>2014-02-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/xin-jiang.html</loc>
-  <lastmod>2014-02-10</lastmod>
+  <lastmod>2014-02-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -96,7 +101,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/yun-nan.html</loc>
-  <lastmod>2014-02-10</lastmod>
+  <lastmod>2014-02-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -111,7 +116,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-1.html</loc>
-  <lastmod>2014-02-10</lastmod>
+  <lastmod>2014-02-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -121,7 +126,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2014-02-10</lastmod>
+  <lastmod>2014-02-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -156,7 +161,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/du-ou-wen-la-tie-mo-er-de-zhong-guo-de-ya-zhou-nei-lu-bian-jiang.html</loc>
-  <lastmod>2014-02-10</lastmod>
+  <lastmod>2014-02-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -187,6 +192,11 @@
  <url>
   <loc>http://zhukite.github.io/posts/tian-shan-du-ku-gong-lu.html</loc>
   <lastmod>2014-02-09</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/posts/xi-cang-xin-jiang-hui-yi-lu.html</loc>
+  <lastmod>2014-02-12</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
