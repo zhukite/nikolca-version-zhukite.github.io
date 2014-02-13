@@ -38,12 +38,14 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
 		    	<h3>动态GIF图片现在复苏了，不少在线分享和社交网络网站都开始支持动态GIF图片，由于在消费和共享上的容易，GIF的动画已经成为主流互联网文化的一部分了。下面介绍一下在Linux使用ffmpeg把自己旅行时录制的mp4格式的视频文件转换gif动态图。</h3>
 <!-- TEASER_END -->
 
+<p><br></p>
 <h4>首先，安装ffmpeg，我的操作系统是Ubuntu 12.04 ，指令是下面：</h4>
 <div class="code"><pre><span class="err">$</span> <span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">install</span> <span class="n">ffmpeg</span>
 </pre></div>
 
 
 <h4>如果你的操作系统别的Linux发行版，请参考<a href="http://xmodulo.com/2013/06/how-to-install-ffmpeg-on-linux.html" target="_blank">How to install FFmpeg on Linux</a></h4>
+<p><br></p>
 <h4>后来发现不行，那个网站老是fetch不到，一直404，只好下源代码编译安装</h4>
 <h4>使用git克隆ffmpeg源代码的地址：</h4>
 <div class="code"><pre><span class="n">git</span> <span class="n">clone</span> <span class="n">git</span><span class="o">:</span><span class="c1">//source.ffmpeg.org/ffmpeg.git ffmpeg</span>
@@ -55,13 +57,15 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
 </pre></div>
 
 
+<p><br></p>
 <h4>上述的编译工具安装好后，就可开始编译ffmpeg了。</h4>
 <h4>ffmpeg是采用autoconfig和automake等工具自动生成makefile，然后再通过make进行编译，具体的编译的过程如下：</h4>
 <ul><li>使用./configure产生makefile文件</li>
 <li>使用make进行编译</li>
 <li>使用sudo make install将ffmpeg安装到系统中，因为这个需要需要root权限。</li>
 </ul><h4>再装个ImageMagick，发现原来已经有了，如果没有就看这里<a href="http://ask.xmodulo.com/install-imagemagick-linux.html" target="_blank">安装ImageMagick</a></h4>
-<h4>弄个人的slam dump视频,只有4秒，mp4格式的</h4>
+<p><br></p>
+<h4>弄个人的slam dunk视频,只有4秒，mp4格式的</h4>
 <div class="code"><pre><span class="err">$</span> <span class="n">ffmpeg</span> <span class="o">-</span><span class="n">t</span> <span class="mi">4</span> <span class="o">-</span><span class="n">ss</span> <span class="mo">00</span><span class="o">:</span><span class="mo">00</span><span class="o">:</span><span class="mo">00</span> <span class="o">-</span><span class="n">i</span> <span class="n">slam</span><span class="p">.</span><span class="n">mp4</span> <span class="n">out1</span><span class="p">.</span><span class="n">gif</span>
 </pre></div>
 
@@ -79,7 +83,7 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
 </pre></div>
 
 
-<h4>享受技术带来的乐趣吧！:-)</h4>
+<h4>享受技术带来的乐趣吧！:-) 奉上帕米尔高原 slam dunk</h4>
 <p><img alt="" src="http://ww4.sinaimg.cn/mw1024/67804861gw1edi5rzwyaug208w050b2e.gif"></p>  
         </div>
             
@@ -114,7 +118,7 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
 
         
     <!-- Duoshuo Comment BEGIN -->
-    <div class="ds-thread" data-thread-key="1392283883.0" data-title="&lt;bound method Post.title of &lt;nikola.post.Post object at 0x92c4d2c&gt;&gt;" data-author-key="zhukite"></div>
+    <div class="ds-thread" data-thread-key="1392283883.0" data-title="&lt;bound method Post.title of &lt;nikola.post.Post object at 0xaa20d2c&gt;&gt;" data-author-key="zhukite"></div>
     <script type="text/javascript">
     var duoshuoQuery = {short_name:"zhukite"};
     (function() {
