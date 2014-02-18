@@ -26,7 +26,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/</loc>
-  <lastmod>2014-02-12</lastmod>
+  <lastmod>2014-02-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/chuang-yi.html</loc>
+  <lastmod>2014-02-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>

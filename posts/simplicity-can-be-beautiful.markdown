@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags: 
+.. tags: 创意
 .. date: 2014/02/13 15:13:10
 .. title: Simplicity can be beautiful
 .. slug: simplicity-can-be-beautiful
