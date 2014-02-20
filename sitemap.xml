@@ -11,12 +11,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/</loc>
-  <lastmod>2014-02-13</lastmod>
+  <lastmod>2014-02-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/index.html</loc>
-  <lastmod>2014-02-18</lastmod>
+  <lastmod>2014-02-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -51,7 +51,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/it.html</loc>
-  <lastmod>2014-02-18</lastmod>
+  <lastmod>2014-02-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -121,7 +121,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-1.html</loc>
-  <lastmod>2014-02-18</lastmod>
+  <lastmod>2014-02-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -131,7 +131,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2014-02-18</lastmod>
+  <lastmod>2014-02-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -181,7 +181,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/mp4-convert-to-gif.html</loc>
-  <lastmod>2014-02-18</lastmod>
+  <lastmod>2014-02-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -197,6 +197,11 @@
  <url>
   <loc>http://zhukite.github.io/posts/safety-and-security.html</loc>
   <lastmod>2014-02-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/posts/security-in-internet-of-things.html</loc>
+  <lastmod>2014-02-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
