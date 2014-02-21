@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveler</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Thu, 20 Feb 2014 11:31:36 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>security in internet of things</title><link>http://zhukite.github.io//posts/security-in-internet-of-things.html</link><description>&lt;div&gt;&lt;h4&gt;安全界的发展是依附于整个行业，这个行业可不仅是互联网，可以说安全界的触角从互联网到某些内网到物联网到传统的工控网等网络都有延伸（这些“网”之间可以没明显界限），主角是互联网。&lt;/h4&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveler</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Fri, 21 Feb 2014 13:49:59 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>ssl_tsl protocol</title><link>http://zhukite.github.io//posts/ssl_tsl-protocol.html</link><description>&lt;div&gt;&lt;h4&gt;互联网的通信安全，建立在SSL/TLS协议之上。下面简要介绍SSL/TLS协议的运行机制。文章的重点是设计思想和运行过程，不涉及具体的&lt;a href="http://tools.ietf.org/html/rfc5246" target="_blank"&gt;实现细节&lt;/a&gt; 。&lt;/h4&gt;
+&lt;h4&gt;信息在明文的情况下传播带来三大风险，常见攻击方式是中间人攻击：&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;窃听风险（eavesdropping）：第三方可以获知通信内容&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;篡改风险（tampering）：第三方可以修改通信内容。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;冒充风险（pretending）：第三方可以冒充他人身份参与通信。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;h4&gt;SSL/TLS协议是为了解决这三大风险而设计的，希望达到：&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;所有信息都是加密传播，第三方无法窃听。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;具有校验机制，一旦被篡改，通信双方会立刻发现。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;配备身份证书，防止身份被冒充。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/ssl_tsl-protocol.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><guid>http://zhukite.github.io//posts/ssl_tsl-protocol.html</guid><pubDate>Thu, 20 Feb 2014 21:41:27 GMT</pubDate></item><item><title>security in internet of things</title><link>http://zhukite.github.io//posts/security-in-internet-of-things.html</link><description>&lt;div&gt;&lt;h4&gt;安全界的发展是依附于整个行业，这个行业可不仅是互联网，可以说安全界的触角从互联网到某些内网到物联网到传统的工控网等网络都有延伸（这些“网”之间可以没明显界限），主角是互联网。&lt;/h4&gt;
 &lt;h4&gt;终端安全（PC电脑、手机、Pad），云端安全（网站、IAAS、PAAS、SAAS），链路安全（家庭路由器、DNS服务器、各大节点路由器）都被大型厂商盯上。时下热门的移动互联网，大多终端上的APP背后也是云端，也是同样的Web，也是原汁原味的HTTP协议，曾经在PC上研究的Web安全，在手机上也是持续存在的。&lt;/h4&gt;
 &lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/security-in-internet-of-things.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><guid>http://zhukite.github.io//posts/security-in-internet-of-things.html</guid><pubDate>Thu, 20 Feb 2014 10:56:11 GMT</pubDate></item><item><title>mp4 convert to gif</title><link>http://zhukite.github.io//posts/mp4-convert-to-gif.html</link><description>&lt;div&gt;&lt;h3&gt;动态GIF图片现在复苏了，不少在线分享和社交网络网站都开始支持动态GIF图片，由于在消费和共享上的容易，GIF的动画已经成为主流互联网文化的一部分了。下面介绍一下在Linux使用ffmpeg把自己旅行时录制的mp4格式的视频文件转换gif动态图。&lt;/h3&gt;
 &lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/mp4-convert-to-gif.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><category>ubuntu</category><guid>http://zhukite.github.io//posts/mp4-convert-to-gif.html</guid><pubDate>Thu, 13 Feb 2014 17:31:23 GMT</pubDate></item><item><title>Simplicity can be beautiful</title><link>http://zhukite.github.io//posts/simplicity-can-be-beautiful.html</link><description>&lt;div&gt;&lt;h4&gt;在这个世界上,有太多的事情过于复杂。而简单就是美。&lt;/h4&gt;
@@ -35,15 +56,4 @@
 &lt;p&gt;第八名：定日县绒辖乡
  &lt;br&gt;   接下来我将分别介绍并附载图文说明。
 &lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/cang-nan-ming-zhu-cheng-zhen-tou-chu-you-lan-de-guang-mang.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>西藏</category><category>travel</category><guid>http://zhukite.github.io//posts/cang-nan-ming-zhu-cheng-zhen-tou-chu-you-lan-de-guang-mang.html</guid><pubDate>Wed, 22 Jan 2014 21:18:05 GMT</pubDate></item><item><title>骑车在广西海陆边境上转个圈</title><link>http://zhukite.github.io//posts/zhong-yue-yan-bian-yan-hai.html</link><description>&lt;div&gt;&lt;h3&gt;中越沿边公路，在广西境内是S325公路，0公里在东兴竹山港，终点在滇桂交界，长725km。下面是回忆录，除了第一天之外，其他日子都是随心而行，想到哪就到哪，基本没按计划没按公路走向走。没骑行完终点，折反向东南骑去北海晒太阳和吹海风了，也是随心而行所选择的结果，反而这样的旅行更舒爽。&lt;/h3&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/zhong-yue-yan-bian-yan-hai.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>travel</category><guid>http://zhukite.github.io//posts/zhong-yue-yan-bian-yan-hai.html</guid><pubDate>Wed, 22 Jan 2014 14:12:40 GMT</pubDate></item><item><title>在ubuntu体验Hugin合并全景图</title><link>http://zhukite.github.io//posts/zai-ubuntuti-yan-huginhe-bing-quan-jing-tu.html</link><description>&lt;div&gt;&lt;h4&gt;在ubuntu安装hugin，&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;&lt;span class="err"&gt;$&lt;/span&gt; &lt;span class="n"&gt;sudo&lt;/span&gt; &lt;span class="n"&gt;apt&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;get&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="n"&gt;hugin&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;h4&gt;启动 Hugin&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;&lt;span class="n"&gt;hugin&lt;/span&gt;
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;h4&gt;测试了两张图片，当时骑上帕米尔高原时拍下的昆仑山脉，分别拿西昆仑里面著名的两座山峰————公格尔九别峰和“冰山之父”之称的慕士塔格峰。&lt;/h4&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/zai-ubuntuti-yan-huginhe-bing-quan-jing-tu.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><category>ubuntu</category><guid>http://zhukite.github.io//posts/zai-ubuntuti-yan-huginhe-bing-quan-jing-tu.html</guid><pubDate>Tue, 21 Jan 2014 01:58:04 GMT</pubDate></item></channel></rss>
+&lt;p&gt;&lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/zhong-yue-yan-bian-yan-hai.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>travel</category><guid>http://zhukite.github.io//posts/zhong-yue-yan-bian-yan-hai.html</guid><pubDate>Wed, 22 Jan 2014 14:12:40 GMT</pubDate></item></channel></rss>
