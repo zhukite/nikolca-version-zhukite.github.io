@@ -126,5 +126,11 @@
  
 #### 至此，整个握手阶段全部结束。接下来，客户端与服务器进入加密通信，就完全是使用普通的HTTP协议，只不过用"会话密钥"加密内容。
 
+HTTP+TSL的通信实例
+<br/>
+![](http://ww4.sinaimg.cn/large/67804861gw1edqys7npkhj20ht05aq3o.jpg)
 
+<br/>
+Reference: http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html
+<br/>
 * * *

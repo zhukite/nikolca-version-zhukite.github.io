@@ -123,6 +123,11 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
 <ul><li>（1）编码改变通知，表示随后的信息都将用双方商定的加密方法和密钥发送。</li>
 <li>（2）服务器握手结束通知，表示服务器的握手阶段已经结束。这一项同时也是前面发送的所有内容的hash值，用来供客户端校验。</li>
 </ul><h5>至此，整个握手阶段全部结束。接下来，客户端与服务器进入加密通信，就完全是使用普通的HTTP协议，只不过用"会话密钥"加密内容。</h5>
+<p>HTTP+TSL的通信实例
+<br><img alt="" src="http://ww4.sinaimg.cn/large/67804861gw1edqys7npkhj20ht05aq3o.jpg"></p>
+<p><br>
+Reference: http://www.ruanyifeng.com/blog/2014/02/ssl_tls.html
+<br></p>
 <hr></div>
             
         <div class="art_copy">
@@ -153,7 +158,7 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
 
         
     <!-- Duoshuo Comment BEGIN -->
-    <div class="ds-thread" data-thread-key="1392903687.0" data-title="&lt;bound method Post.title of &lt;nikola.post.Post object at 0xa93298c&gt;&gt;" data-author-key="zhukite"></div>
+    <div class="ds-thread" data-thread-key="1392903687.0" data-title="&lt;bound method Post.title of &lt;nikola.post.Post object at 0x93b798c&gt;&gt;" data-author-key="zhukite"></div>
     <script type="text/javascript">
     var duoshuoQuery = {short_name:"zhukite"};
     (function() {
