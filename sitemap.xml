@@ -11,12 +11,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/</loc>
-  <lastmod>2014-02-21</lastmod>
+  <lastmod>2014-02-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/index.html</loc>
-  <lastmod>2014-02-21</lastmod>
+  <lastmod>2014-02-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -31,7 +31,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/chuang-yi.html</loc>
-  <lastmod>2014-02-18</lastmod>
+  <lastmod>2014-02-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -121,7 +121,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-1.html</loc>
-  <lastmod>2014-02-21</lastmod>
+  <lastmod>2014-02-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -131,7 +131,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2014-02-21</lastmod>
+  <lastmod>2014-02-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -211,7 +211,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/ssl_tsl-protocol.html</loc>
-  <lastmod>2014-02-21</lastmod>
+  <lastmod>2014-02-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -222,6 +222,11 @@
  <url>
   <loc>http://zhukite.github.io/posts/xi-cang-xin-jiang-hui-yi-lu.html</loc>
   <lastmod>2014-02-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/posts/yin-di-zhi-yi-de-zhi-hui.html</loc>
+  <lastmod>2014-02-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
