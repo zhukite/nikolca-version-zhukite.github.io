@@ -51,7 +51,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/it.html</loc>
-  <lastmod>2014-02-21</lastmod>
+  <lastmod>2014-02-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -182,6 +182,11 @@
  <url>
   <loc>http://zhukite.github.io/posts/mp4-convert-to-gif.html</loc>
   <lastmod>2014-02-20</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/posts/new-zeus-variant-targeting-salesforcecom.html</loc>
+  <lastmod>2014-02-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
