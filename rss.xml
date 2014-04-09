@@ -1,5 +1,39 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveler</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Sun, 23 Feb 2014 18:44:27 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Zeus木马新变种感染SaaS厂商Salesforce.com</title><link>http://zhukite.github.io//posts/new-zeus-variant-targeting-salesforcecom.html</link><description>&lt;div&gt;&lt;h4&gt;Zeus木马以往是攻击银行网站（你懂的，钱嘛），现在第一次针对SaaS（软件即服务）的应用进行攻击，其中最早开启SaaS模式的厂商salesforce的一名雇员的家庭电脑近日受到新变种的zeus木马感染。攻击的手法也很有巧妙，绕过避开了公司的安全监控，在该雇员的家庭电脑实施感染攻击。&lt;/h4&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveler</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Wed, 09 Apr 2014 19:37:30 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>circle hainan island(环海南岛海岸线) plan</title><link>http://zhukite.github.io//posts/circle-hainan-island.html</link><description>&lt;h4&gt;写个大概计划,逆时针骑车环一周&lt;/h4&gt;
+&lt;ul&gt;&lt;li&gt;
+&lt;p&gt;D1 海口—福山—S306—临高——峨蔓镇（龙门激浪）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;D2 峨蔓镇（龙门激浪）——三都镇——洋浦—（过海）---白马井-x504-排浦镇--海头（南港码头过海）--海尾--棋子湾（壹号公馆）（营）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;D3 棋子湾---昌城--（过海）三家镇--墩头港--八所铁路博物馆&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;D4 八所---感城—莺歌海镇（营）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;D5 莺歌海---三亚—（红纱过渡）--安游镇&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;D6 安游镇--亚龙湾--海棠湾—英州—(国道223转入23省道)--新村镇-（38.5km过海渡）--南湾猴岛--—陵水（24km）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;D7 陵水---香水湾--分界洲-石梅湾---南燕湾—神州半岛--x435—东澳村—乌场港（吃海鲜）---大花角---春园湾（营）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;D8 春园湾--x432-（13km）-港北码头（轮渡）--和乐（快到国道岔路的“海鲜大排档”吃蟹粥）--道桥村--龙滚村（x428）培兰--博鳌--（桥or过渡）—谭门（54km）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;D9 谭门--龙湾港—长坡---冯家湾---会文--高隆湾—清澜码头—东郊---龙楼---铜鼓角（营）（90km）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;D10 铜鼓角—昌洒--翁田---景心角--抱虎角—沿着海岸线--木兰角（营）&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;D11 木兰角—铺前—海口&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;</description><category>travel</category><guid>http://zhukite.github.io//posts/circle-hainan-island.html</guid><pubDate>Wed, 09 Apr 2014 19:28:43 GMT</pubDate></item><item><title>Zeus木马新变种感染SaaS厂商Salesforce.com</title><link>http://zhukite.github.io//posts/new-zeus-variant-targeting-salesforcecom.html</link><description>&lt;div&gt;&lt;h4&gt;Zeus木马以往是攻击银行网站（你懂的，钱嘛），现在第一次针对SaaS（软件即服务）的应用进行攻击，其中最早开启SaaS模式的厂商salesforce的一名雇员的家庭电脑近日受到新变种的zeus木马感染。攻击的手法也很有巧妙，绕过避开了公司的安全监控，在该雇员的家庭电脑实施感染攻击。&lt;/h4&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h4&gt;adollom实验团队称这攻击方式是下地雷，当攻击者埋下“地雷”在这位公司雇员的不受公司控制的个人设备里来获取公司的资源信息，攻击者现在绕过传统的安全防范措施，等待感染者连接公司*.my.salesforce.com，通过这个被感染的用户的设备来盗取公司数据。这次zeus攻击是利用了一旦用户已经通过身份验证，便合理地建立终端用户和salesforce.com的互相信任关系这个条件。This is not an exploit of a Salesforce.com vulnerability（所以说为条件，不是漏洞）。&lt;/h4&gt;
 &lt;p&gt;&lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/new-zeus-variant-targeting-salesforcecom.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><guid>http://zhukite.github.io//posts/new-zeus-variant-targeting-salesforcecom.html</guid><pubDate>Sun, 23 Feb 2014 16:43:59 GMT</pubDate></item><item><title>因地制宜的智慧</title><link>http://zhukite.github.io//posts/yin-di-zhi-yi-de-zhi-hui.html</link><description>&lt;div&gt;&lt;h4&gt;在TED那里看到一视频《特殊环境里不同寻常的房子》 ，讲述建筑师Iwan Baan走遍全球，见证各地没有受过任何建筑培训的居民们，如何以各种独特的方式设计了自己的生活空间，深感人类是种适应性极其强大的生物，散播到哪里，就在哪里扎根壮大。即使处在贫民窟人们都会努力营造一种家的氛围，让个性在有限的空间里实现最大化，钢筋水泥森林在这种自然生长的社区面前是多么苍白呀！&lt;/h4&gt;
@@ -43,7 +77,4 @@
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;所谓Security，也就是数据的隐私和不泄露。就目前而言，看到的云存储解决的都是Availability，而不是Security。Security解决的是私密和不泄露的问题。
- &lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/safety-and-security.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>IT</category><guid>http://zhukite.github.io//posts/safety-and-security.html</guid><pubDate>Mon, 10 Feb 2014 11:21:46 GMT</pubDate></item><item><title>回乡偶书</title><link>http://zhukite.github.io//posts/hui-xiang-ou-shu.html</link><description>&lt;div&gt;&lt;h3&gt;差不多有十多年没回去故乡过年，今年趁毕业前回去看看。&lt;/h3&gt;
-&lt;h3&gt;见闻略述一二如下：&lt;/h3&gt;
-&lt;h3&gt;作为一个自行车运动爱好者，第一个见闻是发现骑山地车的普及，其实跟广东绿道建设也有一定关系，沿着潭江边的，沿着围基的，沿着田野的，串联起开平雕楼村落，南楼，赤坎古镇等景点。乡村田野上常常看到骑着自行车出游的，还有盛开的那么一小撮地方的油菜花吸引了那些自驾游的人来拍照，菜农当然见钱开眼，向他们收取门票，10块一张。所谓“周瑜打黄盖——一个愿打一个愿挨”，果然钱多人傻，不少人就在里面自拍起来。&lt;/h3&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/hui-xiang-ou-shu.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>travel</category><guid>http://zhukite.github.io//posts/hui-xiang-ou-shu.html</guid><pubDate>Sun, 09 Feb 2014 19:43:30 GMT</pubDate></item></channel></rss>
+ &lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/safety-and-security.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>IT</category><guid>http://zhukite.github.io//posts/safety-and-security.html</guid><pubDate>Mon, 10 Feb 2014 11:21:46 GMT</pubDate></item></channel></rss>
