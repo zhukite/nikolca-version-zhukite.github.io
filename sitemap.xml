@@ -11,12 +11,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/</loc>
-  <lastmod>2014-04-09</lastmod>
+  <lastmod>2014-04-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/index.html</loc>
-  <lastmod>2014-04-09</lastmod>
+  <lastmod>2014-04-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -61,7 +61,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/travel-1.html</loc>
-  <lastmod>2014-04-09</lastmod>
+  <lastmod>2014-04-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -71,7 +71,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/travel.html</loc>
-  <lastmod>2014-04-09</lastmod>
+  <lastmod>2014-04-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -126,12 +126,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-2.html</loc>
-  <lastmod>2014-04-09</lastmod>
+  <lastmod>2014-04-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2014-04-09</lastmod>
+  <lastmod>2014-04-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -161,7 +161,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/circle-hainan-island.html</loc>
-  <lastmod>2014-04-09</lastmod>
+  <lastmod>2014-04-23</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/posts/cycle-hainan-island.html</loc>
+  <lastmod>2014-04-23</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
