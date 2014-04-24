@@ -3,7 +3,7 @@
 .. description: 
 .. tags: travel
 .. date: 2014/04/23 22:29:48
-.. title: 环海南岛海岸线考察日志
+.. title: 环海南岛海岸线考察日志(cycle Hainan Island)
 .. slug: cycle-hainan-island
 -->
 
@@ -196,8 +196,64 @@
 <br/>
  呢次玩得够晒野，最后因为知道东北方向是个浅滩，所以头顶举着照相机和手机浮渡上岸，感觉我们两个像执行任务的海军陆战队队员潜入军事禁区进行侦察偷袭一样。说实在雷达站那班孙子圈地建了个后花园在大花角，此地山高皇帝远想干嘛就干嘛。
 　　
+<br/>
+   <br/>
+  <img src="http://ww4.sinaimg.cn/mw1024/67804861gw1efqimpr4nmj21kw23uk6z.jpg" width="750"/>
 
-<br/><br/>精彩待续。。。。。。
    <br/>
   <img src="http://ww3.sinaimg.cn/mw1024/67804861gw1efpo0kc69zj20gr0mcgoh.jpg" width="750"/>
+<br/><br/>
+　　
+下午跟来自香港和深圳的潜水爱好者出海打渔，大花角东面对出的海域海水非常清澈，是一个很好的潜水观光地方，可以看到海底的珊瑚，如此优质的海水质量也是鱼类生活的好地方，可惜当地人不珍惜这片美好的海域，贪婪和急功近利驱使人们采用放炮炸鱼的野蛮方式来过度掠夺海域的生物资源，即使政府明令禁止炸鱼，但是渔业监管不足，明令也只是一纸空文发挥不了实效。
 <br/>
+   <br/>
+  <img src="http://ww2.sinaimg.cn/mw1024/67804861gw1efqimrydgnj21kw23undv.jpg" width="750"/>
+<br/><br/>
+　　梭鱼俗称海狼，当地人放炸炮在这边杀了一大批，我们也顺手捞了几条还活着的。听渔民说炸一批实际只是捞捕到3成，其余7成的沉在海底等着烂死。
+<br/>
+   <br/>
+  <img src="http://ww3.sinaimg.cn/mw1024/67804861gw1efqimttar7j21kw23u7ef.jpg" width="750"/>
+<br/><br/>
+
+ * * *
+
+### Day 9，在东线的第5天
+<br/>
+  <img src="http://ww4.sinaimg.cn/mw1024/67804861gw1efpvkaiwgsj20p018gagf.jpg" width="750"/>
+<br/><br/>
+看日出后继续骑行出发
+<br/>
+  <img src="http://ww3.sinaimg.cn/mw1024/67804861gw1efqimv1vu2j21kw23utf3.jpg" width="750"/>
+<br/><br/>
+今天的路很轻松，骑友也非常多，因为这条路基本上大家都会走，过海去港北是最便宜1块搞掂。一路骑去博鳌，在海岸线走得久以致于看海都觉得麻木了，玉带滩吹吹风睡个午觉还是挺舒服的。博鳌到潭门镇的大桥已经修通了，所以省却绕路搭船的麻烦。原先想在潭门镇过夜，可是时间还太早就继续向北到长坡，冯家湾，冯家湾看上去像是个没落的海滩旅游区，感觉很普通。到了会文快天黑了，遇上一位当地的骑友，盛情邀请我到他家做客吃饭，大家聊天分享我的环岛经历。
+<br/><br/>
+  <img src="http://ww3.sinaimg.cn/mw1024/67804861gw1efqimx7zznj21kw23u7q4.jpg" width="750"/>
+<br/><br/>
+
+### Day 10，东线第6天，
+今天轻松路，路过高隆湾，过清澜港，这条路也是很多骑友选择的线路。在东郊椰林里面骑车是凉爽舒服的，经过龙楼，未来的火箭发射基地。石头公园跟大花角比逊色多了，但是铜鼓岭还是不错，骑上去俯瞰月亮湾风景很美。上面景点太脏了，所以不露营回去龙楼过夜。
+<br/><br/>
+  <img src="http://ww4.sinaimg.cn/mw1024/67804861gw1efqiv2mjahj21kw16ogs7.jpg" width="750"/>
+<br/>
+<br/>
+  <img src="http://ww1.sinaimg.cn/mw1024/67804861gw1efqimzipnaj21kw23uqr9.jpg" width="750"/>
+<br/><br/>
+
+ * * *
+ 
+### Day 11-12，东线第7、8天，
+<br/>
+  <img src="http://ww4.sinaimg.cn/mw1024/67804861gw1efpvkavai3j218g0p0459.jpg" width="750"/>
+<br/><br/>
+今天有两个选择，或是直接飞奔回海口，或者先去最北端再折回去，这得耗多半天。走了一条新路车子非常少，骑车很爽，到25km处就断了，扎进林场里面，在松林骑车别有一番乐趣，一直到翁田出来林场吃午餐，然后去了景心角，再折回来问路去抱虎角，这条路Google地图没有，只显示村子名，我猜会有村村通道路，猜中了在里面小道一路穿梭，天气也是阴凉给力，整体来看今天是个骑行好天气。
+<br/>
+  <img src="http://ww3.sinaimg.cn/mw1024/67804861gw1efqin1bh5fj21kw23u13p.jpg" width="750"/>
+<br/><br/>
+ <img src="http://ww4.sinaimg.cn/mw1024/67804861gw1efqin2zo52j21kw23udt4.jpg" width="750"/>
+<br/><br/>
+　　终于去到海南岛的木兰湾，灯塔就在海南角——海南岛最北端看日落西海岸。夜宿铺前，最后一天过海骑回海口，环岛结束！
+<br/><br/>
+ <img src="http://ww1.sinaimg.cn/mw1024/67804861gw1efqiv6740hj21kw16o120.jpg" width="750"/>
+<br/>
+
+ * * *
