@@ -165,6 +165,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://zhukite.github.io/posts/captcha-and-turing.html</loc>
+  <lastmod>2014-04-28</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://zhukite.github.io/posts/ce.html</loc>
   <lastmod>2014-02-18</lastmod>
   <priority>0.5000</priority>
