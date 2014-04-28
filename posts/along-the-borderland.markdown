@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags: travel, 新疆 ，西藏， 云南
+.. tags: travel , 新疆 , 西藏 , 云南
 .. date: 2014/04/28 09:24:36
 .. title: along the borderland(走在边境线上)
 .. slug: along-the-borderland
