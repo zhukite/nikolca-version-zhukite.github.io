@@ -11,7 +11,7 @@
 <br/>
 <!-- TEASER_END -->
 ### 地图说明：黑色虚线是长途火车线路；蓝线（blue）则是以骑自行车（cycling）为主的旅程，当然也夹杂有徒步越野（hiking＆trekking）和搭顺风车 or bus or 短途火车（short-trip train）；红线（red）则以徒步+顺风车为主的旅程，夹杂有爬山越野（hiking＆trekking）。多样化的旅行方式，自然有多样的体验和收获。                                                                                                                                                                                                                                                                                   
-<img src="http://ww1.sinaimg.cn/large/67804861gw1edfrrbus49j20qo0hy7ee.jpg" width="750"/>
+<img src="http://ww1.sinaimg.cn/large/67804861gw1edfrrbus49j20qo0hy7ee.jpg" width="700"/>
 <br/>
 <br/>
 

@@ -13,12 +13,12 @@
     hugin
 ### 测试了两张图片，当时骑上帕米尔高原时拍下的昆仑山脉，分别拿西昆仑里面著名的两座山峰————公格尔九别峰和“冰山之父”之称的慕士塔格峰。
 <!-- TEASER_END -->
-<img src="http://ww4.sinaimg.cn/mw1024/67804861gw1ecqisnl15tj21kw0ci0xs.jpg" width="750"/>
+<img src="http://ww4.sinaimg.cn/mw1024/67804861gw1ecqisnl15tj21kw0ci0xs.jpg" width="700"/>
 <br/><br/>
-<img src="http://ww4.sinaimg.cn/mw1024/67804861gw1ecqismygrej21kw0ci77y.jpg" width="750"/>
+<img src="http://ww4.sinaimg.cn/mw1024/67804861gw1ecqismygrej21kw0ci77y.jpg" width="700"/>
 <br/><br/>
 ### 合并成为180度全景照
-<img src="http://ww3.sinaimg.cn/large/67804861gw1ecqiv4q8fjj21kw07aq5z.jpg" width="750"/>
+<img src="http://ww3.sinaimg.cn/large/67804861gw1ecqiv4q8fjj21kw07aq5z.jpg" width="700"/>
 <br/><br/>
 * * *
 ### Reference:
