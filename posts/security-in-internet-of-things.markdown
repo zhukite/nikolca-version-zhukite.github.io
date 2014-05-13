@@ -17,3 +17,5 @@
  -  在隐私安全方面是个大问题，在<a href="http://zhukite.github.io/posts/safety-and-security.html" target="_blank">safety and security</a>也谈过。这方面小型初创团队可以做这方面，毕竟大头们都忙着搞云端项目，比较少涉猎到私有云这方面，就算有也是类公开的“私有云”，真正私有云，应该是私人定制的解决方案，满足用户隐私保密的要求。
 
 ### the last not the least,并不一定是做安全产品，也可以是打着安全名义出相关产品，让安全成为自己产品的亮点，这样搞，市场就更大了。
+
+ * * *
