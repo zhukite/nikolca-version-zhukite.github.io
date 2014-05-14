@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags: 广西
+.. tags: travel ,  广西
 .. date: 2014/05/14 19:26:56
 .. title: photo of Guangxi
 .. slug: guangxi-photo
