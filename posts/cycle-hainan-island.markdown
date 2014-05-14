@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags: travel
+.. tags: travel ,  海南
 .. date: 2014/04/23 22:29:48
 .. title: 环海南岛海岸线考察日志(cycle Hainan Island)
 .. slug: cycle-hainan-island

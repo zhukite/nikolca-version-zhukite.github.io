@@ -11,12 +11,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/</loc>
-  <lastmod>2014-05-05</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/index.html</loc>
-  <lastmod>2014-05-05</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -26,17 +26,17 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/</loc>
-  <lastmod>2014-04-28</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/chuang-yi.html</loc>
-  <lastmod>2014-05-05</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/du-shu.html</loc>
-  <lastmod>2014-04-28</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -45,13 +45,18 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://zhukite.github.io/categories/hai-nan.html</loc>
+  <lastmod>2014-05-14</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://zhukite.github.io/categories/index.html</loc>
-  <lastmod>2014-04-28</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/it.html</loc>
-  <lastmod>2014-05-13</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -61,7 +66,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/travel-1.html</loc>
-  <lastmod>2014-05-13</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -71,7 +76,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/travel.html</loc>
-  <lastmod>2014-05-13</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -81,7 +86,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/ubuntu.html</loc>
-  <lastmod>2014-05-13</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -91,7 +96,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/xi-cang.html</loc>
-  <lastmod>2014-05-13</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -101,17 +106,17 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/xin-jiang.html</loc>
-  <lastmod>2014-05-13</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/yan-xi.html</loc>
-  <lastmod>2014-01-21</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/yun-nan.html</loc>
-  <lastmod>2014-05-13</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -126,17 +131,17 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-1.html</loc>
-  <lastmod>2014-05-13</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index-2.html</loc>
-  <lastmod>2014-05-13</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2014-05-13</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -181,7 +186,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/cycle-hainan-island.html</loc>
-  <lastmod>2014-05-13</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -192,6 +197,11 @@
  <url>
   <loc>http://zhukite.github.io/posts/du-ou-wen-la-tie-mo-er-de-zhong-guo-de-ya-zhou-nei-lu-bian-jiang.html</loc>
   <lastmod>2014-05-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/posts/guangxi-photo.html</loc>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -256,7 +266,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/start-up-nation.html</loc>
-  <lastmod>2014-05-13</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -281,7 +291,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/zhong-yue-yan-bian-yan-hai.html</loc>
-  <lastmod>2014-05-13</lastmod>
+  <lastmod>2014-05-14</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
