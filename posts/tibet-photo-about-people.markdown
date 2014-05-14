@@ -10,6 +10,7 @@
 
 ## 西藏之行，人物篇继续
 <br/>
+<!-- TEASER_END -->
 
 ### Maria's family
 <div align="center"><img src="http://ww3.sinaimg.cn/bmiddle/67804861gw1ege6xubmcij21kw16o7kf.jpg"  width="500" align="center"/></div>
@@ -21,7 +22,7 @@
 <div align="center"><img src="http://ww3.sinaimg.cn/bmiddle/67804861gw1ege6y4kq1zj21kw16oay9.jpg"  width="500" align="center"/></div>
 <br/>
 <br/>
-<!-- TEASER_END -->
+
 <br/>
 
 ### 小牛吃得好着急
