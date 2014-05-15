@@ -18,6 +18,24 @@
 <br/>
 <br/>
 
+### 这个是搭车的妹子
+<div align="center"><img src="http://ww1.sinaimg.cn/bmiddle/67804861gw1ege6zjzqp0j21kw16owvi.jpg"  width="500" align="center"/></div>
+<br/>
+<br/>
+<br/>
+
+### 准备溜索
+<div align="center"><img src="http://ww1.sinaimg.cn/bmiddle/67804861gw1ege6znbeahj21kw16odz2.jpg"  width="500" align="center"/></div>
+<br/>
+<br/>
+<br/>
+
+### 自驾游的家庭
+<div align="center"><img src="http://ww1.sinaimg.cn/bmiddle/67804861gw1ege70dpa5oj21kw16onhp.jpg"  width="500" align="center"/></div>
+<br/>
+<br/>
+<br/>
+
 ### 怒江大桥上吹风聊天的藏族兄弟
 <div align="center"><img src="http://ww3.sinaimg.cn/bmiddle/67804861gw1ege6y4kq1zj21kw16oay9.jpg"  width="500" align="center"/></div>
 <br/>
@@ -49,29 +67,7 @@
 <br/>
 <br/>
 
-### 这个是搭车的妹子
-<div align="center"><img src="http://ww1.sinaimg.cn/bmiddle/67804861gw1ege6zjzqp0j21kw16owvi.jpg"  width="500" align="center"/></div>
-<br/>
-<br/>
-<br/>
 
-### 准备溜索
-<div align="center"><img src="http://ww1.sinaimg.cn/bmiddle/67804861gw1ege6znbeahj21kw16odz2.jpg"  width="500" align="center"/></div>
-<br/>
-<br/>
-<br/>
-
-### 自驾游的家庭
-<div align="center"><img src="http://ww1.sinaimg.cn/bmiddle/67804861gw1ege70dpa5oj21kw16onhp.jpg"  width="500" align="center"/></div>
-<br/>
-<br/>
-<br/>
-
-### 翻过阿鲁腊卡山
-<div align="center"><img src="http://ww3.sinaimg.cn/bmiddle/67804861gw1ege5j5hbnbj21kw16oqn9.jpg"  width="500" align="center"/></div>
-<br/>
-<br/>
-<br/>
 
 ### 挖手掌参的藏民家庭
 <div align="center"><img src="http://ww2.sinaimg.cn/bmiddle/67804861gw1ege72rykl5j21kw16o1kx.jpg"  width="500" align="center"/></div>
