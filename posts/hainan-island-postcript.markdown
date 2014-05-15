@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 海南 骑行 环岛 反思
-.. tags: travel
+.. tags: travel ,  海南
 .. date: 2014/05/02 09:40:29
 .. title: 环岛之后记（hainan island postcript）
 .. slug: hainan-island-postcript
