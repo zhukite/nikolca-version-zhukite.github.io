@@ -6,17 +6,17 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://zhukite.github.io/</loc>
-  <lastmod>2014-02-10</lastmod>
+  <lastmod>2014-05-15</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/</loc>
-  <lastmod>2014-05-14</lastmod>
+  <lastmod>2014-05-15</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/index.html</loc>
-  <lastmod>2014-05-14</lastmod>
+  <lastmod>2014-05-15</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -46,7 +46,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/hai-nan.html</loc>
-  <lastmod>2014-05-14</lastmod>
+  <lastmod>2014-05-15</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -66,7 +66,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/travel-1.html</loc>
-  <lastmod>2014-05-14</lastmod>
+  <lastmod>2014-05-15</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -106,7 +106,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/xin-jiang.html</loc>
-  <lastmod>2014-05-14</lastmod>
+  <lastmod>2014-05-15</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -136,7 +136,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-2.html</loc>
-  <lastmod>2014-05-14</lastmod>
+  <lastmod>2014-05-15</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/index-3.html</loc>
+  <lastmod>2014-05-15</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -206,7 +211,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/hainan-island-postcript.html</loc>
-  <lastmod>2014-05-13</lastmod>
+  <lastmod>2014-05-15</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -257,6 +262,11 @@
  <url>
   <loc>http://zhukite.github.io/posts/simplicity-can-be-beautiful.html</loc>
   <lastmod>2014-05-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/posts/sinkiang-photo.html</loc>
+  <lastmod>2014-05-15</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
