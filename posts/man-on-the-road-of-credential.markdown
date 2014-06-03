@@ -1,0 +1,39 @@
+<!-- 
+.. link: 
+.. description: 
+.. tags: travel
+.. date: 2014/06/03 13:19:41
+.. title: man on the road (of credential)
+.. slug: man-on-the-road-of-credential
+-->
+
+### man on the road (of credential)这个题目直接翻译是“人在征（证）途”，下一步计划跟<a href="http://zhukite.github.io/posts/line-of-actual-control.html" target="_blank">边界实控线</a>有关，免不了办理边防证，为了避免爱国愤青喷我，就不放图了，看细节就点<a href="http://zhukite.github.io/posts/line-of-actual-control.html" target="_blank">边界实控线</a>。
+<br/>
+
+### 结合本人证途感受讲讲边境通行证的办理流程，在户籍所在地办理的情况：
+
+<!-- TEASER_END -->
+
+  -    1、下载表格：<a href="https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0CCEQFjAA&url=%68%74%74%70%3a%2f%2f%77%77%77%2e%67%7a%6f%6e%6c%69%6e%65%2e%67%6f%76%2e%63%6e%2f%73%78%67%6c%2f%66%69%6c%65%2f%75%70%6c%6f%61%64%2f%62%37%66%64%37%64%61%31%31%38%34%38%34%30%33%33%38%31%64%36%39%33%33%36%34%37%30%38%64%35%39%63%2e%64%6f%63&ei=6WuNU8SNI9fr8AWa8IGQAQ&usg=AFQjCNEg6NV-YD8MxqnUVplAhP1_7LeRyQ&bvm=bv.68191837,d.dGc" target="_blank">在广州办理的《边境通行证》申请表</a>或者在办证中心免费领取，填好信息，把要去的地方做好功课，是争议边境地区就得办，其实也就只有西藏和新疆地区，因为中国与邻国部分国界还没谈判好和没划清楚。
+<br/><br/>
+
+  -    2、找工作单位的保卫处盖章在申请表上。辞职无业，更好办，直接下一步去派出所；单位没保卫处的就找老板or领导签名，有单位公司公章就可以。学生的话，很多学校是不批免谈，自己发挥小宇宙想办法。
+<br/><br/>
+
+ -    3、交申请表、身份证复印件、户口本地址页复印件、个人所在页复印件给户籍所在地的派出所，跟住有派出所有回执给你，等一天后凭回执领盖好章的申请表，节假日就相应推后。
+<br/><br/>
+
+ -    4、带上身份证、申请表、身份证复印件， 去户籍所在的区 的办证中心办边境通行证，例如天河、越秀、海珠等等。现在边境通行证有效期只能办一个月的。现在办证的Madan服务态度都很nice，办事速度很快，后面还跟Madan聊聊旅游的。
+<br/>
+<div align="center"><img src="http://ww1.sinaimg.cn/bmiddle/67804861gw1eh0tpm3rgbj20k00qo75y.jpg"  width="700" align="center"/></div>
+<br/>
+<br/>
+
+ * * *
+ 
+### 第二种情况就是去西藏旅游的在西藏拉萨办，具体不清楚，没亲身经历不发表。
+<br/>
+
+### 在新疆旅游的，需要办理边防证的地方：塔什库尔干（在喀什边防支队办理，10元，效率很高，即办即拿）和走新藏线的（在叶城办进阿里的边防证，效率也不错，10元；到了狮泉河再办后半程的边防证）。
+
+ * * *
