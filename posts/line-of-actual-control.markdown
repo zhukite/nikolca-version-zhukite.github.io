@@ -82,7 +82,7 @@
 ### 人们对于自己已拥有的就不会过于在意，而不在自己手里的则念念不忘，这种心理放在藏南地区一样成立。当年作为战术战役胜利方的中国，军队从喜马拉雅山巅反击冲下印度平原，最后选择回撤。在那时候的情况下，我觉得是作出最优的选择，从地形来看守住制高点，守住世界屋脊以及屋脊的屋脊，总比大摊饼式占领来得重要。人心向归还是看经济水平和生活质量。
 
 <br/><br/>
-Reference:<a href="hhttp://www.economist.com/blogs/dailychart/2011/05/indian_pakistani_and_chinese_border_disputes" target="_blank">Indian, Pakistani and Chinese border disputes
+Reference:<a href="http://www.economist.com/blogs/dailychart/2011/05/indian_pakistani_and_chinese_border_disputes" target="_blank">Indian, Pakistani and Chinese border disputes
 ---Fantasy frontiers</a>
 
 
