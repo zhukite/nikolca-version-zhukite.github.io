@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags: 读书
+.. tags: 读书 , 西藏
 .. date: 2014/06/09 18:41:32
 .. title: 《雪域求法记》后感
 .. slug: xue-yu-qiu-fa-ji
