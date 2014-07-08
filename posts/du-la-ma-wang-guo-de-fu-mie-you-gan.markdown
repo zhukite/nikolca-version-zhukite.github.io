@@ -3,8 +3,8 @@
 .. description: 
 .. tags: 读书 ,  西藏
 .. date: 2014/07/08 13:19:39
-.. title: 读《喇嘛王覆灭》有感
-.. slug: du-la-ma-wang-fu-mie-you-gan
+.. title: 读《喇嘛王国的覆灭》有感
+.. slug: du-la-ma-wang-guo-de-fu-mie-you-gan
 -->
 
 ### 继续保持去一次旅行读一本书的传统，因为是去西藏喜马拉雅山边境，拣来拣去挑了本《喇嘛王国的覆灭》上路，大砖头一来为飞机和火车旅途解闷，二来可以当枕头。
