@@ -6,17 +6,17 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://zhukite.github.io/</loc>
-  <lastmod>2014-07-08</lastmod>
+  <lastmod>2014-07-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/</loc>
-  <lastmod>2014-07-08</lastmod>
+  <lastmod>2014-07-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/index.html</loc>
-  <lastmod>2014-07-08</lastmod>
+  <lastmod>2014-07-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -46,7 +46,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/google.html</loc>
-  <lastmod>2014-06-06</lastmod>
+  <lastmod>2014-07-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -61,7 +61,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/it.html</loc>
-  <lastmod>2014-06-02</lastmod>
+  <lastmod>2014-07-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -130,6 +130,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://zhukite.github.io/evil.html</loc>
+  <lastmod>2014-07-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://zhukite.github.io/galleries/</loc>
   <lastmod>2014-01-08</lastmod>
   <priority>0.5000</priority>
@@ -151,12 +156,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-3.html</loc>
-  <lastmod>2014-07-08</lastmod>
+  <lastmod>2014-07-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2014-07-08</lastmod>
+  <lastmod>2014-07-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -211,7 +216,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/du-la-ma-wang-guo-de-fu-mie-you-gan.html</loc>
-  <lastmod>2014-07-08</lastmod>
+  <lastmod>2014-07-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -272,6 +277,11 @@
  <url>
   <loc>http://zhukite.github.io/posts/pa-mi-er-gao-yuan.html</loc>
   <lastmod>2014-07-08</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/posts/play-google-xss-game.html</loc>
+  <lastmod>2014-07-13</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
