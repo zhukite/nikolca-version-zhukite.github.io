@@ -8,7 +8,7 @@
 -->
 
 
-### 玩下google的xss游戏，总共六关，打完就是这个画面
+### 玩下google的xss游戏，总共六关，打完就是这个画面,进入<a href="https://xss-game.appspot.com//" target="_blank">需要翻墙</a>
 <br/>
  <img src="http://ww2.sinaimg.cn/mw1024/67804861tw1eibhts69eaj20h50h5did.jpg" width="700"/>
 <br/>
