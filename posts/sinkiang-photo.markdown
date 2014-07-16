@@ -9,7 +9,7 @@
 
 ## 新疆行程：西安--乌鲁木齐--天山独库公路（独山子--库车）--阿克苏--喀什--塔什库尔干--库乡（帕米尔高原）--叶城--库尔勒
 <br/>
-  <!-- TEASER_END -->
+  
 
 
 ### 西安--乌鲁木齐,火车在柳园
@@ -23,6 +23,8 @@
 <br/>
 <br/>
 <br/>
+
+<!-- TEASER_END -->
 
 ### 那么多羊，前晚吃羊肉了
 <div align="center"><img src="http://ww4.sinaimg.cn/mw1024/67804861gw1egeozx48qnj21kw16oaze.jpg"  width="500" align="center"/></div>

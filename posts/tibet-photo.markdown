@@ -9,7 +9,7 @@
 
 ## 西藏的行程：从云南贡山出发，骑进迪麻洛，翻过阿鲁腊卡山，下到丙中洛的双拉，骑行丙察察线（丙中洛-察瓦龙-察隅），察隅--古玉乡--然乌--米堆冰川--波密--通麦--八一--派镇（雅鲁藏布江）--直白（南迦巴瓦峰）--拉萨--羊卓雍错--江孜。
 <br/>
-<!-- TEASER_END -->
+
 
 ### 翻过阿鲁腊卡山
 <div align="center"><img src="http://ww3.sinaimg.cn/bmiddle/67804861gw1ege5j5hbnbj21kw16oqn9.jpg"  width="500" align="center"/></div>
@@ -28,6 +28,8 @@
 <br/>
 <br/>
 <br/>
+
+<!-- TEASER_END -->
 
 ### 发绿的沼泽
 <div align="center"><img src="http://ww1.sinaimg.cn/bmiddle/67804861gw1ege54513azj21kw16oe2p.jpg"  width="500" align="center"/></div>

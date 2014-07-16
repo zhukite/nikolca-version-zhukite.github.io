@@ -10,7 +10,7 @@
 
 ## 西藏之行，人物篇继续
 <br/>
-<!-- TEASER_END -->
+
 
 ### Maria's family
 <div align="center"><img src="http://ww3.sinaimg.cn/bmiddle/67804861gw1ege6xubmcij21kw16o7kf.jpg"  width="500" align="center"/></div>
@@ -29,6 +29,8 @@
 <br/>
 <br/>
 <br/>
+
+<!-- TEASER_END -->
 
 ### 自驾游的家庭
 <div align="center"><img src="http://ww1.sinaimg.cn/bmiddle/67804861gw1ege70dpa5oj21kw16onhp.jpg"  width="500" align="center"/></div>
