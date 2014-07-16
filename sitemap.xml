@@ -11,12 +11,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/</loc>
-  <lastmod>2014-07-13</lastmod>
+  <lastmod>2014-07-17</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/index.html</loc>
-  <lastmod>2014-07-13</lastmod>
+  <lastmod>2014-07-17</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -26,7 +26,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/</loc>
-  <lastmod>2014-07-07</lastmod>
+  <lastmod>2014-07-17</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -60,8 +60,13 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://zhukite.github.io/categories/it-1.html</loc>
+  <lastmod>2014-07-17</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://zhukite.github.io/categories/it.html</loc>
-  <lastmod>2014-07-13</lastmod>
+  <lastmod>2014-07-17</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -96,7 +101,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/ubuntu.html</loc>
-  <lastmod>2014-06-02</lastmod>
+  <lastmod>2014-07-17</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -156,12 +161,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-3.html</loc>
-  <lastmod>2014-07-13</lastmod>
+  <lastmod>2014-07-17</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2014-07-13</lastmod>
+  <lastmod>2014-07-17</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -245,6 +250,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://zhukite.github.io/posts/install-and-configure-goagent-at-ubuntu.html</loc>
+  <lastmod>2014-07-17</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://zhukite.github.io/posts/jian-nan-de-yi-yue.html</loc>
   <lastmod>2014-07-08</lastmod>
   <priority>0.5000</priority>
@@ -281,7 +291,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/play-google-xss-game.html</loc>
-  <lastmod>2014-07-13</lastmod>
+  <lastmod>2014-07-17</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
