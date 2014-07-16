@@ -31,6 +31,10 @@
     $cd server & python uploader.zip
     
 ### 完成python服务器端上传，便会看到一个头部信息，会显示你刚输入的app_id信息等，其实就是proxy.ini中的[gae]信息。之后会提示你输入Gmail 和 your Gmail password.
+<br/>
+ <img src="http://ww2.sinaimg.cn/mw1024/67804861tw1eif61dkr9aj20i10bkjta.jpg" width="700"/>
+<br/>
+<br/>
 
 # 布置完成！！！
 
@@ -38,13 +42,17 @@
 
     $ python proxy.py
 
+<br/>
+ <img src="http://ww1.sinaimg.cn/mw1024/67804861tw1eif61dzuqwj20go04pgmb.jpg" width="700"/>
+<br/>
+<br/>
 ### 因为github是使用https协议，对于goagent来说，需要先将安装证书，在Linux下，直接增加到   /etc/ssl/certs/ca-certificates.crt  。。如： 
 
     # cat CA.crt >> /etc/ssl/certs/ca-certificates.crt
 
 ### 即可.
 
-### 然后使用命令:
+### 然后完成各种git命令:
 
     $ https_proxy=127.0.0.1:8087 git .....
     

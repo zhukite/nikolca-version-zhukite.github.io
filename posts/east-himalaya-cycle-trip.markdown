@@ -14,7 +14,7 @@
 
 ### 匆忙赶上拉萨东归广州的列车，56个小时成为最后回味缓冲时间。不罗嗦，去片！
 
-<!-- TEASER_END -->
+
 <br/>
  <br/>
 ### 飞越横断山脉
@@ -32,6 +32,8 @@
 ### 横渡雅鲁藏布江前
  <img src="http://ww3.sinaimg.cn/mw1024/67804861gw1ei4h6apzrhj21kw16oaoq.jpg" width="700"/>
 <br/>
+
+<!-- TEASER_END -->
 
 <br/>
  <br/>
