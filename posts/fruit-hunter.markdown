@@ -12,7 +12,7 @@
 
 
 <!-- TEASER_END -->
-
+<br/>
 
 ### 影片题材源自书本《水果猎人》————关于一个热爱水果的加拿大年轻人走访热带国家，寻找珍奇水果，拜访“只食水果的人”，深究水果、果实的真谛，乃至伊甸园的归属。
 
@@ -22,6 +22,10 @@
 
 <br/>
 <embed src="http://player.youku.com/player.php/sid/XNjYxNDQ0MTky/v.swf" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
+
+
+<br/>
+### Reference: <a href="http://book.douban.com/subject/6397533/">豆瓣读书《水果猎人》</a>
 
  * * *
  
