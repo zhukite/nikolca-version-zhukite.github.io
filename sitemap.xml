@@ -11,12 +11,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/</loc>
-  <lastmod>2014-07-17</lastmod>
+  <lastmod>2014-07-29</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/index.html</loc>
-  <lastmod>2014-07-17</lastmod>
+  <lastmod>2014-07-29</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -36,7 +36,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/du-shu.html</loc>
-  <lastmod>2014-07-08</lastmod>
+  <lastmod>2014-07-29</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -161,12 +161,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-3.html</loc>
-  <lastmod>2014-07-17</lastmod>
+  <lastmod>2014-07-29</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2014-07-17</lastmod>
+  <lastmod>2014-07-29</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -235,6 +235,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://zhukite.github.io/posts/fruit-hunter.html</loc>
+  <lastmod>2014-07-29</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://zhukite.github.io/posts/guangxi-photo.html</loc>
   <lastmod>2014-07-08</lastmod>
   <priority>0.5000</priority>
@@ -251,7 +256,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/install-and-configure-goagent-at-ubuntu.html</loc>
-  <lastmod>2014-07-17</lastmod>
+  <lastmod>2014-07-29</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
