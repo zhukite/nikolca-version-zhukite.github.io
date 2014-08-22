@@ -1,0 +1,36 @@
+## -*- coding: utf-8 -*-
+<%!
+    import json
+    import time
+%>
+<%def name="html_disqus(post)">
+    <!-- Duoshuo Comment BEGIN -->
+    <div class="ds-thread" data-thread-key="${time.mktime(time.strptime(post.meta('date'),'%Y/%m/%d %H:%M:%S'))}" 
+    data-title="${post.title}" data-author-key="${blog_author}"></div>
+    <script type="text/javascript">
+    var duoshuoQuery = {short_name:"${g_blog_duo_shuo_short_name}"};
+    (function() {
+        var ds = document.createElement('script');
+        ds.type = 'text/javascript';ds.async = true;
+        ds.src = 'http://static.duoshuo.com/embed.js';
+        ds.charset = 'UTF-8';
+        (document.getElementsByTagName('head')[0] 
+        || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+    </script>
+    <!-- Duoshuo Comment END -->
+    <span id="post-comments"></span>
+</%def>
+
+<%def name="html_disqus_link(link, identifier)">
+    <p>
+    %if disqus_forum:
+    %endif
+</%def>
+
+
+<%def name="html_disqus_script()">
+    %if disqus_forum:
+       
+    %endif
+</%def>
