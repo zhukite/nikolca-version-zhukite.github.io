@@ -93,10 +93,10 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 # (the same way you would do with a (translatable) setting.)
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/it.html", "IT"),
-        ("/travel.html", "旅行"),
-	("/chuang-yi.html", "创意"),
-	("/about.html", "关于我"),
+        ("/categories/it.html", "IT"),
+        ("/categories/travel.html", "旅行"),
+	("/categories/chuang-yi.html", "创意"),
+	("/stories/about.html", "关于我"),
         ("/rss.xml", "RSS"),
     ),
 }
