@@ -11,12 +11,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/</loc>
-  <lastmod>2014-07-29</lastmod>
+  <lastmod>2014-08-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/index.html</loc>
-  <lastmod>2014-08-23</lastmod>
+  <lastmod>2014-08-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -61,12 +61,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/it-1.html</loc>
-  <lastmod>2014-08-23</lastmod>
+  <lastmod>2014-08-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/it.html</loc>
-  <lastmod>2014-08-23</lastmod>
+  <lastmod>2014-08-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -101,7 +101,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/ubuntu.html</loc>
-  <lastmod>2014-08-23</lastmod>
+  <lastmod>2014-08-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -161,12 +161,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-3.html</loc>
-  <lastmod>2014-08-23</lastmod>
+  <lastmod>2014-08-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2014-08-23</lastmod>
+  <lastmod>2014-08-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -236,7 +236,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/fruit-hunter.html</loc>
-  <lastmod>2014-08-23</lastmod>
+  <lastmod>2014-08-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -347,6 +347,11 @@
  <url>
   <loc>http://zhukite.github.io/posts/tibet-photo.html</loc>
   <lastmod>2014-08-23</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/posts/use-nikola-to-build-a-blog-at-ubuntu and mount on gitpage.html</loc>
+  <lastmod>2014-08-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>

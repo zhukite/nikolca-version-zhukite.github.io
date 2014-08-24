@@ -31,6 +31,76 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
         
         <div class="article_box">
             <div class="article_title">
+                <h3><a href="../posts/use-nikola-to-build-a-blog-at-ubuntu%20and%20mount%20on%20gitpage.html">use nikola to build a blog at ubuntu and mount on gitpage</a></h3>
+                <div class="comment_num comment_highlight">
+                    <a href="../posts/use-nikola-to-build-a-blog-at-ubuntu%20and%20mount%20on%20gitpage.html#post-comments" title="">
+                    <span data-thread-key="1408877761.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
+                    </a>
+                </div>
+            </div>
+            <div class="entry ">
+                <div><h3>好记性不如烂笔头，还是记录下整个静态博客搭建在github的流程。</h3>
+<h4>我用的OS是ubuntu12.04，先安装python-pip，python-dev，在ubuntu安装很简单，输入</h4>
+<div class="code"><pre><span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">install</span> <span class="n">python</span><span class="o">-</span><span class="n">pip</span> 
+<span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">install</span> <span class="n">python</span><span class="o">-</span><span class="n">dev</span>
+</pre></div>
+
+
+<h4>就可以。 按照nikola执行</h4>
+<div class="code"><pre><span class="n">pip</span> <span class="n">install</span> <span class="n">nikola</span>
+</pre></div>
+
+
+<h4>注意：可能在执行安装nikola操作的时候会出现libxml/libxslt errors的报错。</h4>
+<h4>那就需要先安装libxml2-dev和libslt1-dev,</h4>
+<div class="code"><pre><span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">install</span> <span class="n">libxml2</span><span class="o">-</span><span class="n">dev</span>
+<span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">isntall</span> <span class="n">libslt1</span><span class="o">-</span><span class="n">dev</span>
+</pre></div>
+
+
+<h4>我的实际情况是在去年装的版本是nikola 6.0.1版本，现在（2014.8.23）nikola版本是7.0.1了，导致我原来的博客主题themes一些文件和变量发生变化，在进行nikola build的时候报错不能执行下去。</h4>
+<h4>所以将version 6.0.1的nikola安装包git上去我的一个repo那里。</h4>
+<h4>按照前面把libxml2-dev和libslt1-dev安装好后，执行nikola的安装，需要加sudo权限</h4>
+<div class="code"><pre><span class="n">sudo</span> <span class="n">pip</span> <span class="n">install</span> <span class="n">https</span><span class="o">:</span><span class="c1">//github.com/zhukite/nikola-install/archive/master.zip</span>
+</pre></div>
+
+
+<h4>nikola安装完成！因为我原来一些post是用markdown写的，所以要装多个附加依赖包，</h4>
+<div class="code"><pre><span class="n">sudo</span> <span class="n">pip</span> <span class="n">install</span> <span class="n">nikola</span> <span class="n">markdown</span>
+</pre></div>
+
+
+<h4>接下来就新建一个文件夹，在里面新建个website;</h4>
+<div class="code"><pre><span class="n">nikola</span> <span class="n">init</span>
+</pre></div>
+
+
+<h4>然后新建一个post，</h4>
+<div class="code"><pre><span class="n">nikola</span> <span class="n">new_post</span> <span class="o">-</span><span class="n">f</span> <span class="n">markdown</span>
+</pre></div>
+
+
+<h4>编译则是nikola build;</h4>
+<h4>本地查看网站效果，可用 nikola serve, 使用下面地址浏览 http://localhost:8000 。</h4>
+<h4>Nikola操作手册有详细描写：<a href="http://getnikola.com/handbook.html" target="_blank">The Nikola Handbook</a>。</h4>
+<h4>nikola build后的网站展示的内容是放在output,最后，只要把mysite下面的output文件夹，push到GitHub上面即可。</h4>
+<p class="more"><a href="../posts/use-nikola-to-build-a-blog-at-ubuntu%20and%20mount%20on%20gitpage.html">阅读全文…</a></p></div>
+            </div>
+            <ul class="article_info"><!--
+                 <li class="cate"></li>
+                 <li class="vote"></li>
+                 --><li class="tag">
+                    <ul class="tags_list"><li>
+                            <a href="#" rel="tag">IT</a>
+                        </li>
+                        <li>
+                            <a href="ubuntu.html" rel="tag">ubuntu</a>
+                        </li>
+                    </ul></li>
+                <li class="date">2014-08-24 18:56</li>
+            </ul></div>
+        <div class="article_box">
+            <div class="article_title">
                 <h3><a href="../posts/install-and-configure-goagent-at-ubuntu.html">在Ubuntu环境安装配置GoAgent</a></h3>
                 <div class="comment_num comment_highlight">
                     <a href="../posts/install-and-configure-goagent-at-ubuntu.html#post-comments" title="">
@@ -288,49 +358,6 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
                         </li>
                     </ul></li>
                 <li class="date">2014-01-21 01:58</li>
-            </ul></div>
-        <div class="article_box">
-            <div class="article_title">
-                <h3><a href="../posts/random-image-of-head.html">博客封面图片随机变换</a></h3>
-                <div class="comment_num comment_highlight">
-                    <a href="../posts/random-image-of-head.html#post-comments" title="">
-                    <span data-thread-key="1390110075.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
-                    </a>
-                </div>
-            </div>
-            <div class="entry ">
-                <div><h4>博客头部的随机变化的封面背景，通过javascript和CSS一起实现起来并不难，下面是相应的javascript代码：<br></h4>
-<h4>下面这段代码放在html的头部head中，</h4>
-<div class="code"><pre><span class="nt">&lt;script</span> <span class="na">language=</span><span class="s">"JavaScript"</span> <span class="na">type=</span><span class="s">"text/javascript"</span> <span class="nt">&gt;</span>
-    var imgNameList=new Array();
-    imgNameList.push("/1000x226_01.JPG");
-    imgNameList.push("/1000x226_02.JPG");
-    imgNameList.push("/1000x226_03.JPG");
-    imgNameList.push("/1000x226_04.JPG");
-    imgNameList.push("/1000x226_05.JPG");
-    imgNameList.push("/1000x226_06.JPG");
-<span class="nt">&lt;/script&gt;</span>
-</pre></div>
-
-
-<h4>下面这段放在html的body中,</h4>
-<div class="code"><pre><span class="nt">&lt;script&gt;</span>
-document.write("<span class="nt">&lt;style&gt;</span>#aaa {background: url("+imgNameList<span class="cp">[</span><span class="nx">parseInt</span><span class="p">(</span><span class="nx">Math.random</span><span class="p">()</span><span class="o">*</span><span class="nx">imgNameList.length</span><span class="p">)</span><span class="cp">]</span>+");}<span class="err">&lt;</span>\/style&gt;");
-<span class="nt">&lt;/script&gt;</span>
-</pre></div>
-
-
-<p></p><p class="more"><a href="../posts/random-image-of-head.html">阅读全文…</a></p></div>
-            </div>
-            <ul class="article_info"><!--
-                 <li class="cate"></li>
-                 <li class="vote"></li>
-                 --><li class="tag">
-                    <ul class="tags_list"><li>
-                            <a href="#" rel="tag">IT</a>
-                        </li>
-                    </ul></li>
-                <li class="date">2014-01-19 13:41</li>
             </ul></div>
     
 <div class="pager_box">

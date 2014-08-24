@@ -31,6 +31,49 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
         
         <div class="article_box">
             <div class="article_title">
+                <h3><a href="../posts/random-image-of-head.html">博客封面图片随机变换</a></h3>
+                <div class="comment_num comment_highlight">
+                    <a href="../posts/random-image-of-head.html#post-comments" title="">
+                    <span data-thread-key="1390110075.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
+                    </a>
+                </div>
+            </div>
+            <div class="entry ">
+                <div><h4>博客头部的随机变化的封面背景，通过javascript和CSS一起实现起来并不难，下面是相应的javascript代码：<br></h4>
+<h4>下面这段代码放在html的头部head中，</h4>
+<div class="code"><pre><span class="nt">&lt;script</span> <span class="na">language=</span><span class="s">"JavaScript"</span> <span class="na">type=</span><span class="s">"text/javascript"</span> <span class="nt">&gt;</span>
+    var imgNameList=new Array();
+    imgNameList.push("/1000x226_01.JPG");
+    imgNameList.push("/1000x226_02.JPG");
+    imgNameList.push("/1000x226_03.JPG");
+    imgNameList.push("/1000x226_04.JPG");
+    imgNameList.push("/1000x226_05.JPG");
+    imgNameList.push("/1000x226_06.JPG");
+<span class="nt">&lt;/script&gt;</span>
+</pre></div>
+
+
+<h4>下面这段放在html的body中,</h4>
+<div class="code"><pre><span class="nt">&lt;script&gt;</span>
+document.write("<span class="nt">&lt;style&gt;</span>#aaa {background: url("+imgNameList<span class="cp">[</span><span class="nx">parseInt</span><span class="p">(</span><span class="nx">Math.random</span><span class="p">()</span><span class="o">*</span><span class="nx">imgNameList.length</span><span class="p">)</span><span class="cp">]</span>+");}<span class="err">&lt;</span>\/style&gt;");
+<span class="nt">&lt;/script&gt;</span>
+</pre></div>
+
+
+<p></p><p class="more"><a href="../posts/random-image-of-head.html">阅读全文…</a></p></div>
+            </div>
+            <ul class="article_info"><!--
+                 <li class="cate"></li>
+                 <li class="vote"></li>
+                 --><li class="tag">
+                    <ul class="tags_list"><li>
+                            <a href="it.html" rel="tag">IT</a>
+                        </li>
+                    </ul></li>
+                <li class="date">2014-01-19 13:41</li>
+            </ul></div>
+        <div class="article_box">
+            <div class="article_title">
                 <h3><a href="../posts/ce.html">测</a></h3>
                 <div class="comment_num comment_highlight">
                     <a href="../posts/ce.html#post-comments" title="">

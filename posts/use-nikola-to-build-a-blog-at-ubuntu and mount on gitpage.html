@@ -1,0 +1,223 @@
+<!DOCTYPE html><html lang="zh_cn"><head><meta charset="utf-8"><meta name="description" content=""><meta name="author" content="zhukite"><title>use nikola to build a blog at ubuntu and mount on gitpage | pseudo traveller</title><link href="../assets/css/style.css" rel="stylesheet" type="text/css"><link href="../assets/css/rst.css" rel="stylesheet" type="text/css"><link href="../assets/css/code.css" rel="stylesheet" type="text/css"><link href="../assets/css/myrst.css" rel="stylesheet" type="text/css"><link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml"><link rel="icon" href="../50x49.png" sizes="50x49"><script src="../assets/js/jquery.js" type="text/javascript"></script><script language="JavaScript" type="text/javascript">
+	var imgNameList=new Array();
+	imgNameList.push("/1000x226_01.JPG");
+	imgNameList.push("/1000x226_02.JPG");
+	imgNameList.push("/1000x226_03.JPG");
+	imgNameList.push("/1000x226_04.JPG");
+	imgNameList.push("/1000x226_05.JPG");
+	imgNameList.push("/1000x226_06.JPG");
+</script></head><body>
+<!-- Menubar -->
+<div class="header">
+<script>
+document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random()*imgNameList.length)]+");}<\/style>");
+</script><div class="header_box" id="aaa">
+            <h1 class="logo" id="logo"><a href="../">pseudo traveller</a>
+            </h1>
+            <ul class="main_nav" id="mainNav"><li><a href="../categories/it.html">IT</a>
+                </li><li><a href="../categories/travel.html">旅行</a>
+                </li><li><a href="../categories/chuang-yi.html">创意</a>
+                </li><li><a href="../stories/about.html">关于我</a>
+                </li><li class="rss"><a href="../rss.xml">RSS</a>
+
+            </li></ul></div>
+</div>
+<!-- End of Menubar -->
+<div class="content clearfix">
+    <!--Body content-->
+    
+
+    <div class="con_left" id="conLeft">
+        
+    <div class="article_box">
+    	<div class="article_title">
+    		
+    <h3>use nikola to build a blog at ubuntu and mount on gitpage</h3>
+
+    	</div>
+	    <div class="entry ">                    
+		    	<h3>好记性不如烂笔头，还是记录下整个静态博客搭建在github的流程。</h3>
+<h4>我用的OS是ubuntu12.04，先安装python-pip，python-dev，在ubuntu安装很简单，输入</h4>
+<div class="code"><pre><span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">install</span> <span class="n">python</span><span class="o">-</span><span class="n">pip</span> 
+<span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">install</span> <span class="n">python</span><span class="o">-</span><span class="n">dev</span>
+</pre></div>
+
+
+<h4>就可以。 按照nikola执行</h4>
+<div class="code"><pre><span class="n">pip</span> <span class="n">install</span> <span class="n">nikola</span>
+</pre></div>
+
+
+<h4>注意：可能在执行安装nikola操作的时候会出现libxml/libxslt errors的报错。</h4>
+<h4>那就需要先安装libxml2-dev和libslt1-dev,</h4>
+<div class="code"><pre><span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">install</span> <span class="n">libxml2</span><span class="o">-</span><span class="n">dev</span>
+<span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">isntall</span> <span class="n">libslt1</span><span class="o">-</span><span class="n">dev</span>
+</pre></div>
+
+
+<h4>我的实际情况是在去年装的版本是nikola 6.0.1版本，现在（2014.8.23）nikola版本是7.0.1了，导致我原来的博客主题themes一些文件和变量发生变化，在进行nikola build的时候报错不能执行下去。</h4>
+<h4>所以将version 6.0.1的nikola安装包git上去我的一个repo那里。</h4>
+<h4>按照前面把libxml2-dev和libslt1-dev安装好后，执行nikola的安装，需要加sudo权限</h4>
+<div class="code"><pre><span class="n">sudo</span> <span class="n">pip</span> <span class="n">install</span> <span class="n">https</span><span class="o">:</span><span class="c1">//github.com/zhukite/nikola-install/archive/master.zip</span>
+</pre></div>
+
+
+<h4>nikola安装完成！因为我原来一些post是用markdown写的，所以要装多个附加依赖包，</h4>
+<div class="code"><pre><span class="n">sudo</span> <span class="n">pip</span> <span class="n">install</span> <span class="n">nikola</span> <span class="n">markdown</span>
+</pre></div>
+
+
+<h4>接下来就新建一个文件夹，在里面新建个website;</h4>
+<div class="code"><pre><span class="n">nikola</span> <span class="n">init</span>
+</pre></div>
+
+
+<h4>然后新建一个post，</h4>
+<div class="code"><pre><span class="n">nikola</span> <span class="n">new_post</span> <span class="o">-</span><span class="n">f</span> <span class="n">markdown</span>
+</pre></div>
+
+
+<h4>编译则是nikola build;</h4>
+<h4>本地查看网站效果，可用 nikola serve, 使用下面地址浏览 http://localhost:8000 。</h4>
+<h4>Nikola操作手册有详细描写：<a href="http://getnikola.com/handbook.html" target="_blank">The Nikola Handbook</a>。</h4>
+<h4>nikola build后的网站展示的内容是放在output,最后，只要把mysite下面的output文件夹，push到GitHub上面即可。</h4>
+<!-- TEASER_END -->
+
+<p>================================================================================</p>
+<h4>在github注册一个帐号，顺便验证（verify）用户名，不然上传的东西没显示，网站出现404. 然后new 一个repo，命名username.github.io,(例如：zhukite.github.io).</h4>
+<h4>nikola build后的网站展示的内容是放在output,所以, cd output,</h4>
+<h4>先初始化 git init 。</h4>
+<h4>本地local branch默认是master，git add --all, git commit -m "first commit", 这样把output文件夹下所有文件都放在本地分支的master。</h4>
+<h4>接下来指定remote branch例如我的：</h4>
+<div class="code"><pre><span class="n">git</span> <span class="n">remote</span> <span class="n">add</span> <span class="n">origin</span> <span class="n">https</span><span class="o">:</span><span class="c1">//github.com/zhukite/zhukite.github.io.git</span>
+</pre></div>
+
+
+<h4>再把local branch 的文件push到remote branch：</h4>
+<div class="code"><pre><span class="n">git</span> <span class="n">push</span> <span class="o">-</span><span class="n">u</span> <span class="n">origin</span> <span class="n">master</span>
+</pre></div>
+
+
+<h4>提示输入你的github帐号和密码。</h4>
+<h4>打开浏览器输入xxxxxxx.github.io，就看到刚建的网站出来见人了～～</h4>
+<hr></div>
+            
+        <div class="art_copy">
+            
+    <!-- Social buttons -->
+	<div class="bshare-custom icon-medium-plus"><div class="bsPromo bsPromo2"></div><b>喜欢这篇文章就分享:</b> <a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到微信" class="bshare-weixin"></a><a title="分享到Facebook" class="bshare-facebook" href="javascript:void(0);"></a><a title="分享到Twitter" class="bshare-twitter" href="javascript:void(0);"></a><a title="分享到人人网" class="bshare-renren" href="javascript:void(0);"></a><a title="分享到腾讯微博" class="bshare-qqmb" href="javascript:void(0);"></a><span class="BSHARE_COUNT bshare-share-count" style="float: none;">24.6K</span></div><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script><!-- End of social buttons --><p>如需转载请链接原文地址：http://zhukite.github.io//posts/use-nikola-to-build-a-blog-at-ubuntu and mount on gitpage.html</p>
+                 
+        </div>
+	    <ul class="article_info"><!--
+             <li class="cate"></li>
+             <li class="vote"></li>
+             --><li class="tag">
+                <ul class="tags_list"><li>
+                        <a href="../categories/it.html" rel="tag">IT</a>
+                    </li>
+                    <li>
+                        <a href="../categories/ubuntu.html" rel="tag">ubuntu</a>
+                    </li>
+                </ul></li>
+             <li class="date">2014-08-24 18:56</li>
+        </ul></div>
+
+	
+    <div class="art_nav">
+        <div class="previous">
+            上一篇：
+            <a href="fruit-hunter.html" rel="prev">水果猎人</a>
+        </div>
+    </div>
+
+
+        
+    <!-- Duoshuo Comment BEGIN -->
+    <div class="ds-thread" data-thread-key="1408877761.0" data-title="&lt;bound method Post.title of &lt;nikola.post.Post object at 0xa8fcb2c&gt;&gt;" data-author-key="zhukite"></div>
+    <script type="text/javascript">
+    var duoshuoQuery = {short_name:"zhukite"};
+    (function() {
+        var ds = document.createElement('script');
+        ds.type = 'text/javascript';ds.async = true;
+        ds.src = 'http://static.duoshuo.com/embed.js';
+        ds.charset = 'UTF-8';
+        (document.getElementsByTagName('head')[0] 
+        || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+    </script><!-- Duoshuo Comment END --><span id="post-comments"></span>
+
+
+    </div>
+    <div class="con_right">
+        <div class="about_box">
+            <a href="../stories/about.html" target="_blank" class="avatar_box"><img src="../100x100.png" width="100" height="100" alt="头像"></a>
+            <div class="info">
+                <h3><a href="../stories/about.html" target="_blank">zhukite</a></h3>
+                <p>IT coder, Traveler, in 广州</p>
+            </div>
+        </div>
+        
+		<div class="side_box">
+           	 微博：<a href="http://weibo.com/zhukite" target="_blank">@zhukite</a>
+        	</div>
+        	<div class="side_box">
+            	Facebook：<a href="https://www.facebook.com/kite.zhu.3" target="_blank">zhukite</a>
+        	</div>
+		<div class="side_box">
+            	文章：<a href="http://zhukite.github.io/archive.html" target="_blank">归档</a>
+        	</div>
+	
+        
+        <ul class="cate_box" id="cateBox"><li class="categories">文章分类
+                <ul><li class="cat-item "><a href="javascript:void(0)" title="查看下的所有文章"><span class="num">0</span>加载中……</a>
+                   </li>
+                </ul></li>
+        </ul></div>
+
+    <!--End of body content-->
+</div>
+<div class="footer">
+    Contents © 2014         <a href="mailto:zhukite@hotmail.com">zhukite</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a> 
+</div>
+<div id="goTop" class="go_top" title="返回顶部"></div>
+
+
+    
+ <script>
+        $(function(){
+            //文章分类
+            $.getJSON("/assets/js/tag_cloud_data.json", function( data ){
+                var items=[];
+                $.each(data,function(name,numAndUrl){
+                    var liTmpl='<li class="cat-item "><a href="$url" title="查看 $title 下的所有文章"><span class="num">$num</span>$tag</a></li>';
+                    liTmpl = liTmpl.replace("$url",numAndUrl[1]).replace("$num",numAndUrl[0]).replace("$title",name).replace("$tag",name);
+                    items.push(liTmpl);
+                });
+                $("#cateBox .categories ul").html(items.join(''));
+            });
+        });
+  </script><script>
+        $(function(){
+            //回到顶部
+            $(window).scroll(function(){  
+                    var scrollt = document.documentElement.scrollTop + document.body.scrollTop; //获取滚动后的高度 
+                    if( scrollt >200 ){  //判断滚动后高度超过200px,就显示  
+                        $("#goTop").fadeIn(400); //淡出     
+                    }else{      
+                        $("#goTop").stop().fadeOut(400); //如果返回或者没有超过,就淡入.必须加上stop()停止之前动画,否则会出现闪动   
+                    }
+            });
+
+            $("#goTop").click(function(){ 
+                    $("html,body").animate({scrollTop:"0px"},500);
+            });
+            //滚到评论
+            var hash = window.location.hash;
+            if(hash&&$(hash).length==1){
+                $('html,body').animate({
+                        scrollTop: $(hash).offset().top
+                        },1000);
+            }
+
+        });
+    </script><!-- Social buttons --><!-- End of social buttons --><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000257069'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s96.cnzz.com/z_stat.php%3Fid%3D1000257069%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script></body></html>
