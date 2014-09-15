@@ -1,5 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveller</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Thu, 11 Sep 2014 23:22:06 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>use nikola to build a blog at ubuntu and mount on gitpage</title><link>http://zhukite.github.io//posts/use-nikola-to-build-a-blog-at-ubuntu and mount on gitpage.html</link><description>&lt;div&gt;&lt;h3&gt;好记性不如烂笔头，还是记录下整个静态博客搭建在github的流程。&lt;/h3&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveller</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Tue, 16 Sep 2014 00:31:52 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>epic style travel picture</title><link>http://zhukite.github.io//posts/epic-style-picture.html</link><description>&lt;h3&gt;所谓欧美风旅行照片，就是拥有史诗般大气（相对日系清新风）——来自《设计目录》的解读。&lt;/h3&gt;
+&lt;h4&gt;1、光、云、雾；&lt;/h4&gt;
+&lt;h4&gt;2、为风景敢于爬山涉水，无限风光在险峰；&lt;/h4&gt;
+&lt;h4&gt;3、悬崖边倒立，冷水湖中，。。。。各种疯狂匪夷所思的行为；&lt;/h4&gt;
+&lt;h4&gt;4、人是渺小的，大自然是伟大的&lt;/h4&gt;
+&lt;h4&gt;5、环境表达心情，而非表情&lt;/h4&gt;
+&lt;h4&gt;......&lt;/h4&gt;
+&lt;p&gt;&lt;br&gt;&lt;img src="http://ww1.sinaimg.cn/large/67804861gw1ekdkkohn12j21kw07a0vq.jpg" width="760"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://ww3.sinaimg.cn/mw1024/67804861gw1ekdkio6jc3j21kw16oahp.jpg" width="720"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://ww1.sinaimg.cn/mw1024/67804861gw1ekdkiv5o82j21kw16onau.jpg" width="720"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://ww2.sinaimg.cn/mw1024/67804861gw1ekdkj5a9s3j21kw16ogyo.jpg" width="720"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;img src="http://ww2.sinaimg.cn/mw1024/67804861gw1ekdkj31hrrj21kw16onc1.jpg" width="720"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;img src="http://ww4.sinaimg.cn/mw1024/67804861gw1ekdkjacd45j21kw2dce5a.jpg" width="720"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://ww4.sinaimg.cn/mw1024/67804861gw1ekdklhit2dj21kw16o7fb.jpg" width="720"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src="http://ww4.sinaimg.cn/mw1024/67804861gw1ekdm7ekxw1j21kw16on55.jpg" width="720"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;img src="http://ww1.sinaimg.cn/large/67804861gw1ekdm7wo1p6j21kw0ci780.jpg" width="760"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;img src="http://ww3.sinaimg.cn/mw1024/67804861gw1ekdm8aik3uj21kw16ok5u.jpg" width="720"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;img src="http://ww2.sinaimg.cn/mw1024/67804861gw1ekdmfsnkksj21kw16oqic.jpg" width="720"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;img src="http://ww1.sinaimg.cn/mw1024/67804861gw1ekdmfvrgyij21kw16oaig.jpg" width="720"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;img src="http://ww1.sinaimg.cn/mw1024/67804861gw1ekdmfz217ej21kw16o10c.jpg" width="720"&gt;&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;</description><category>travel</category><guid>http://zhukite.github.io//posts/epic-style-picture.html</guid><pubDate>Mon, 15 Sep 2014 23:46:22 GMT</pubDate></item><item><title>use nikola to build a blog at ubuntu and mount on gitpage</title><link>http://zhukite.github.io//posts/use-nikola-to-build-a-blog-at-ubuntu and mount on gitpage.html</link><description>&lt;div&gt;&lt;h3&gt;好记性不如烂笔头，还是记录下整个静态博客搭建在github的流程。&lt;/h3&gt;
 &lt;h4&gt;我用的OS是ubuntu12.04，先安装python-pip，python-dev，在ubuntu安装很简单，输入&lt;/h4&gt;
 &lt;div class="code"&gt;&lt;pre&gt;&lt;span class="n"&gt;sudo&lt;/span&gt; &lt;span class="n"&gt;apt&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;get&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="n"&gt;python&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;pip&lt;/span&gt; 
 &lt;span class="n"&gt;sudo&lt;/span&gt; &lt;span class="n"&gt;apt&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;get&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="n"&gt;python&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;dev&lt;/span&gt;
@@ -73,10 +98,4 @@
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h4&gt;当前中国、巴基斯坦、印度边界现状，红色字体解析,首先解析所有出现的claimed在这里就指一方单方面意淫主张这地是自己一方的。（Area ceded by Pakistan to China,即是说克勒青河谷这块地，汇集K2等著名高峰和冰川的地区，巴铁送给中国）。（Area held by China,阿克赛钦这块地中国控制着）。下面（Disputed areas，borders是指巴里加斯这片地区是争议地区，中印两边对峙着）。在图右边，东段就是藏南。&lt;/h4&gt;
 &lt;p&gt;&lt;/p&gt;&lt;div align="center"&gt;&lt;img src="http://ww2.sinaimg.cn/mw1024/67804861jw1eh3qhojw7cj20gh0bpwfy.jpg" width="700" align="center"&gt;&lt;/div&gt;
-&lt;br&gt;&lt;br&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/line-of-actual-control.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>travel</category><category>Google</category><guid>http://zhukite.github.io//posts/line-of-actual-control.html</guid><pubDate>Mon, 02 Jun 2014 09:02:36 GMT</pubDate></item><item><title>sinkiang photo</title><link>http://zhukite.github.io//posts/sinkiang-photo.html</link><description>&lt;div&gt;&lt;h3&gt;新疆行程：西安--乌鲁木齐--天山独库公路（独山子--库车）--阿克苏--喀什--塔什库尔干--库乡（帕米尔高原）--叶城--库尔勒&lt;/h3&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;西安--乌鲁木齐,火车在柳园&lt;/h4&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div align="center"&gt;&lt;img src="http://ww2.sinaimg.cn/mw1024/67804861gw1egeozlgqpgj21kw16odrd.jpg" width="500" align="center"&gt;&lt;/div&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;h4&gt;天山路&lt;/h4&gt;
-&lt;p&gt;&lt;/p&gt;&lt;div align="center"&gt;&lt;img src="http://ww1.sinaimg.cn/mw1024/67804861gw1egeozt78y7j21kw16oqh1.jpg" width="500" align="center"&gt;&lt;/div&gt;
-&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/sinkiang-photo.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>travel</category><category>新疆</category><guid>http://zhukite.github.io//posts/sinkiang-photo.html</guid><pubDate>Thu, 15 May 2014 09:09:14 GMT</pubDate></item></channel></rss>
+&lt;br&gt;&lt;br&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/line-of-actual-control.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>travel</category><category>Google</category><guid>http://zhukite.github.io//posts/line-of-actual-control.html</guid><pubDate>Mon, 02 Jun 2014 09:02:36 GMT</pubDate></item></channel></rss>

@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://zhukite.github.io/</loc>
-  <lastmod>2014-08-23</lastmod>
+  <lastmod>2014-09-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -76,12 +76,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/travel-1.html</loc>
-  <lastmod>2014-09-12</lastmod>
+  <lastmod>2014-09-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/travel-2.html</loc>
-  <lastmod>2014-09-12</lastmod>
+  <lastmod>2014-09-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -91,7 +91,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/travel.html</loc>
-  <lastmod>2014-09-12</lastmod>
+  <lastmod>2014-09-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -161,12 +161,17 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-3.html</loc>
-  <lastmod>2014-09-12</lastmod>
+  <lastmod>2014-09-16</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/index-4.html</loc>
+  <lastmod>2014-09-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2014-09-12</lastmod>
+  <lastmod>2014-09-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -232,6 +237,11 @@
  <url>
   <loc>http://zhukite.github.io/posts/east-himalaya-cycle-trip.html</loc>
   <lastmod>2014-09-12</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/posts/epic-style-picture.html</loc>
+  <lastmod>2014-09-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -351,7 +361,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/use-nikola-to-build-a-blog-at-ubuntu and mount on gitpage.html</loc>
-  <lastmod>2014-09-12</lastmod>
+  <lastmod>2014-09-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
