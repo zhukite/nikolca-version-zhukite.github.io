@@ -11,12 +11,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/</loc>
-  <lastmod>2014-10-08</lastmod>
+  <lastmod>2014-11-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/index.html</loc>
-  <lastmod>2014-10-08</lastmod>
+  <lastmod>2014-11-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -76,12 +76,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/travel-1.html</loc>
-  <lastmod>2014-09-16</lastmod>
+  <lastmod>2014-11-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/travel-2.html</loc>
-  <lastmod>2014-09-16</lastmod>
+  <lastmod>2014-11-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -91,7 +91,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/travel.html</loc>
-  <lastmod>2014-09-16</lastmod>
+  <lastmod>2014-11-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -166,12 +166,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-4.html</loc>
-  <lastmod>2014-09-16</lastmod>
+  <lastmod>2014-11-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2014-09-16</lastmod>
+  <lastmod>2014-11-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -241,7 +241,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/epic-style-picture.html</loc>
-  <lastmod>2014-09-16</lastmod>
+  <lastmod>2014-11-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -322,6 +322,11 @@
  <url>
   <loc>http://zhukite.github.io/posts/security-in-internet-of-things.html</loc>
   <lastmod>2014-09-12</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/posts/seize-the-day.html</loc>
+  <lastmod>2014-11-24</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
