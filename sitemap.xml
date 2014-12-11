@@ -11,12 +11,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/</loc>
-  <lastmod>2014-11-24</lastmod>
+  <lastmod>2014-12-11</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/index.html</loc>
-  <lastmod>2014-11-24</lastmod>
+  <lastmod>2014-12-11</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -166,12 +166,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-4.html</loc>
-  <lastmod>2014-11-24</lastmod>
+  <lastmod>2014-12-11</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2014-11-24</lastmod>
+  <lastmod>2014-12-11</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -247,6 +247,11 @@
  <url>
   <loc>http://zhukite.github.io/posts/fruit-hunter.html</loc>
   <lastmod>2014-09-12</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/posts/funny-movie-wood-job.html</loc>
+  <lastmod>2014-12-11</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -326,7 +331,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/seize-the-day.html</loc>
-  <lastmod>2014-11-24</lastmod>
+  <lastmod>2014-12-11</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
