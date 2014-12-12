@@ -96,7 +96,7 @@ NAVIGATION_LINKS = {
         ("/categories/it.html", "IT"),
         ("/categories/travel.html", "旅行"),
 	("/categories/chuang-yi.html", "创意"),
-	("/stories/about.html", "关于我"),
+	("/archive.html", "归档"),
         ("/rss.xml", "RSS"),
     ),
 }
@@ -793,9 +793,7 @@ GLOBAL_CONTEXT = {
         	<div class="side_box">
             	Facebook：<a href="https://www.facebook.com/kite.zhu.3" target="_blank">zhukite</a>
         	</div>
-		<div class="side_box">
-            	文章：<a href="http://zhukite.github.io/archive.html" target="_blank">归档</a>
-        	</div>
+		
 	""",
 	"g_blog_duo_shuo_short_name":"zhukite"
 }
