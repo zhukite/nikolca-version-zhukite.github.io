@@ -23,7 +23,7 @@
 ### 那就需要先安装libxml2-dev和libslt1-dev,
 
     sudo apt-get install libxml2-dev
-    sudo apt-get isntall libslt1-dev
+    sudo apt-get install libxslt1-dev
 
 ### 我的实际情况是在去年装的版本是nikola 6.0.1版本，现在（2014.8.23）nikola版本是7.0.1了，导致我原来的博客主题themes一些文件和变量发生变化，在进行nikola build的时候报错不能执行下去。
 
