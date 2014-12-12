@@ -22,7 +22,7 @@
 
 <br/>
 
-### 原理其实就是把整个本地的nikola搬到“云端”的vms，在远端的部署方式与在 Linux 上基本一致。按照自己写过的<a href="http://zhukite.github.io/posts/use-nikola-to-build-a-blog-at-ubuntu%20and%20mount%20on%20gitpage.html" target="_blank">nikola配置步骤和手册</a>配置。
+### 原理其实就是把整个本地的nikola搬到“云端”的vms，在远端的部署方式与在 Linux 上基本一致。按照自己写过的<a href="http://zhukite.github.io/posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html" target="_blank">nikola配置步骤和手册</a>配置。
 
 <br/>
 
