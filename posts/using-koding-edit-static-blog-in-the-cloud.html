@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="description" content="">
     <meta name="author" content="zhukite">
-    <title>恋上春树 | pseudo traveller</title>
+    <title>using Koding edit static blog in the cloud | pseudo traveller</title>
     
     <link href="../assets/css/style.css" rel="stylesheet" type="text/css">
     <link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
@@ -60,33 +60,33 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
     <div class="article_box">
     	<div class="article_title">
     		
-    <h3>恋上春树</h3>
+    <h3>using Koding edit static blog in the cloud</h3>
 
     	</div>
 	    <div class="entry ">                    
-		    	<h4>看了部日本喜剧，英文翻译是wood job，非常直白的意思就是讲述一个伐木进修生的囧事，同时也从中了解林业伐木这一行的日常工作。台湾把片名译为《哪啊哪啊神去村》表达了故事发生地，但香港则把片名叫做《恋上春树》显得更有文艺范，更符合信达雅的标准。</h4>
+		    	<h4>今天发现一个神器<a href="https://koding.com" target="_blank">Koding</a>，谁知人家一年前已经在用了，看人家博客（大陆的台湾的都有）写的中文用法介绍都是1月的事情，以致这神器已经更新了不少，很多东西还是看英文文档才能跟进操作。实在惭愧！</h4>
 <p><br></p>
-<h4>电影开头比较无聊嘈杂，就是介绍了主角故事的背景，当看到林业宣传单那张美女照开始，笑点才正式拉开，各种囧事开始发生，笑到我好肚饿，看来笑也非常消耗能量。p.s.女主村姑石井直纪（长泽雅美 饰）长得不错，尤其鼻子好看！</h4>
-<!-- TEASER_END -->
-
-<p><br></p>
-<h4>电影&lt;恋上春树&gt;视频</h4>
-<p><embed height="452" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="http://share.acg.tv/flash.swf" flashvars="aid=1716558&amp;page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed></p>
-<p><br></p>
-<h4>对比两国的山村，进去的路都是那么烂，看到好路就是到村口的标记。至于手机信号，在中国山村除非是在高深的峡谷里，比较开阔的地方都收到2G信号，至少我能发出微信，实在神奇。不过到了山上就没信号。</h4>
-<h5>最后送上4张藏东南 原始森林照片</h5>
+<h4>其实有个问题已经困扰我大半年了，就是静态博客比起 Wordpress 这类博客的一个不足是需要先配置好整个博客环境才能编写和预览博客。以我使用nikola作为我的博客引擎为例，为了写一篇博客，需要在自己电脑（在虚拟机里的Ubuntu）安装配置Nikola、markdown、retext、git等，认真烦！想对已发布的文章改少少内容，除非每台机器都配合这个环境，否则我只能打开自己的电脑去修改。所以我一直想找个可以在浏览器在线编辑静态博客的工具，就像wordpress那么方便，只需打开浏览器完成文章的编辑发布。</h4>
 <p><br>
-<img src="http://ww4.sinaimg.cn/mw1024/67804861gw1en638iy4yfj21kw16onmx.jpg" width="700">
+ <img src="http://ww4.sinaimg.cn/mw1024/67804861gw1en7gaek7ezj21690min4p.jpg" width="700">
 <br>
-<br>
-<img src="http://ww4.sinaimg.cn/mw1024/67804861gw1en638pz5lij21kw16ox34.jpg" width="700">
-<br>
-<br>
-<img src="http://ww2.sinaimg.cn/mw1024/67804861gw1en63920fd7j21kw23uhdt.jpg" width="700">
-<br>
-<br>
-<img src="http://ww1.sinaimg.cn/mw1024/67804861gw1en6396qk2gj21kw16okgj.jpg" width="700">
 <br></p>
+<h4>Koding，在<a href="http://zh.wikipedia.org/wiki/Koding" target="_blank">wikipedia</a>里吹他是PaaS的云计算平台的网络应用，果然do完后翻唔到转头，再也不用烦恼。</h4>
+<p><br></p>
+<h4>原理其实就是把整个本地的nikola搬到“云端”的vms，在远端的部署方式与在 Linux 上基本一致。按照自己写过的<a href="http://zhukite.github.io/posts/use-nikola-to-build-a-blog-at-ubuntu%20and%20mount%20on%20gitpage.html" target="_blank">nikola配置步骤和手册</a>配置。</h4>
+<p><br></p>
+<h4>由于 Koding 开放了端口，因此也可以用本地的浏览器预览你正在编辑的文章。比如， 输入命令</h4>
+<div class="code"><pre>nikola serve -a 0.0.0.0 -p 8080
+</pre></div>
+
+
+<h4>打开nikola 的端口号是8080，那么可以访问 http://你的账户名.koding.io:8080/ 预览在该主机编辑的网站。已经不用大半年前那种访问 http://vm-主机号.你的账户名.koding.kd.io:4000/ 来预览了！</h4>
+<p><br>
+ <img src="http://ww3.sinaimg.cn/mw1024/67804861gw1en7gkfkru8j20le0ee0wp.jpg" width="700">
+<br>
+<br>
+<!-- TEASER_END --></p>
+<h4>还有SSH，FTP等功能以及在线编程等等，有待学习发掘！</h4>
 <hr>  
         </div>
             
@@ -95,7 +95,7 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
     <!-- Social buttons -->
 	<div class="bshare-custom icon-medium-plus"><div class="bsPromo bsPromo2"></div><b>喜欢这篇文章就分享:</b> <a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到微信" class="bshare-weixin"></a><a title="分享到Facebook" class="bshare-facebook" href="javascript:void(0);"></a><a title="分享到Twitter" class="bshare-twitter" href="javascript:void(0);"></a><a title="分享到人人网" class="bshare-renren" href="javascript:void(0);"></a><a title="分享到腾讯微博" class="bshare-qqmb" href="javascript:void(0);"></a><span class="BSHARE_COUNT bshare-share-count" style="float: none;">24.6K</span></div><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
     <!-- End of social buttons -->
-            <p>如需转载请链接原文地址：http://zhukite.github.io//posts/funny-movie-wood-job.html</p>
+            <p>如需转载请链接原文地址：http://zhukite.github.io//posts/using-koding-edit-static-blog-in-the-cloud.html</p>
                  
         </div>
 	    <ul class="article_info">
@@ -103,6 +103,14 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
              <li class="cate"></li>
              <li class="vote"></li>
              -->
+             <li class="tag">
+                <ul class="tags_list">
+                    <li>
+                        <a href="../categories/it.html" rel="tag">IT</a>
+                    </li>
+                </ul>
+             </li>
+             <li class="date">2014-12-12 17:25</li>
         </ul>
     </div>
 
@@ -110,18 +118,14 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
     <div class="art_nav">
         <div class="previous">
             上一篇：
-            <a href="seize-the-day.html" rel="prev">seize the day</a>
-        </div>
-        <div class="next">
-            下一篇：
-            <a href="using-koding-edit-static-blog-in-the-cloud.html" rel="next">using Koding edit static blog in the cloud</a>
+            <a href="funny-movie-wood-job.html" rel="prev">恋上春树</a>
         </div>
     </div>
 
 
         
     <!-- Duoshuo Comment BEGIN -->
-    <div class="ds-thread" data-thread-key="1418329867.0" data-title="&lt;bound method Post.title of &lt;nikola.post.Post object at 0x7f1008c22250&gt;&gt;" data-author-key="zhukite"></div>
+    <div class="ds-thread" data-thread-key="1418405143.0" data-title="&lt;bound method Post.title of &lt;nikola.post.Post object at 0x7f94a41d29d0&gt;&gt;" data-author-key="zhukite"></div>
     <script type="text/javascript">
     var duoshuoQuery = {short_name:"zhukite"};
     (function() {

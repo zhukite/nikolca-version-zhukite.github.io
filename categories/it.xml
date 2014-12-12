@@ -1,5 +1,26 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveller (IT)</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/categories/it.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Fri, 12 Dec 2014 15:40:32 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>use nikola to build a blog at ubuntu and mount on gitpage</title><link>http://zhukite.github.io//posts/use-nikola-to-build-a-blog-at-ubuntu and mount on gitpage.html</link><description>&lt;div&gt;&lt;h3&gt;好记性不如烂笔头，还是记录下整个静态博客搭建在github的流程。&lt;/h3&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveller (IT)</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/categories/it.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Fri, 12 Dec 2014 18:28:57 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>using Koding edit static blog in the cloud</title><link>http://zhukite.github.io//posts/using-koding-edit-static-blog-in-the-cloud.html</link><description>&lt;div&gt;&lt;h4&gt;今天发现一个神器&lt;a href="https://koding.com" target="_blank"&gt;Koding&lt;/a&gt;，谁知人家一年前已经在用了，看人家博客（大陆的台湾的都有）写的中文用法介绍都是1月的事情，以致这神器已经更新了不少，很多东西还是看英文文档才能跟进操作。实在惭愧！&lt;/h4&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;其实有个问题已经困扰我大半年了，就是静态博客比起 Wordpress 这类博客的一个不足是需要先配置好整个博客环境才能编写和预览博客。以我使用nikola作为我的博客引擎为例，为了写一篇博客，需要在自己电脑（在虚拟机里的Ubuntu）安装配置Nikola、markdown、retext、git等，认真烦！想对已发布的文章改少少内容，除非每台机器都配合这个环境，否则我只能打开自己的电脑去修改。所以我一直想找个可以在浏览器在线编辑静态博客的工具，就像wordpress那么方便，只需打开浏览器完成文章的编辑发布。&lt;/h4&gt;
+&lt;p&gt;&lt;br&gt;
+ &lt;img src="http://ww4.sinaimg.cn/mw1024/67804861gw1en7gaek7ezj21690min4p.jpg" width="700"&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;Koding，在&lt;a href="http://zh.wikipedia.org/wiki/Koding" target="_blank"&gt;wikipedia&lt;/a&gt;里吹他是PaaS的云计算平台的网络应用，果然do完后翻唔到转头，再也不用烦恼。&lt;/h4&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;原理其实就是把整个本地的nikola搬到“云端”的vms，在远端的部署方式与在 Linux 上基本一致。按照自己写过的&lt;a href="http://zhukite.github.io/posts/use-nikola-to-build-a-blog-at-ubuntu%20and%20mount%20on%20gitpage.html" target="_blank"&gt;nikola配置步骤和手册&lt;/a&gt;配置。&lt;/h4&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;由于 Koding 开放了端口，因此也可以用本地的浏览器预览你正在编辑的文章。比如， 输入命令&lt;/h4&gt;
+&lt;div class="code"&gt;&lt;pre&gt;nikola serve -a 0.0.0.0 -p 8080
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;打开nikola 的端口号是8080，那么可以访问 http://你的账户名.koding.io:8080/ 预览在该主机编辑的网站。已经不用大半年前那种访问 http://vm-主机号.你的账户名.koding.kd.io:4000/ 来预览了！&lt;/h4&gt;
+&lt;p&gt;&lt;br&gt;
+ &lt;img src="http://ww3.sinaimg.cn/mw1024/67804861gw1en7gkfkru8j20le0ee0wp.jpg" width="700"&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/using-koding-edit-static-blog-in-the-cloud.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><guid>http://zhukite.github.io//posts/using-koding-edit-static-blog-in-the-cloud.html</guid><pubDate>Fri, 12 Dec 2014 17:25:43 GMT</pubDate></item><item><title>use nikola to build a blog at ubuntu and mount on gitpage</title><link>http://zhukite.github.io//posts/use-nikola-to-build-a-blog-at-ubuntu and mount on gitpage.html</link><description>&lt;div&gt;&lt;h3&gt;好记性不如烂笔头，还是记录下整个静态博客搭建在github的流程。&lt;/h3&gt;
 &lt;h4&gt;我用的OS是ubuntu12.04，先安装python-pip，python-dev，在ubuntu安装很简单，输入&lt;/h4&gt;
 &lt;div class="code"&gt;&lt;pre&gt;sudo apt-get install python-pip 
 sudo apt-get install python-dev
@@ -93,15 +114,4 @@ sudo apt-get install libxslt1-dev
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;所谓Security，也就是数据的隐私和不泄露。就目前而言，看到的云存储解决的都是Availability，而不是Security。Security解决的是私密和不泄露的问题。
- &lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/safety-and-security.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>IT</category><guid>http://zhukite.github.io//posts/safety-and-security.html</guid><pubDate>Mon, 10 Feb 2014 11:21:46 GMT</pubDate></item><item><title>在ubuntu体验Hugin合并全景图</title><link>http://zhukite.github.io//posts/zai-ubuntuti-yan-huginhe-bing-quan-jing-tu.html</link><description>&lt;div&gt;&lt;h4&gt;在ubuntu安装hugin，&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;&lt;span class="nv"&gt;$ &lt;/span&gt;sudo apt-get install hugin
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;h4&gt;启动 Hugin&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;hugin
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;h4&gt;测试了两张图片，当时骑上帕米尔高原时拍下的昆仑山脉，分别拿西昆仑里面著名的两座山峰————公格尔九别峰和“冰山之父”之称的慕士塔格峰。&lt;/h4&gt;
-&lt;p&gt;&lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/zai-ubuntuti-yan-huginhe-bing-quan-jing-tu.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><category>ubuntu</category><guid>http://zhukite.github.io//posts/zai-ubuntuti-yan-huginhe-bing-quan-jing-tu.html</guid><pubDate>Tue, 21 Jan 2014 01:58:04 GMT</pubDate></item></channel></rss>
+ &lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/safety-and-security.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>IT</category><guid>http://zhukite.github.io//posts/safety-and-security.html</guid><pubDate>Mon, 10 Feb 2014 11:21:46 GMT</pubDate></item></channel></rss>
