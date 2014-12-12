@@ -8,9 +8,9 @@
 -->
 # Welcome!
 <br/>
-# I am Kite Zhu   ("Ki-Fi" in Cantonese)
+# I am Kite Zhu   ("Kai Fai" in Cantonese)
 <br/>
-新浪微博：<a href="http://weibo.com/zhukite" target="_blank">@zhukite</a><br/>
+微博：<a href="http://weibo.com/zhukite" target="_blank">@zhukite</a><br/>
 Facebook：<a href="https://www.facebook.com/kite.zhu.3" target="_blank">zhukite</a>	
 <br/>
 ##  Origin of blog title：
