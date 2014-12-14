@@ -18,7 +18,7 @@
 <br/>
 ### 电影<恋上春树>视频
 
-<embed height="452" width="544" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="http://share.acg.tv/flash.swf" flashvars="aid=1716558&page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
+<embed height="600" width="800" quality="high" allowfullscreen="true" type="application/x-shockwave-flash" src="http://share.acg.tv/flash.swf" flashvars="aid=1716558&page=1" pluginspage="http://www.adobe.com/shockwave/download/download.cgi?P1_Prod_Version=ShockwaveFlash"></embed>
 
 <br/>
 
@@ -27,16 +27,19 @@
 #### 最后送上4张藏东南 原始森林照片
 
 <br/>
-<img src="http://ww4.sinaimg.cn/mw1024/67804861gw1en638iy4yfj21kw16onmx.jpg" width="700"/>
+![](http://ww4.sinaimg.cn/mw1024/67804861gw1en638iy4yfj21kw16onmx.jpg)
+<br/>
+
+
 <br/>
 <br/>
-<img src="http://ww4.sinaimg.cn/mw1024/67804861gw1en638pz5lij21kw16ox34.jpg" width="700"/>
+<img src="http://ww4.sinaimg.cn/mw1024/67804861gw1en638pz5lij21kw16ox34.jpg" max-width="100%"/>
 <br/>
 <br/>
-<img src="http://ww2.sinaimg.cn/mw1024/67804861gw1en63920fd7j21kw23uhdt.jpg" width="700"/>
+<img src="http://ww2.sinaimg.cn/mw1024/67804861gw1en63920fd7j21kw23uhdt.jpg" max-width="100%"/>
 <br/>
 <br/>
-<img src="http://ww1.sinaimg.cn/mw1024/67804861gw1en6396qk2gj21kw16okgj.jpg" width="700"/>
+<img src="http://ww1.sinaimg.cn/mw1024/67804861gw1en6396qk2gj21kw16okgj.jpg" max-width="100%"/>
 <br/>
 
  * * *

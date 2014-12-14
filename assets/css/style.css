@@ -64,7 +64,7 @@ img {
     vertical-align:bottom;
 }
 .header {
-    width:960px;
+    max-width: 960px;
     height:226px;
 	margin-left:auto;
 	margin-right:auto;
@@ -72,7 +72,7 @@ img {
     background:#f7f7f7;
 }
 .header_box {
-    width:960px;
+    max-width:960px;
 	height:226px;
     margin:0 auto;
     overflow:hidden;
@@ -139,7 +139,7 @@ img {
     margin-top:15px;
 }
 .content {
-    width:960px;
+    max-width:960px;
     margin:20px auto 0;
 }
 .page_title {
@@ -178,11 +178,11 @@ img {
     margin-bottom:20px;
 }
 .con_left {
-    width:760px;
+    max-width:960px;
     float:left;
 }
 .article_box {
-    width:760px;
+    max-width:960px; /*;*/
     background:#fff;
     box-shadow:0 1px 1px rgba(0,0,0,0.3);
     margin-bottom:40px;
@@ -191,7 +191,7 @@ img {
 .article_title {
     height:50px;
     line-height:50px;
-    width:760px;
+    max-width:960px; /*;*/
     background:#f7f7f7;
     margin-bottom:20px;
     border-top:1px solid #e5e5e5;
@@ -223,7 +223,7 @@ img {
     float:right;
 }
 .article_title .comment_num a {
-    width:70px;
+    max-width:70px;
     height:50px;
     color:#aaa;
     font-size:16px;
@@ -246,14 +246,14 @@ img {
     color:#eee;
     position: absolute;
     left: 50%;
-    width: 400px;
+    max-width: 400px;
     margin-left: -200px;
     text-align: center;
     margin-top: 15px;
 }
 .article_box .entry {
     padding:0 20px 20px;
-    width:710px;
+    max-width:960px;
     overflow:hidden;
 }
 .article_box .entry p {
@@ -298,7 +298,7 @@ img {
     color:#fff;
     height:28px;
     line-height:28px;
-    width:108px;
+    max-width:108px;
     background:#144263;
     display:block;
     text-align:center;
@@ -376,7 +376,7 @@ img {
     float: right;
 }
 .wp-pagenavi {
-    width:960px;
+    width:auto; /*;*/
     margin:0 auto;
     padding:10px 0 80px;
 }
@@ -449,25 +449,25 @@ img {
     padding-bottom:30px;
 }
 #comment_list li {
-    width:760px;
+    max-width:960px;
     overflow:hidden;
     padding-bottom:40px;
 }
 #comment_list .com_left {
-    width:56px;
+    max-width:56px;
     height:56px;
     padding-right:20px;
     float:left;
 }
 #comment_list .avatar {
-    width:56px;
+    max-width:56px;
     height:56px;
     background:#f7f7f7;
     box-shadow:0 1px 1px rgba(0,0,0,0.2);
     display:block;
 }
 #comment_list .com_right {
-    width:624px;
+    max-width:624px;
     float:left;
     margin-top:-5px;
 }
@@ -475,7 +475,7 @@ img {
     height:30px;
     line-height:30px;
     overflow:hidden;
-    width:624px;
+    max-width:624px;
     border-bottom:1px solid #ccc;
     margin-bottom:10px;
 }
@@ -501,7 +501,7 @@ img {
     margin-bottom:20px;
 }
 #respond label {
-    width:76px;
+    max-width:76px;
     color:#666;
     display:inline-block;
     text-align:right;
@@ -512,7 +512,7 @@ img {
     padding-bottom:15px;
 }
 #respond input {
-    width:320px;
+    max-width:320px;
     height:23px;
     line-height:23px;
     border:1px solid #ccc;
@@ -526,7 +526,7 @@ img {
     margin-left:8px;
 }
 #respond textarea {
-    width:400px;
+    max-width:400px;
     height:170px;
     line-height:23px;
     border:1px solid #ccc;
@@ -542,7 +542,7 @@ img {
     box-shadow:0 0 2px rgba(0,0,0,0.3);
 }
 #respond #submit {
-    width:120px;
+    max-width:120px;
     height:40px;
     line-height:40px;
     background:#144263;
@@ -557,7 +557,7 @@ img {
     padding:12px 0 20px;
 }
 .captchaSizeDivLarge {
-    width:141px;
+    max-width:141px;
     float:right;
     margin-right:360px;
 }
@@ -777,7 +777,7 @@ img {
     color:#000;
 }
 .footer {
-    width:960px;
+    max-width:960px;
     margin:0 auto;
     padding:20px 0;
     border-top:1px solid #bbb;
@@ -1122,9 +1122,12 @@ table th[class*="span"],
     content: ''; 
 }
 
+img{max-width:100%;}
+img, object ,embed{ max-width: 100%;}
+
 .full_width{width:100% !important;}
 .mb0{margin-bottom: 0 !important}
-.article_inner_box{width:960px;overflow:hidden;}
+.article_inner_box{max-width:960px; overflow:hidden;}
 .widget_box {width: 900px;padding:10px 50px 50px 50px;float: left;position: relative;}
 .widget_box.half {width: 300px;}
 .widget_list {float: left;position: relative;margin: 5px;cursor: pointer;text-align: center;word-wrap: break-word;}

@@ -1,10 +1,15 @@
 <!DOCTYPE html><html lang="zh_cn">
 <head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--[if lt IE 9]>
+　　　　<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+　　<![endif]--></head><body><p>
+　　
     
     <meta charset="utf-8">
     <meta name="description" content="">
     <meta name="author" content="zhukite">
-    <title>using Koding edit static blog in the cloud | pseudo traveller</title>
+    </p><title>using Koding edit static blog in the cloud | pseudo traveller</title>
     
     <link href="../assets/css/style.css" rel="stylesheet" type="text/css">
     <link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
@@ -29,8 +34,8 @@
 	imgNameList.push("/1000x226_06.JPG");
 </script>
 
-</head>
-<body>
+
+
 <!-- Menubar -->
 <div class="header">
 <script>
@@ -43,9 +48,9 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
                 
                 <li><a href="../categories/it.html">IT</a>
                 </li><li><a href="../categories/travel.html">旅行</a>
-                </li><li><a href="../categories/chuang-yi.html">创意</a>
+                </li><li><a href="../categories/index.html">标签</a>
                 </li><li><a href="../archive.html">归档</a>
-                </li><li class="rss"><a href="../rss.xml">RSS</a>
+                </li><li><a href="../stories/about.html">About</a>
 
             </li></ul>
     </div>
@@ -125,7 +130,7 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
 
         
     <!-- Duoshuo Comment BEGIN -->
-    <div class="ds-thread" data-thread-key="1418405143.0" data-title="&lt;bound method Post.title of &lt;nikola.post.Post object at 0x7f1774b5f990&gt;&gt;" data-author-key="zhukite"></div>
+    <div class="ds-thread" data-thread-key="1418405143.0" data-title="&lt;bound method Post.title of &lt;nikola.post.Post object at 0x7f178d54aed0&gt;&gt;" data-author-key="zhukite"></div>
     <script type="text/javascript">
     var duoshuoQuery = {short_name:"zhukite"};
     (function() {
@@ -142,34 +147,8 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
 
 
     </div>
-    <div class="con_right">
-        <div class="about_box">
-            <a href="../stories/about.html" target="_blank" class="avatar_box"><img src="../100x100.png" width="100" height="100" alt="头像"></a>
-            <div class="info">
-                <h3><a href="../stories/about.html" target="_blank">zhukite</a></h3>
-                <p>IT coder, Traveler, in 广州</p>
-            </div>
-        </div>
-        
-		<div class="side_box">
-           	 微博：<a href="http://weibo.com/zhukite" target="_blank">@zhukite</a>
-        	</div>
-        	<div class="side_box">
-            	Facebook：<a href="https://www.facebook.com/kite.zhu.3" target="_blank">zhukite</a>
-        	</div>
-		
-	
-        
-        <ul class="cate_box" id="cateBox">
-            <li class="categories">文章分类
-                <ul>
-                   <li class="cat-item "><a href="javascript:void(0)" title="查看下的所有文章"><span class="num">0</span>加载中……</a>
-                   </li>
-                </ul>
-            </li>
-        </ul>
-        
-    </div>
+    
+    
 
     <!--End of body content-->
 </div>
@@ -178,22 +157,6 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
 </div>
 <div id="goTop" class="go_top" title="返回顶部"></div>
 
-
-    
- <script>
-        $(function(){
-            //文章分类
-            $.getJSON("/assets/js/tag_cloud_data.json", function( data ){
-                var items=[];
-                $.each(data,function(name,numAndUrl){
-                    var liTmpl='<li class="cat-item "><a href="$url" title="查看 $title 下的所有文章"><span class="num">$num</span>$tag</a></li>';
-                    liTmpl = liTmpl.replace("$url",numAndUrl[1]).replace("$num",numAndUrl[0]).replace("$title",name).replace("$tag",name);
-                    items.push(liTmpl);
-                });
-                $("#cateBox .categories ul").html(items.join(''));
-            });
-        });
-  </script>
 
     
     <script>
@@ -234,5 +197,5 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
 
 <script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000257069'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s96.cnzz.com/z_stat.php%3Fid%3D1000257069%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
 
-</body>
-</html>
+
+</body></html>

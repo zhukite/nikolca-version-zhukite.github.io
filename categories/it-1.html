@@ -41,9 +41,9 @@ document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random(
                 
             <li><a class="current" href="it.html">IT</a>
                 </li><li><a href="travel.html">旅行</a>
-                </li><li><a href="chuang-yi.html">创意</a>
+                </li><li><a href="index.html">标签</a>
                 </li><li><a href="../archive.html">归档</a>
-                </li><li class="rss"><a href="../rss.xml">RSS</a>
+                </li><li><a href="../stories/about.html">About</a>
 
             </li></ul>
     </div>
@@ -183,34 +183,8 @@ document.write("<span class="nt">&lt;style&gt;</span>#aaa {background: url("+img
 
 
     </div>
-    <div class="con_right">
-        <div class="about_box">
-            <a href="../stories/about.html" target="_blank" class="avatar_box"><img src="../100x100.png" width="100" height="100" alt="头像"></a>
-            <div class="info">
-                <h3><a href="../stories/about.html" target="_blank">zhukite</a></h3>
-                <p>IT coder, Traveler, in 广州</p>
-            </div>
-        </div>
-        
-		<div class="side_box">
-           	 微博：<a href="http://weibo.com/zhukite" target="_blank">@zhukite</a>
-        	</div>
-        	<div class="side_box">
-            	Facebook：<a href="https://www.facebook.com/kite.zhu.3" target="_blank">zhukite</a>
-        	</div>
-		
-	
-        
-        <ul class="cate_box" id="cateBox">
-            <li class="categories">文章分类
-                <ul>
-                   <li class="cat-item "><a href="javascript:void(0)" title="查看下的所有文章"><span class="num">0</span>加载中……</a>
-                   </li>
-                </ul>
-            </li>
-        </ul>
-        
-    </div>
+    
+    
 
     <!--End of body content-->
 </div>
@@ -219,22 +193,6 @@ document.write("<span class="nt">&lt;style&gt;</span>#aaa {background: url("+img
 </div>
 <div id="goTop" class="go_top" title="返回顶部"></div>
 
-
-    
- <script>
-        $(function(){
-            //文章分类
-            $.getJSON("/assets/js/tag_cloud_data.json", function( data ){
-                var items=[];
-                $.each(data,function(name,numAndUrl){
-                    var liTmpl='<li class="cat-item "><a href="$url" title="查看 $title 下的所有文章"><span class="num">$num</span>$tag</a></li>';
-                    liTmpl = liTmpl.replace("$url",numAndUrl[1]).replace("$num",numAndUrl[0]).replace("$title",name).replace("$tag",name);
-                    items.push(liTmpl);
-                });
-                $("#cateBox .categories ul").html(items.join(''));
-            });
-        });
-  </script>
 
     
     <script>
