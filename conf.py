@@ -95,9 +95,9 @@ NAVIGATION_LINKS = {
     DEFAULT_LANG: (
         ("/categories/it.html", "IT"),
         ("/categories/travel.html", "旅行"),
-	("/categories/chuang-yi.html", "创意"),
+	("/categories/index.html", "标签"),
 	("/archive.html", "归档"),
-        ("/rss.xml", "RSS"),
+        ("/stories/about.html", "About"),
     ),
 }
 
@@ -234,16 +234,16 @@ COMPILERS = {
 
 # If TAG_PAGES_ARE_INDEXES is set to True, each tag's page will contain
 # the posts themselves. If set to False, it will be just a list of links.
-TAG_PAGES_ARE_INDEXES = True
+TAG_PAGES_ARE_INDEXES = False
 
 # Final location for the main blog page and sibling paginated pages is
 # output / TRANSLATION[lang] / INDEX_PATH / index-*.html
 # INDEX_PATH = ""
 
 # Create per-month archives instead of per-year
-# CREATE_MONTHLY_ARCHIVE = False
+#CREATE_MONTHLY_ARCHIVE = True
 # Create one large archive instead of per-year
-# CREATE_SINGLE_ARCHIVE = False
+# CREATE_SINGLE_ARCHIVE = True
 # Final locations for the archives are:
 # output / TRANSLATION[lang] / ARCHIVE_PATH / ARCHIVE_FILENAME
 # output / TRANSLATION[lang] / ARCHIVE_PATH / YEAR / index.html
@@ -400,7 +400,7 @@ GZIP_EXTENSIONS = ('.txt', '.htm', '.html', '.css', '.js', '.json', '.xml')
 # Used for create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
 FAVICONS = {
-    ("icon", "/50x49.png", "50x49"),
+    ("icon", "50x49.ico", "50x49"),
     #("icon", "/icon_128x128.png", "128x128"),
 }
 
@@ -782,18 +782,18 @@ LOGGING_HANDLERS = {
 # Put in global_context things you want available on all your templates.
 # It can be anything, data, functions, modules, etc.
 GLOBAL_CONTEXT = {
-	"g_blog_author_short_desc":"IT coder, Traveler, in 广州",
-    "g_blog_author_avatar":"/100x100.png",
-    "g_blog_author_url":"/stories/about.html",
-	"g_blog_sidebox":
-	"""
-		<div class="side_box">
-           	 微博：<a href="http://weibo.com/zhukite" target="_blank">@zhukite</a>
-        	</div>
-        	<div class="side_box">
-            	Facebook：<a href="https://www.facebook.com/kite.zhu.3" target="_blank">zhukite</a>
-        	</div>
-		
-	""",
+#	"g_blog_author_short_desc":"IT coder, Traveler, in 广州",
+#    "g_blog_author_avatar":"/100x100.png",
+#    "g_blog_author_url":"/stories/about.html",
+#	"g_blog_sidebox":
+#	"""
+#		<div class="side_box">
+#           	 微博：<a href="http://weibo.com/zhukite" target="_blank">@zhukite</a>
+#        	</div>
+#        	<div class="side_box">
+#            	Facebook：<a href="https://www.facebook.com/kite.zhu.3" target="_blank">zhukite</a>
+#        	</div>
+#		
+#	""",
 	"g_blog_duo_shuo_short_name":"zhukite"
 }
