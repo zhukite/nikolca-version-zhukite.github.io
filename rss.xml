@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveller</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Wed, 07 Jan 2015 16:55:25 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>road-test</title><link>http://zhukite.github.io//posts/road-test.html</link><description>&lt;div&gt;&lt;h4&gt;今天（12月21日，Sunday）通过了科目三（广汕路路考），一次就满分passed，实在是喜出望外！&lt;/h4&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveller</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Wed, 07 Jan 2015 17:07:14 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>the first anniversary of blog</title><link>http://zhukite.github.io//posts/the-first-anniversary-of-blog.html</link><description>&lt;h3&gt;Happy first anniversary of blog!!&lt;/h3&gt;
+&lt;h4&gt;Good night&lt;/h4&gt;</description><guid>http://zhukite.github.io//posts/the-first-anniversary-of-blog.html</guid><pubDate>Wed, 07 Jan 2015 17:05:06 GMT</pubDate></item><item><title>road-test</title><link>http://zhukite.github.io//posts/road-test.html</link><description>&lt;div&gt;&lt;h4&gt;今天（12月21日，Sunday）通过了科目三（广汕路路考），一次就满分passed，实在是喜出望外！&lt;/h4&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h4&gt;本周五早上被急call回去在华农附近的路，先边看边学，转了两圈（刚开始，肯定糟糕，被训一顿————“明知后天考试，还不来练车”）。然后夜晚被告知抽中广汕路（出了名的车多且路况复杂，广州进出城区的主干道之一），夜7点集合上广汕路踩点，教练先带我们转指点各个考试项目的注意点。然后我们三个学员轮流开一次，有个哥们是星期六考的，我和一个师弟是周日考。最后到我开的时候，整体感觉还好，不足就是遇到前方冒烟车，吓一跳脚抖搞到死火，有些地方太黑不小心踩实线，不过脑海对广汕路整体了个初步印象。夜9点回到华农，教练叮嘱回去多看视频。&lt;/h4&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -144,9 +145,4 @@ sudo apt-get install libxslt1-dev
  &lt;img src="http://ww2.sinaimg.cn/mw1024/67804861tw1eibhts69eaj20h50h5did.jpg" width="700"&gt;
 &lt;br&gt;
 &lt;br&gt;&lt;/p&gt;
-&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/play-google-xss-game.html"&gt;Read more…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><category>Google</category><guid>http://zhukite.github.io//posts/play-google-xss-game.html</guid><pubDate>Sun, 13 Jul 2014 23:33:33 GMT</pubDate></item><item><title>读《喇嘛王国的覆灭》有感</title><link>http://zhukite.github.io//posts/du-la-ma-wang-guo-de-fu-mie-you-gan.html</link><description>&lt;div&gt;&lt;h4&gt;继续保持去一次旅行读一本书的传统，因为是去西藏喜马拉雅山边境，拣来拣去挑了本《喇嘛王国的覆灭》上路，大砖头一来为飞机和火车旅途解闷，二来可以当枕头。&lt;/h4&gt;
-&lt;p&gt;&lt;br&gt;
- &lt;img src="http://ww4.sinaimg.cn/mw1024/67804861gw1ei5bfctg8zj21kw16oq9z.jpg" width="700"&gt;
-&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;中译本在豆瓣或者其他人博客里面都被喷带有政治色彩，我觉得原作者本来是美国人本来就带有自身的政治色彩和背后支撑的集团利益，关键还看引用的资料是否翔实以及材料是否丰富多样。既然如此，我就把它作为一部小说体的历史评论书看，聊以解闷。&lt;/h4&gt;
-&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/du-la-ma-wang-guo-de-fu-mie-you-gan.html"&gt;Read more…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>读书</category><category>西藏</category><guid>http://zhukite.github.io//posts/du-la-ma-wang-guo-de-fu-mie-you-gan.html</guid><pubDate>Tue, 08 Jul 2014 13:19:39 GMT</pubDate></item></channel></rss>
+&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/play-google-xss-game.html"&gt;Read more…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><category>Google</category><guid>http://zhukite.github.io//posts/play-google-xss-game.html</guid><pubDate>Sun, 13 Jul 2014 23:33:33 GMT</pubDate></item></channel></rss>
