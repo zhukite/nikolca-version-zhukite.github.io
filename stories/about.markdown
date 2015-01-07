@@ -8,7 +8,7 @@
 -->
 # Welcome!
 <br/>
-# I am Kite Zhu   ("Kai Fai" in Cantonese)
+# I am Kite   ("Kai Fai" in Cantonese)
 <br/>
 微博：<a href="http://weibo.com/zhukite" target="_blank">@zhukite</a><br/>
 Facebook：<a href="https://www.facebook.com/kite.zhu.3" target="_blank">zhukite</a>	
