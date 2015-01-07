@@ -375,11 +375,6 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://zhukite.github.io/posts/use-nikola-to-build-a-blog-at-ubuntu and mount on gitpage.html</loc>
-  <lastmod>2014-12-12</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
   <loc>http://zhukite.github.io/posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html</loc>
   <lastmod>2015-01-07</lastmod>
   <priority>0.5000</priority>
