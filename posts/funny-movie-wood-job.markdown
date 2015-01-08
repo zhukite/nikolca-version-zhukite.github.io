@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags: 
+.. tags: other
 .. date: 2014/12/11 20:31:07
 .. title: 恋上春树
 .. slug: funny-movie-wood-job

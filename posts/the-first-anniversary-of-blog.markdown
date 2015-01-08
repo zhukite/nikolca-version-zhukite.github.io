@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags: 
+.. tags: other
 .. date: 2015/01/07 17:05:06
 .. title: the first anniversary of blog
 .. slug: the-first-anniversary-of-blog
