@@ -20,7 +20,7 @@
 <br/>
 特别声明：图是来自维基百科，1947年当时的形势图（那时中国处于国共内战还没解放新疆西藏！）
 
-![](http://upload.wikimedia.org/wikipedia/commons/3/3c/Partition_of_India-en.svg)
+![](http://ww1.sinaimg.cn/large/67804861gw1eonglzghofj20hx0l3aek.jpg)
 
 <br/>
 
