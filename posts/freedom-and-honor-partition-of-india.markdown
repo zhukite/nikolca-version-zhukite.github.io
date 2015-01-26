@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags: 
+.. tags: 读书
 .. date: 2015/01/26 15:05:19
 .. title: Freedom and Honor: Partition of India
 .. slug: freedom-and-honor-partition-of-india
@@ -22,4 +22,6 @@
 <br/>
  <!-- TEASER_END -->
  
-### 
+### 对于南亚次大陆的人来说，充满血与泪的自由来之不易。各派精英们也收获了各自的荣耀。中国在喜马拉雅山脉边界弧线少了个完整统一的国家，相当于少了个强大的邻居，现在提到的“一带一路”就是涉及到中亚，巴基斯坦和孟加拉（之前是东巴，后来独立），以及缅甸。看起来就是围着印度，有点制衡的意味。
+
+ * * *
