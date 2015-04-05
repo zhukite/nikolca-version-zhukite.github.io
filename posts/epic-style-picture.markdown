@@ -60,10 +60,7 @@
 ![](http://ww4.sinaimg.cn/mw1024/67804861gw1ekdm7ekxw1j21kw16on55.jpg)
 <br/>
 
-<br/>
- <br/> 
-![](http://ww1.sinaimg.cn/large/67804861gw1ekdm7wo1p6j21kw0ci780.jpg" width="760"/>
-<br/>
+
 
 <br/>
  <br/> 
