@@ -8,7 +8,7 @@
 -->
 
 
-### Last Sunday , I arrived at Beijing for my work trip. For  6 days(from Sunday night to Friday afternoon ) , the weather was sunny and dry . The sky was alwasys the legendary APEC Blue. Before  or  After working time , I wandered around the center of The Capital. Let me show U some photos.
+### Last Sunday , I arrived at Beijing for my work trip. For  6 days(from Sunday night to Friday afternoon ) , the weather was sunny and dry . The sky was always legendary APEC Blue. Before  or  After working time , I wandered around the center of The Capital. Let me show U some photos.
  <br/>
  
 ### 出差间隙，帝都一瞥，见识传说中APEC蓝，大老早起床去俯瞰故宫（The Imperial Palace），完后继续上班。
