@@ -11,9 +11,13 @@
 ### Last Sunday , I arrived at Beijing for my work trip. For  6 days(from Sunday night to Friday afternoon ) , the weather was sunny and dry . The sky was always legendary APEC Blue. Before  or  After working time , I wandered around the center of The Capital. Let me show U some photos.
  <br/>
  
-### 出差间隙，帝都一瞥，见识传说中APEC蓝，大老早起床去俯瞰故宫（The Imperial Palace），完后继续上班。
+### 出差间隙，帝都一瞥，见识传说中APEC蓝，大老早起床去俯瞰故宫（The Imperial Palace / the Forbidden City），完后继续上班。
 <br/>
 
+### je suis  été  en mission à Beijing  semaine derenier . Il fait  beau  et  il fera du soleil. Ce matin, je me suis levé  très tôt . Après , j'ai visité le musée ( Palais Impérial / Cité interdite ). Quand j'ai retardé le  Palais Impérial, je trouver que ils sont très magnifique.   
+
+
+<br/>
 故宫。角楼（The Imperial Palace）
 ![](http://ww2.sinaimg.cn/large/67804861gw1esegnpwy46j21kw16on24.jpg)
 
