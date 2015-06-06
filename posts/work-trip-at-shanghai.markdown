@@ -23,7 +23,10 @@
 这个是科学馆，好文艺的门口（摄于南昌路）
 ![](http://ww3.sinaimg.cn/mw1024/67804861gw1esusck4k1oj21kw23utxy.jpg)
 <br/>
-
+<br/>
+电影院
+![](http://ww3.sinaimg.cn/mw1024/67804861gw1esusbs7cm4j21kw23ugym.jpg)
+<br/>
 <br/>
 
 ### 后记：
