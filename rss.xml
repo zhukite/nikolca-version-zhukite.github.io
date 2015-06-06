@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveller</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Thu, 28 May 2015 11:17:24 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>work trip at Capital city(帝都一瞥)</title><link>http://zhukite.github.io//posts/work-trip-at-capital-city.html</link><description>&lt;h4&gt;Last Sunday , I arrived at Beijing for my work trip. For  6 days(from Sunday night to Friday afternoon ) , the weather was sunny and dry. The sky was always legendary APEC Blue. Before  or  After working time , I wandered around the center of The Capital. Let me show U some photos.&lt;/h4&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveller</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Sat, 06 Jun 2015 15:29:19 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>侬好，上海（work trip at ShangHai）</title><link>http://zhukite.github.io//posts/work-trip-at-shanghai.html</link><description>&lt;h4&gt;继北京出差之后，没想到很快又去上海出差，以前对上海的印象就是金融中心————外滩和陆家嘴那些建筑，这回在浦东自贸区工作。&lt;/h4&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;工作之余，刚好以前认识的朋友是个老上海，带我逛了卢湾，旧时法租界，让我体验到上海小资文艺的一面，逛了半天看到大概四家剧院，还有各种DIY创意小店，还有吃地道上海菜。&lt;/h4&gt;
+&lt;p&gt;&lt;br&gt;
+中共一大会址
+&lt;img alt="" src="http://ww2.sinaimg.cn/mw1024/67804861gw1esusbcynvxj21kw16o14y.jpg"&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;这个是科学馆，好文艺的门口（摄于南昌路）
+&lt;img alt="" src="http://ww3.sinaimg.cn/mw1024/67804861gw1esusck4k1oj21kw23utxy.jpg"&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;后记：&lt;/h4&gt;
+&lt;h4&gt;1、其实上海除了房价比较高之外，食、行消费都感觉比广州低，地铁网络非常发达。租房也差不多，但是住的环境很有情调，不知是不是法租界留下的影响。&lt;/h4&gt;
+&lt;h4&gt;2、总体上看，走在卢湾，其实有种广州老东山新河浦和沙面的n倍放大版的感觉，生活气息比沙面要浓，保留下来的石库门还是挺有特色的，广州旧城改造在这方面可以向上海学习。&lt;/h4&gt;</description><category>travel</category><guid>http://zhukite.github.io//posts/work-trip-at-shanghai.html</guid><pubDate>Sat, 06 Jun 2015 14:31:56 GMT</pubDate></item><item><title>work trip at Capital city(帝都一瞥)</title><link>http://zhukite.github.io//posts/work-trip-at-capital-city.html</link><description>&lt;h4&gt;Last Sunday , I arrived at Beijing for my work trip. For  6 days(from Sunday night to Friday afternoon ) , the weather was sunny and dry. The sky was always legendary APEC Blue. Before  or  After working time , I wandered around the center of The Capital. Let me show U some photos.&lt;/h4&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h4&gt;出差间隙，帝都一瞥，见识传说中APEC蓝，大老早起床去俯瞰故宫（The Imperial Palace / the Forbidden City），完后继续上班。&lt;/h4&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -133,49 +146,4 @@
 &lt;img alt="" src="http://ww1.sinaimg.cn/mw1024/67804861gw1ekdmfvrgyij21kw16oaig.jpg"&gt;
 &lt;br&gt;&lt;/p&gt;
 &lt;p&gt;&lt;br&gt;
-&lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/epic-style-picture.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>travel</category><guid>http://zhukite.github.io//posts/epic-style-picture.html</guid><pubDate>Mon, 15 Sep 2014 23:46:22 GMT</pubDate></item><item><title>use nikola to build a blog at ubuntu and mount on gitpage</title><link>http://zhukite.github.io//posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html</link><description>&lt;div&gt;&lt;h3&gt;好记性不如烂笔头，还是记录下整个静态博客搭建在github的流程。&lt;/h3&gt;
-&lt;h4&gt;我用的OS是ubuntu12.04，先安装python-pip，python-dev，在ubuntu安装很简单，输入&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;sudo apt-get install python-pip 
-sudo apt-get install python-dev
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;h4&gt;就可以。 按照nikola执行&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;pip install nikola
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;h4&gt;注意：可能在执行安装nikola操作的时候会出现libxml/libxslt errors的报错。&lt;/h4&gt;
-&lt;h4&gt;那就需要先安装libxml2-dev和libslt1-dev,&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;sudo apt-get install libxml2-dev
-sudo apt-get install libxslt1-dev
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;h4&gt;我的实际情况是在去年装的版本是nikola 6.0.1版本，现在（2014.8.23）nikola版本是7.0.1了，导致我原来的博客主题themes一些文件和变量发生变化，在进行nikola build的时候报错不能执行下去。&lt;/h4&gt;
-&lt;h4&gt;所以将version 6.0.1的nikola安装包git上去我的一个repo那里。&lt;/h4&gt;
-&lt;h4&gt;按照前面把libxml2-dev和libslt1-dev安装好后，执行nikola的安装，需要加sudo权限&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;sudo pip install https://github.com/zhukite/nikola-install/archive/master.zip
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;h4&gt;nikola安装完成！因为我原来一些post是用markdown写的，所以要装多个附加依赖包，&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;sudo pip install nikola markdown
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;h4&gt;接下来就新建一个文件夹，在里面新建个website;&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;nikola init
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;h4&gt;然后新建一个post，&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;nikola new_post -f markdown
-&lt;/pre&gt;&lt;/div&gt;
-
-
-&lt;h4&gt;编译则是nikola build;&lt;/h4&gt;
-&lt;h4&gt;本地查看网站效果，可用 nikola serve, 使用下面地址浏览 http://localhost:8000 。&lt;/h4&gt;
-&lt;h4&gt;Nikola操作手册有详细描写：&lt;a href="http://getnikola.com/handbook.html" target="_blank"&gt;The Nikola Handbook&lt;/a&gt;。&lt;/h4&gt;
-&lt;h4&gt;nikola build后的网站展示的内容是放在output,最后，只要把mysite下面的output文件夹，push到GitHub上面即可。&lt;/h4&gt;
-&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><category>ubuntu</category><guid>http://zhukite.github.io//posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html</guid><pubDate>Sun, 24 Aug 2014 18:56:01 GMT</pubDate></item></channel></rss>
+&lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/epic-style-picture.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>travel</category><guid>http://zhukite.github.io//posts/epic-style-picture.html</guid><pubDate>Mon, 15 Sep 2014 23:46:22 GMT</pubDate></item></channel></rss>

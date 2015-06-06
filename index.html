@@ -63,6 +63,46 @@
         
         <div class="article_box">
             <div class="article_title">
+                <h3><a href="posts/work-trip-at-shanghai.html">侬好，上海（work trip at ShangHai）</a></h3>
+                <div class="comment_num comment_highlight">
+                    <a href="posts/work-trip-at-shanghai.html#post-comments" title="">
+                    <span data-thread-key="1433601116.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
+                    </a>
+                </div>
+            </div>
+            <div class="entry ">
+                <h4>继北京出差之后，没想到很快又去上海出差，以前对上海的印象就是金融中心————外滩和陆家嘴那些建筑，这回在浦东自贸区工作。</h4>
+<p><br></p>
+<h4>工作之余，刚好以前认识的朋友是个老上海，带我逛了卢湾，旧时法租界，让我体验到上海小资文艺的一面，逛了半天看到大概四家剧院，还有各种DIY创意小店，还有吃地道上海菜。</h4>
+<p><br>
+中共一大会址
+<img alt="" src="http://ww2.sinaimg.cn/mw1024/67804861gw1esusbcynvxj21kw16o14y.jpg">
+<br></p>
+<p>这个是科学馆，好文艺的门口（摄于南昌路）
+<img alt="" src="http://ww3.sinaimg.cn/mw1024/67804861gw1esusck4k1oj21kw23utxy.jpg">
+<br></p>
+<p><br></p>
+<h4>后记：</h4>
+<h4>1、其实上海除了房价比较高之外，食、行消费都感觉比广州低，地铁网络非常发达。租房也差不多，但是住的环境很有情调，不知是不是法租界留下的影响。</h4>
+<h4>2、总体上看，走在卢湾，其实有种广州老东山新河浦和沙面的n倍放大版的感觉，生活气息比沙面要浓，保留下来的石库门还是挺有特色的，广州旧城改造在这方面可以向上海学习。</h4>
+            </div>
+            <ul class="article_info">
+                 <!--
+                 <li class="cate"></li>
+                 <li class="vote"></li>
+                 -->
+                 <li class="tag">
+                    <ul class="tags_list">
+                        <li>
+                            <a href="categories/travel.html" rel="tag">travel</a>
+                        </li>
+                    </ul>
+                 </li>
+                <li class="date">2015-06-06 14:31</li>
+            </ul>
+        </div>
+        <div class="article_box">
+            <div class="article_title">
                 <h3><a href="posts/work-trip-at-capital-city.html">work trip at Capital city(帝都一瞥)</a></h3>
                 <div class="comment_num comment_highlight">
                     <a href="posts/work-trip-at-capital-city.html#post-comments" title="">
@@ -436,81 +476,6 @@
                     </ul>
                  </li>
                 <li class="date">2014-09-15 23:46</li>
-            </ul>
-        </div>
-        <div class="article_box">
-            <div class="article_title">
-                <h3><a href="posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html">use nikola to build a blog at ubuntu and mount on gitpage</a></h3>
-                <div class="comment_num comment_highlight">
-                    <a href="posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html#post-comments" title="">
-                    <span data-thread-key="1408906561.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
-                    </a>
-                </div>
-            </div>
-            <div class="entry ">
-                <div><h3>好记性不如烂笔头，还是记录下整个静态博客搭建在github的流程。</h3>
-<h4>我用的OS是ubuntu12.04，先安装python-pip，python-dev，在ubuntu安装很简单，输入</h4>
-<div class="code"><pre>sudo apt-get install python-pip 
-sudo apt-get install python-dev
-</pre></div>
-
-
-<h4>就可以。 按照nikola执行</h4>
-<div class="code"><pre>pip install nikola
-</pre></div>
-
-
-<h4>注意：可能在执行安装nikola操作的时候会出现libxml/libxslt errors的报错。</h4>
-<h4>那就需要先安装libxml2-dev和libslt1-dev,</h4>
-<div class="code"><pre>sudo apt-get install libxml2-dev
-sudo apt-get install libxslt1-dev
-</pre></div>
-
-
-<h4>我的实际情况是在去年装的版本是nikola 6.0.1版本，现在（2014.8.23）nikola版本是7.0.1了，导致我原来的博客主题themes一些文件和变量发生变化，在进行nikola build的时候报错不能执行下去。</h4>
-<h4>所以将version 6.0.1的nikola安装包git上去我的一个repo那里。</h4>
-<h4>按照前面把libxml2-dev和libslt1-dev安装好后，执行nikola的安装，需要加sudo权限</h4>
-<div class="code"><pre>sudo pip install https://github.com/zhukite/nikola-install/archive/master.zip
-</pre></div>
-
-
-<h4>nikola安装完成！因为我原来一些post是用markdown写的，所以要装多个附加依赖包，</h4>
-<div class="code"><pre>sudo pip install nikola markdown
-</pre></div>
-
-
-<h4>接下来就新建一个文件夹，在里面新建个website;</h4>
-<div class="code"><pre>nikola init
-</pre></div>
-
-
-<h4>然后新建一个post，</h4>
-<div class="code"><pre>nikola new_post -f markdown
-</pre></div>
-
-
-<h4>编译则是nikola build;</h4>
-<h4>本地查看网站效果，可用 nikola serve, 使用下面地址浏览 http://localhost:8000 。</h4>
-<h4>Nikola操作手册有详细描写：<a href="http://getnikola.com/handbook.html" target="_blank">The Nikola Handbook</a>。</h4>
-<h4>nikola build后的网站展示的内容是放在output,最后，只要把mysite下面的output文件夹，push到GitHub上面即可。</h4>
-<p class="more"><a href="posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html">阅读全文…</a></p></div>
-            </div>
-            <ul class="article_info">
-                 <!--
-                 <li class="cate"></li>
-                 <li class="vote"></li>
-                 -->
-                 <li class="tag">
-                    <ul class="tags_list">
-                        <li>
-                            <a href="categories/it.html" rel="tag">IT</a>
-                        </li>
-                        <li>
-                            <a href="categories/ubuntu.html" rel="tag">ubuntu</a>
-                        </li>
-                    </ul>
-                 </li>
-                <li class="date">2014-08-24 18:56</li>
             </ul>
         </div>
     
