@@ -24,10 +24,8 @@
 ![](http://ww3.sinaimg.cn/mw1024/67804861gw1esusck4k1oj21kw23utxy.jpg)
 <br/>
 <br/>
-电影院
-![](http://ww3.sinaimg.cn/mw1024/67804861gw1esusbs7cm4j21kw23ugym.jpg)
-<br/>
-<br/>
+
+<!-- TEASER_END -->
 
 ### 后记：
 ### 1、上海除了房价比较高之外，食、行消费都感觉比广州低，地铁网络非常发达。租房也差不多，但是住的环境很有情调，不知是不是法租界留下的影响。
