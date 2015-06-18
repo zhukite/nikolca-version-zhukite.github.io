@@ -14,7 +14,7 @@
 ### 出差间隙，帝都一瞥，见识传说中APEC蓝，大老早起床去俯瞰故宫（The Imperial Palace / the Forbidden City），完后继续上班。
 <br/>
 
-### je suis  été  en mission à Beijing  semaine derenier . Il fait  beau  et  il fera du soleil. Ce matin, je me suis levé  très tôt . Après , j'ai visité le musée ( Palais Impérial / Cité interdite ). Quand j'ai retardé le  Palais Impérial, je trouver que ils sont très magnifique.   
+### je suis  été  en mission à Beijing  semaine derenier . il fait  beau  et  il fera du soleil. Le matin, je me suis levé  très tôt . Après , j'ai visité le musée ( Palais Impérial / Cité interdite ). Quand j'ai retardé le  Palais Impérial, je trouver que ils sont très magnifique.   
 
 
 <br/>
