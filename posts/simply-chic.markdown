@@ -12,7 +12,7 @@
 
 ### 让你身心愉悦地好好接受教育。这样的质量和高颜值，必然是播几遍看几遍。
 
-<embed src="http://static.video.qq.com/TPout.swf?auto=1&vid=t0149b956nu" quality="high" width="460" height="372" align="middle" allowScriptAccess="sameDomain" allowFullscreen="true" type="application/x-shockwave-flash"></embed>
+<embed src="http://static.video.qq.com/TPout.swf?vid=t0149b956nu&auto=0" allowFullScreen="true" quality="high" width="480" height="400" align="middle" allowScriptAccess="always" type="application/x-shockwave-flash"></embed>
 
 ### P.S. 法航的航空餐也是很不错，很赞！！！
 
