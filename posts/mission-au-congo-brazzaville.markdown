@@ -17,6 +17,7 @@
 ### 推荐几家西餐厅: mami wata, o sympathique , l'orchidee , jardin, l'oriental, verda politan酒店的餐厅，michael酒店的自助餐，pledger plaza maya maya酒店的餐厅
 
 <br/>
+<br/>
 
 ### mami wata
 
@@ -25,13 +26,16 @@
 ![](http://ww3.sinaimg.cn/mw1024/67804861gw1eu9nt4psg0j21kw16odsc.jpg)
 
 <br/>
+<br/>
 
 ![](http://ww1.sinaimg.cn/mw1024/67804861gw1eubxl6zocmj21kw16otkt.jpg)
 
 <br/>
+<br/>
 
 ![](http://ww1.sinaimg.cn/mw1024/67804861gw1eubxl91bupj21kw16o136.jpg)
 
+<br/>
 <br/>
 
 ### o sympathique
@@ -42,9 +46,11 @@
 ![](http://ww4.sinaimg.cn/mw1024/67804861gw1eubxh633q6j21kw23utpg.jpg)
 
 <br/>
+<br/>
 
 ![](http://ww4.sinaimg.cn/mw1024/67804861gw1eubxh1513jj21kw16ok0t.jpg)
 
+<br/>
 <br/>
 
 
@@ -56,13 +62,16 @@
 ![](http://ww1.sinaimg.cn/mw1024/67804861gw1eubxnhq5zlj20k00zk0wn.jpg)
 
 <br/>
+<br/>
 
 ![](http://ww4.sinaimg.cn/mw1024/67804861gw1eubxmugmsij21kw23ugx2.jpg)
 
 <br/>
+<br/>
 
 ![](http://ww1.sinaimg.cn/mw1024/67804861gw1eubzf4rwvsj20m80ci74q.jpg)
 
+<br/>
 <br/>
 
 ### jardin des saveur
@@ -73,17 +82,21 @@
 ![](http://ww1.sinaimg.cn/mw1024/67804861gw1eu9nuiqqbcj21kw16ogtj.jpg)
 
 <br/>
+<br/>
 
 ![](http://ww4.sinaimg.cn/mw1024/67804861gw1eu9nxpjy8jj21kw23ux07.jpg)
 
+<br/>
 <br/>
 
 ![](http://ww3.sinaimg.cn/mw1024/67804861gw1eu9nv2qyj0j21kw16oaka.jpg)
 
 <br/>
+<br/>
 
 ![](http://ww2.sinaimg.cn/mw1024/67804861gw1eubxglklljj21kw23u7hl.jpg)
 
+<br/>
 <br/>
 
 ### l'oriental 
@@ -95,9 +108,11 @@
 ![](http://ww4.sinaimg.cn/mw1024/67804861gw1eu9o2rhho3j21kw16o186.jpg)
 
 <br/>
+<br/>
 
 ![](http://ww3.sinaimg.cn/mw1024/67804861gw1eubxgulugvj21kw23u7bq.jpg)
 
+<br/>
 <br/>
 
 ### verda politan酒店的餐厅
@@ -109,29 +124,36 @@
 ![](http://ww1.sinaimg.cn/mw1024/67804861gw1eubxlbjpaej21kw16ok42.jpg)
 
 <br/>
+<br/>
 
 ![](http://ww4.sinaimg.cn/mw1024/67804861gw1eu9nsjazesj21kw23uaq5.jpg)
 
+<br/>
 <br/>
 
 ![](http://ww2.sinaimg.cn/mw1024/67804861gw1eu9nu3now7j21kw16o7cv.jpg)
 
 <br/>
+<br/>
 
 ![](http://ww4.sinaimg.cn/mw1024/67804861gw1eu9o12z8u3j21kw16own0.jpg)
 
+<br/>
 <br/>
 
 ![](http://ww2.sinaimg.cn/mw1024/67804861gw1eubxl0p17jj21kw23u7i6.jpg)
 
 <br/>
+<br/>
 
 ![](http://ww2.sinaimg.cn/mw1024/67804861gw1eubxn88ww6j21kw16ogte.jpg)
 
 <br/>
+<br/>
 
 ![](http://ww1.sinaimg.cn/mw1024/67804861gw1eubxn6b0sej21kw23uk3o.jpg)
 
+<br/>
 <br/>
 
 
@@ -140,21 +162,26 @@
 ![](http://ww4.sinaimg.cn/mw1024/67804861gw1eu9nojafkkj21kw23uk6k.jpg)
 
 <br/>
+<br/>
 
 ### pledger plaza maya maya酒店的餐厅
 
+<br/>
 <br/>
 
 ![](http://ww3.sinaimg.cn/mw1024/67804861gw1eubxgt663xj21kw16owpj.jpg)
 
 <br/>
+<br/>
 
 ![](http://ww2.sinaimg.cn/mw1024/67804861gw1eubxgqq3ypj21kw16ok5h.jpg)
 
 <br/>
+<br/>
 
 ![](http://ww3.sinaimg.cn/mw1024/67804861gw1eubxgnubb7j21kw23un9v.jpg)
 
+<br/>
 <br/>
 
 
@@ -165,6 +192,7 @@
 ### K歌按摩沐足理发：中国城
 
 <br/>
+<br/>
 
 ### 当地文化
 
@@ -172,9 +200,11 @@
 ![](http://ww2.sinaimg.cn/mw1024/67804861gw1eubxknmfeaj21kw23u7kd.jpg)
 
 <br/>
+<br/>
 
 ![](http://ww3.sinaimg.cn/mw1024/67804861gw1eubxh8a2azj21kw23uwmx.jpg)
 
+<br/>
 <br/>
 
 ### Sacre Coeur
@@ -182,6 +212,7 @@
 ![](http://ww2.sinaimg.cn/mw1024/67804861gw1eubxl4iwpaj21kw23u7lm.jpg)
 
 
+<br/>
 <br/>
 
 ### 再送上brazzaville 的街景 
@@ -191,17 +222,21 @@
 ![](http://ww4.sinaimg.cn/mw1024/67804861gw1eubxkshatjj21kw23utuk.jpg)
 
 <br/>
+<br/>
 
 ![](http://ww1.sinaimg.cn/mw1024/67804861gw1eubxkvsqzyj21kw16o7jc.jpg)
 
+<br/>
 <br/>
 
 ![](http://ww3.sinaimg.cn/mw1024/67804861gw1eubxkxa0uej21kw16o452.jpg)
 
 <br/>
+<br/>
 
 ![](http://ww3.sinaimg.cn/mw1024/67804861gw1eubxncmddvj21kw23unfh.jpg)
 
+<br/>
 <br/>
 
 
