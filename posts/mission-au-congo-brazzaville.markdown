@@ -14,7 +14,7 @@
 
 ### 出发前研究了一下这个国家概况，人均gdp跟我们西藏差不多，那我就淡定多了。再看了攻略，都是些出差间隙对这个国家的所见所闻，我就更安心工作，专注找吃的。
 
-### 推荐几家西餐厅: mami wata, o sympathique , l'orchidee , jardin, l'oriental, verda politan酒店的餐厅，michael酒店的自助餐，pledger plaza maya maya酒店的餐厅
+### 推荐几家西餐厅: mami wata, o sympathique , l'orchidee , jardin, l'oriental, verda politan酒店的餐厅，michael酒店的自助餐，ledger plaza maya maya酒店的餐厅
 
 <br/>
 <br/>
@@ -164,7 +164,7 @@
 <br/>
 <br/>
 
-### pledger plaza maya maya酒店的餐厅
+### ledger plaza maya maya酒店的餐厅
 
 <br/>
 <br/>
