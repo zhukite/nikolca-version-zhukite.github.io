@@ -186,6 +186,10 @@
 <br/>
 <br/>
 
+### 那个在trade advisor推荐排第一名的filo tempo，最近关门谢客啦。
+
+<br/>
+<br/>
 
 <!-- TEASER_END -->
 
@@ -202,7 +206,7 @@
 
 ### 当地文化（星期天弥撒）
 
-### saint anna cathédrale
+### Basilique Sainte Anne du Congo
 ![](http://ww2.sinaimg.cn/mw1024/67804861gw1eubxknmfeaj21kw23u7kd.jpg)
 
 <br/>
