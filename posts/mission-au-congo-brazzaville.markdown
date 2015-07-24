@@ -186,7 +186,7 @@
 <br/>
 <br/>
 
-### 那个在trade advisor推荐排第一名的filo tempo，最近关门谢客啦。
+### 那个在trip advisor推荐排第一名的filo tempo，最近关门谢客啦。
 
 <br/>
 <br/>
