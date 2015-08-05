@@ -14,7 +14,14 @@
 
 ### 出发前研究了一下这个国家概况，人均gdp跟我们西藏差不多，那我就淡定多了。再看了攻略，都是些出差间隙对这个国家的所见所闻，我就更安心工作，专注找吃的。
 
-### 推荐几家西餐厅: mami wata, o sympathique , l'orchidee , jardin, l'oriental, verda politan酒店的餐厅，michael酒店的自助餐，ledger plaza maya maya酒店的餐厅
+### 找了几张明信片拼起来表达 République du Congo ，中文：刚果（布）
+
+![](http://ww4.sinaimg.cn/mw1024/67804861gw1eus6hs7xlxj21kw16o46w.jpg)
+
+<br/>
+<br/>
+
+### 碟中碟 * 刚果行动之后，在此推荐几家西餐厅: mami wata, o sympathique , l'orchidee , jardin, l'oriental, verda politan酒店的餐厅，michael酒店的自助餐，ledger plaza maya maya酒店的餐厅
 
 <br/>
 <br/>
@@ -188,7 +195,22 @@
 
 ### 那个在trip advisor推荐排第一名的filo tempo，最近关门谢客啦。
 
+### 再补充一家位于brazza纪念馆后面的，也是河边的西餐mama mia
+
+![](http://ww4.sinaimg.cn/mw1024/67804861gw1eus5wzl7a1j20m80goq6c.jpg)
+
 <br/>
+<br/>
+
+
+![](http://ww3.sinaimg.cn/mw1024/67804861gw1eus5wzuxplj20m80gotav.jpg)
+
+<br/>
+<br/>
+
+![](http://ww1.sinaimg.cn/mw1024/67804861gw1eus5wymomcj20m80goq5w.jpg)
+
+
 <br/>
 
 <!-- TEASER_END -->
