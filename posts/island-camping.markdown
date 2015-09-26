@@ -3,7 +3,7 @@
 .. description: 
 .. tags: travel
 .. date: 2015/09/26 12:07:37
-.. title: 零丁样里嘆世界
+.. title: 零丁洋里嘆世界
 .. slug: island-camping
 -->
 
