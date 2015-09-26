@@ -77,7 +77,6 @@ img {
     max-width:960px;
 	height:60px;
     overflow:hidden;
-	/*background:url() no-repeat scroll center bottom transparent;*/
 }
 .logo {
     float:left;
@@ -87,20 +86,15 @@ img {
     height:60px;
     display:block;
    /* background-color:#144263;*/
-   
+    position:relative;
     color: #000080;
     line-height: 60px;
     font-size: 40px;
     padding: 0 30px;
 }
-
-
 .main_nav {
     float:right;
-    
 }
-
-　　
 .main_nav li {
     float:left;
     margin-left:20px;
