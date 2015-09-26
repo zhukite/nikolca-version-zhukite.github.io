@@ -75,7 +75,7 @@ img {
 }
 .header_box {
     max-width:960px;
-	height:60px;
+	max-height:60px;
     overflow:hidden;
 }
 .logo {
