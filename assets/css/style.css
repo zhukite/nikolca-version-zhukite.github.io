@@ -76,9 +76,9 @@ img {
 .header_box {
     max-width:960px;
 	height:226px;
-    margin:0 auto;
+    margin:20px auto 0;
     overflow:hidden;
-	background:url() no-repeat scroll center bottom transparent;
+/*	background:url() no-repeat scroll center bottom transparent;*/
 }
 .logo {
     float:left;
