@@ -15,6 +15,9 @@
 
 ![](http://ww1.sinaimg.cn/mw1024/67804861gw1ewg47oz167j21kw16o45y.jpg)
 
+<br/>
+<!-- TEASER_END -->
+
 ### 一个半小时到步，码头在岛西边，上岸开始逆时针环岛步行，好在没带单车，路虽然很好而且还标明是广东绿道，那直上坡直下坡的还真玩不起，随时飞跃海水。
 
 ![](http://ww2.sinaimg.cn/mw1024/67804861gw1ewg4kyo1j0j218g0p0gsw.jpg)
