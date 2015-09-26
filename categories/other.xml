@@ -1,9 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<<<<<<< HEAD
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveller (other)</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/categories/other.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Sat, 26 Sep 2015 06:29:36 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>simply chic</title><link>http://zhukite.github.io//posts/simply-chic.html</link><description>&lt;h4&gt;第一次来回坐法航的飞机，深深喜欢上法航的飞机安全常识演示视频，simply chic，法式小优雅小俏皮！&lt;/h4&gt;
-=======
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveller (other)</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/categories/other.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Fri, 24 Jul 2015 17:02:44 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>simply chic</title><link>http://zhukite.github.io//posts/simply-chic.html</link><description>&lt;h4&gt;第一次来回坐法航的飞机，深深喜欢上法航的飞机安全常识演示视频，simply chic，法式小优雅小俏皮！&lt;/h4&gt;
->>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>zhukite (other)</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/categories/other.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Sat, 26 Sep 2015 08:39:37 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>simply chic</title><link>http://zhukite.github.io//posts/simply-chic.html</link><description>&lt;h4&gt;第一次来回坐法航的飞机，深深喜欢上法航的飞机安全常识演示视频，simply chic，法式小优雅小俏皮！&lt;/h4&gt;
 &lt;h3&gt;如果你发现看不了视频，就看看 左上角是不是有个“原网页”，点开它就进入原网页看到视频啦。Enjoy！&lt;/h3&gt;
 &lt;iframe frameborder="0" width="480" height="400" src="http://v.qq.com/iframe/player.html?vid=t0149b956nu&amp;amp;tiny=0&amp;amp;auto=0" allowfullscreen&gt;&lt;/iframe&gt;
 
@@ -43,8 +39,4 @@
 &lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/road-test.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>other</category><guid>http://zhukite.github.io//posts/road-test.html</guid><pubDate>Sun, 21 Dec 2014 11:34:57 GMT</pubDate></item><item><title>恋上春树</title><link>http://zhukite.github.io//posts/funny-movie-wood-job.html</link><description>&lt;div&gt;&lt;h4&gt;看了部日本喜剧，英文翻译是wood job，非常直白的意思就是讲述一个伐木进修生的囧事，同时也从中了解林业伐木这一行的日常工作。台湾把片名译为《哪啊哪啊神去村》表达了故事发生地，但香港则把片名叫做《恋上春树》显得更有文艺范，更符合信达雅的标准。&lt;/h4&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h4&gt;电影开头比较无聊嘈杂，就是介绍了主角故事的背景，当看到林业宣传单那张美女照开始，笑点才正式拉开，各种囧事开始发生，笑到我好肚饿，看来笑也非常消耗能量。p.s.女主村姑石井直纪（长泽雅美 饰）长得不错，尤其鼻子好看！&lt;/h4&gt;
-<<<<<<< HEAD
 &lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/funny-movie-wood-job.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>other</category><guid>http://zhukite.github.io//posts/funny-movie-wood-job.html</guid><pubDate>Thu, 11 Dec 2014 20:31:07 GMT</pubDate></item></channel></rss>
-=======
-&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/funny-movie-wood-job.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>other</category><guid>http://zhukite.github.io//posts/funny-movie-wood-job.html</guid><pubDate>Thu, 11 Dec 2014 20:31:07 GMT</pubDate></item><item><title>测</title><link>http://zhukite.github.io//posts/ce.html</link><description>&lt;p&gt;hello world!&lt;/p&gt;</description><category>other</category><guid>http://zhukite.github.io//posts/ce.html</guid><pubDate>Wed, 08 Jan 2014 18:23:22 GMT</pubDate></item></channel></rss>
->>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
