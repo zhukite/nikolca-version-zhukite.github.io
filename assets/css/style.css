@@ -69,6 +69,7 @@ img {
     max-height:226px;
 	margin-left:auto;
 	margin-right:auto;
+	margin-top:auto;
     box-shadow:0 3px 3px rgba(0,0,0,0.7);
     background:#f7f7f7;
 }
