@@ -81,6 +81,7 @@ img {
 }
 .logo {
     float:left;
+    width:auto;
 }
 .logo a {
     height:60px;
@@ -94,13 +95,10 @@ img {
 }
 
 
-
 .main_nav {
-	
     float:right;
 }
 
-　
 .main_nav li {
     float:left;
     margin-left:20px;
