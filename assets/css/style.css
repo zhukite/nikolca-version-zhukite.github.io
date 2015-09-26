@@ -98,7 +98,7 @@ img {
 .main_nav {
 	
     float:right;
-    position:relative;
+    
    
 }
 
@@ -115,6 +115,7 @@ img {
     height:56px;
     line-height:51px;
     display:block;
+    position:relative;
     padding:0 8px;
     color:#666;
     border-top:4px solid #f7f7f7;
