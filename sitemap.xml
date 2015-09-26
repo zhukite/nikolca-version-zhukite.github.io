@@ -50,11 +50,6 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://zhukite.github.io/categories/fun.html</loc>
-  <lastmod>2015-09-26</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
   <loc>http://zhukite.github.io/categories/google.html</loc>
   <lastmod>2015-09-26</lastmod>
   <priority>0.5000</priority>
@@ -70,11 +65,6 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://zhukite.github.io/categories/it-1.html</loc>
-  <lastmod>2015-09-26</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
   <loc>http://zhukite.github.io/categories/it.html</loc>
   <lastmod>2015-09-26</lastmod>
   <priority>0.5000</priority>
@@ -85,32 +75,7 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://zhukite.github.io/categories/tavel.html</loc>
-  <lastmod>2015-09-26</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://zhukite.github.io/categories/travel-1.html</loc>
-  <lastmod>2015-09-26</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://zhukite.github.io/categories/travel-2.html</loc>
-  <lastmod>2015-09-26</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://zhukite.github.io/categories/travel-yun-nan-xi-cang.html</loc>
-  <lastmod>2015-09-26</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
   <loc>http://zhukite.github.io/categories/travel.html</loc>
-  <lastmod>2015-09-26</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://zhukite.github.io/categories/travelyun-nan-xi-cang.html</loc>
   <lastmod>2015-09-26</lastmod>
   <priority>0.5000</priority>
  </url>
@@ -120,17 +85,7 @@
   <priority>0.5000</priority>
  </url>
  <url>
-  <loc>http://zhukite.github.io/categories/xi-cang-xin-jiang.html</loc>
-  <lastmod>2015-09-26</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
   <loc>http://zhukite.github.io/categories/xi-cang.html</loc>
-  <lastmod>2015-09-26</lastmod>
-  <priority>0.5000</priority>
- </url>
- <url>
-  <loc>http://zhukite.github.io/categories/xin-jiang-xi-cang-yun-nan.html</loc>
   <lastmod>2015-09-26</lastmod>
   <priority>0.5000</priority>
  </url>
