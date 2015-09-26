@@ -1,0 +1,205 @@
+<!DOCTYPE html><html lang="zh_cn">
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--[if lt IE 9]>
+　　　　<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+　　<![endif]--></head><body><p>
+　　
+    
+    <meta charset="utf-8">
+    <meta name="description" content="">
+    <meta name="author" content="zhukite">
+    </p><title>using Koding edit static blog in the cloud | pseudo traveller</title>
+    
+    <link href="../assets/css/style.css" rel="stylesheet" type="text/css">
+    <link href="../assets/css/rst.css" rel="stylesheet" type="text/css">
+    <link href="../assets/css/code.css" rel="stylesheet" type="text/css">
+    <link href="../assets/css/myrst.css" rel="stylesheet" type="text/css">
+            <link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
+            <link rel="icon" href="50x49.ico" sizes="50x49">
+    <script src="../assets/js/jquery.js" type="text/javascript"></script>
+
+    
+
+
+
+    
+<script language="JavaScript" type="text/javascript">
+	var imgNameList=new Array();
+	imgNameList.push("/1000x226_01.JPG");
+	imgNameList.push("/1000x226_02.JPG");
+	imgNameList.push("/1000x226_03.JPG");
+	imgNameList.push("/1000x226_04.JPG");
+	imgNameList.push("/1000x226_05.JPG");
+	imgNameList.push("/1000x226_06.JPG");
+</script>
+
+
+
+<!-- Menubar -->
+<div class="header">
+<script>
+document.write("<style>#aaa {background: url("+imgNameList[parseInt(Math.random()*imgNameList.length)]+");}<\/style>");
+</script>
+    <div class="header_box" id="aaa">
+            <h1 class="logo" id="logo"><a href="../">pseudo traveller</a>
+            </h1>
+            <ul class="main_nav" id="mainNav">
+                
+                <li><a href="../categories/it.html">IT</a>
+                </li><li><a href="../categories/travel.html">旅行</a>
+                </li><li><a href="../categories/index.html">标签</a>
+                </li><li><a href="../archive.html">归档</a>
+                </li><li><a href="../stories/about.html">About</a>
+
+            </li></ul>
+    </div>
+</div>
+<!-- End of Menubar -->
+<div class="content clearfix">
+    <!--Body content-->
+    
+
+    <div class="con_left" id="conLeft">
+        
+    <div class="article_box">
+    	<div class="article_title">
+    		
+    <h3>using Koding edit static blog in the cloud</h3>
+
+    	</div>
+	    <div class="entry ">                    
+		    	<h3>今天发现一个神器<a href="https://koding.com" target="_blank">Koding</a>，谁知人家一年前已经在用了，看人家博客（大陆的台湾的都有）写的中文用法介绍都是1月的事情，以致这神器已经更新了不少，很多东西还是看英文文档才能跟进操作。实在惭愧！</h3>
+<p><br></p>
+<h3>其实有个问题已经困扰我大半年了，就是静态博客比起 Wordpress 这类博客的一个不足是需要先配置好整个博客环境才能编写和预览博客。以我使用nikola作为博客引擎为例，为了写一篇博客，需要在自己电脑（在虚拟机里的Ubuntu）安装配置Nikola、markdown、retext、git等，认真烦！想对已发布的文章改少少内容，除非每台机器都配合这个环境，否则我只能打开自己的电脑去修改。所以我一直想找个可以在浏览器在线编辑静态博客的工具，就像wordpress那么方便，只需打开浏览器完成文章的编辑发布。</h3>
+<p><br>
+ <img src="http://ww4.sinaimg.cn/mw1024/67804861gw1en7gaek7ezj21690min4p.jpg" width="700">
+<br>
+<br></p>
+<h3>Koding，在<a href="http://zh.wikipedia.org/wiki/Koding" target="_blank">wikipedia</a>里吹他是PaaS的云计算平台的网络应用，果然do完后翻唔到转头，再也不用烦恼。</h3>
+<p><br></p>
+<h3>原理其实就是把整个本地的nikola搬到“云端”的vms，在远端的部署方式与在 Linux 上基本一致。按照自己写过的<a href="http://zhukite.github.io/posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html" target="_blank">nikola配置步骤和手册</a>配置。</h3>
+<p><br></p>
+<h3>由于 Koding 开放了端口，因此也可以用本地的浏览器预览你正在编辑的文章。比如， 输入命令</h3>
+<div class="code"><pre>nikola serve -a 0.0.0.0 -p 8080
+</pre></div>
+
+
+<h3>打开nikola 的端口号是8080，那么可以访问 http://你的账户名.koding.io:端口号/ 预览在该主机编辑的网站。已经不用大半年前那种访问 http://vm-主机号.你的账户名.koding.kd.io:端口号/ 来预览了！</h3>
+<p><br>
+ <img src="http://ww3.sinaimg.cn/mw1024/67804861gw1en7gkfkru8j20le0ee0wp.jpg" width="700">
+<br>
+<br>
+<!-- TEASER_END --></p>
+<h4>还有SSH，FTP等功能以及在线编程等等，有待学习发掘！</h4>
+<hr>  
+        </div>
+            
+        <div class="art_copy">
+            
+    <!-- Social buttons -->
+	<div class="bshare-custom icon-medium-plus"><div class="bsPromo bsPromo2"></div><b>喜欢这篇文章就分享:</b> <a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到微信" class="bshare-weixin"></a><a title="分享到Facebook" class="bshare-facebook" href="javascript:void(0);"></a><a title="分享到Twitter" class="bshare-twitter" href="javascript:void(0);"></a><a title="分享到人人网" class="bshare-renren" href="javascript:void(0);"></a><a title="分享到腾讯微博" class="bshare-qqmb" href="javascript:void(0);"></a><span class="BSHARE_COUNT bshare-share-count" style="float: none;">24.6K</span></div><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+    <!-- End of social buttons -->
+            <p>如需转载请链接原文地址：http://zhukite.github.io//posts/using-koding-edit-static-blog-in-the-cloud.html</p>
+                 
+        </div>
+	    <ul class="article_info">
+             <!--
+             <li class="cate"></li>
+             <li class="vote"></li>
+             -->
+             <li class="tag">
+                <ul class="tags_list">
+                    <li>
+                        <a href="../categories/it.html" rel="tag">IT</a>
+                    </li>
+                </ul>
+             </li>
+             <li class="date">2014-12-12 17:25</li>
+        </ul>
+    </div>
+
+	
+    <div class="art_nav">
+        <div class="previous">
+            上一篇：
+            <a href="funny-movie-wood-job.html" rel="prev">恋上春树</a>
+        </div>
+        <div class="next">
+            下一篇：
+            <a href="road-test.html" rel="next">road-test</a>
+        </div>
+    </div>
+
+
+        
+    <!-- Duoshuo Comment BEGIN -->
+    <div class="ds-thread" data-thread-key="1418405143.0" data-title="&lt;bound method Post.title of &lt;nikola.post.Post object at 0x7fcbc0a8c7d0&gt;&gt;" data-author-key="zhukite"></div>
+    <script type="text/javascript">
+    var duoshuoQuery = {short_name:"zhukite"};
+    (function() {
+        var ds = document.createElement('script');
+        ds.type = 'text/javascript';ds.async = true;
+        ds.src = 'http://static.duoshuo.com/embed.js';
+        ds.charset = 'UTF-8';
+        (document.getElementsByTagName('head')[0] 
+        || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+    </script>
+    <!-- Duoshuo Comment END -->
+    <span id="post-comments"></span>
+
+
+    </div>
+    
+    
+
+    <!--End of body content-->
+</div>
+<div class="footer">
+    Contents © 2015         <a href="mailto:zhukite@hotmail.com">zhukite</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a> 
+</div>
+<div id="goTop" class="go_top" title="返回顶部"></div>
+
+
+    
+    <script>
+        $(function(){
+            //回到顶部
+            $(window).scroll(function(){  
+                    var scrollt = document.documentElement.scrollTop + document.body.scrollTop; //获取滚动后的高度 
+                    if( scrollt >200 ){  //判断滚动后高度超过200px,就显示  
+                        $("#goTop").fadeIn(400); //淡出     
+                    }else{      
+                        $("#goTop").stop().fadeOut(400); //如果返回或者没有超过,就淡入.必须加上stop()停止之前动画,否则会出现闪动   
+                    }
+            });
+
+            $("#goTop").click(function(){ 
+                    $("html,body").animate({scrollTop:"0px"},500);
+            });
+            //滚到评论
+            var hash = window.location.hash;
+            if(hash&&$(hash).length==1){
+                $('html,body').animate({
+                        scrollTop: $(hash).offset().top
+                        },1000);
+            }
+
+        });
+    </script>
+
+    
+
+
+
+    <!-- Social buttons -->
+    
+
+    <!-- End of social buttons -->
+
+
+<script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000257069'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s96.cnzz.com/z_stat.php%3Fid%3D1000257069%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script>
+
+
+</body></html>

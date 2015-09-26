@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveller (IT)</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/categories/it.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Sat, 26 Sep 2015 06:29:36 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>using Koding edit static blog in the cloud</title><link>http://zhukite.github.io//posts/using-koding-edit-static-blog-in-the-cloud.html</link><description>&lt;div&gt;&lt;h3&gt;今天发现一个神器&lt;a href="https://koding.com" target="_blank"&gt;Koding&lt;/a&gt;，谁知人家一年前已经在用了，看人家博客（大陆的台湾的都有）写的中文用法介绍都是1月的事情，以致这神器已经更新了不少，很多东西还是看英文文档才能跟进操作。实在惭愧！&lt;/h3&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;其实有个问题已经困扰我大半年了，就是静态博客比起 Wordpress 这类博客的一个不足是需要先配置好整个博客环境才能编写和预览博客。以我使用nikola作为博客引擎为例，为了写一篇博客，需要在自己电脑（在虚拟机里的Ubuntu）安装配置Nikola、markdown、retext、git等，认真烦！想对已发布的文章改少少内容，除非每台机器都配合这个环境，否则我只能打开自己的电脑去修改。所以我一直想找个可以在浏览器在线编辑静态博客的工具，就像wordpress那么方便，只需打开浏览器完成文章的编辑发布。&lt;/h3&gt;
+&lt;p&gt;&lt;br&gt;
+ &lt;img src="http://ww4.sinaimg.cn/mw1024/67804861gw1en7gaek7ezj21690min4p.jpg" width="700"&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;Koding，在&lt;a href="http://zh.wikipedia.org/wiki/Koding" target="_blank"&gt;wikipedia&lt;/a&gt;里吹他是PaaS的云计算平台的网络应用，果然do完后翻唔到转头，再也不用烦恼。&lt;/h3&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;原理其实就是把整个本地的nikola搬到“云端”的vms，在远端的部署方式与在 Linux 上基本一致。按照自己写过的&lt;a href="http://zhukite.github.io/posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html" target="_blank"&gt;nikola配置步骤和手册&lt;/a&gt;配置。&lt;/h3&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h3&gt;由于 Koding 开放了端口，因此也可以用本地的浏览器预览你正在编辑的文章。比如， 输入命令&lt;/h3&gt;
+&lt;div class="code"&gt;&lt;pre&gt;nikola serve -a 0.0.0.0 -p 8080
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h3&gt;打开nikola 的端口号是8080，那么可以访问 http://你的账户名.koding.io:端口号/ 预览在该主机编辑的网站。已经不用大半年前那种访问 http://vm-主机号.你的账户名.koding.kd.io:端口号/ 来预览了！&lt;/h3&gt;
+&lt;p&gt;&lt;br&gt;
+ &lt;img src="http://ww3.sinaimg.cn/mw1024/67804861gw1en7gkfkru8j20le0ee0wp.jpg" width="700"&gt;
+&lt;br&gt;
+&lt;br&gt;
+&lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/using-koding-edit-static-blog-in-the-cloud.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><guid>http://zhukite.github.io//posts/using-koding-edit-static-blog-in-the-cloud.html</guid><pubDate>Fri, 12 Dec 2014 17:25:43 GMT</pubDate></item><item><title>use nikola to build a blog at ubuntu and mount on gitpage</title><link>http://zhukite.github.io//posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html</link><description>&lt;div&gt;&lt;h3&gt;好记性不如烂笔头，还是记录下整个静态博客搭建在github的流程。&lt;/h3&gt;
+&lt;h4&gt;我用的OS是ubuntu12.04，先安装python-pip，python-dev，在ubuntu安装很简单，输入&lt;/h4&gt;
+&lt;div class="code"&gt;&lt;pre&gt;sudo apt-get install python-pip 
+sudo apt-get install python-dev
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;就可以。 按照nikola执行&lt;/h4&gt;
+&lt;div class="code"&gt;&lt;pre&gt;pip install nikola
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;注意：可能在执行安装nikola操作的时候会出现libxml/libxslt errors的报错。&lt;/h4&gt;
+&lt;h4&gt;那就需要先安装libxml2-dev和libslt1-dev,&lt;/h4&gt;
+&lt;div class="code"&gt;&lt;pre&gt;sudo apt-get install libxml2-dev
+sudo apt-get install libxslt1-dev
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;我的实际情况是在去年装的版本是nikola 6.0.1版本，现在（2014.8.23）nikola版本是7.0.1了，导致我原来的博客主题themes一些文件和变量发生变化，在进行nikola build的时候报错不能执行下去。&lt;/h4&gt;
+&lt;h4&gt;所以将version 6.0.1的nikola安装包git上去我的一个repo那里。&lt;/h4&gt;
+&lt;h4&gt;按照前面把libxml2-dev和libslt1-dev安装好后，执行nikola的安装，需要加sudo权限&lt;/h4&gt;
+&lt;div class="code"&gt;&lt;pre&gt;sudo pip install https://github.com/zhukite/nikola-install/archive/master.zip
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;nikola安装完成！因为我原来一些post是用markdown写的，所以要装多个附加依赖包，&lt;/h4&gt;
+&lt;div class="code"&gt;&lt;pre&gt;sudo pip install nikola markdown
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;接下来就新建一个文件夹，在里面新建个website;&lt;/h4&gt;
+&lt;div class="code"&gt;&lt;pre&gt;nikola init
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;然后新建一个post，&lt;/h4&gt;
+&lt;div class="code"&gt;&lt;pre&gt;nikola new_post -f markdown
+&lt;/pre&gt;&lt;/div&gt;
+
+
+&lt;h4&gt;编译则是nikola build;&lt;/h4&gt;
+&lt;h4&gt;本地查看网站效果，可用 nikola serve, 使用下面地址浏览 http://localhost:8000 。&lt;/h4&gt;
+&lt;h4&gt;Nikola操作手册有详细描写：&lt;a href="http://getnikola.com/handbook.html" target="_blank"&gt;The Nikola Handbook&lt;/a&gt;。&lt;/h4&gt;
+&lt;h4&gt;nikola build后的网站展示的内容是放在output,最后，只要把mysite下面的output文件夹，push到GitHub上面即可。&lt;/h4&gt;
+&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><category>ubuntu</category><guid>http://zhukite.github.io//posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html</guid><pubDate>Sun, 24 Aug 2014 18:56:01 GMT</pubDate></item><item><title>在Ubuntu环境安装配置GoAgent</title><link>http://zhukite.github.io//posts/install-and-configure-goagent-at-ubuntu.html</link><description>&lt;div&gt;&lt;h4&gt;离开校园网ipv6这么好的教育网之后，google和github都不能访问，需要翻墙，由于本人的博客之前搭建在ubuntu环境下，更新博客内容都要git。如github在外面普通AD下几乎是不能访问，所以goAgent来翻墙完成git的任务。&lt;/h4&gt;
+&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/install-and-configure-goagent-at-ubuntu.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><category>ubuntu</category><guid>http://zhukite.github.io//posts/install-and-configure-goagent-at-ubuntu.html</guid><pubDate>Thu, 17 Jul 2014 00:44:05 GMT</pubDate></item><item><title>play google XSS game</title><link>http://zhukite.github.io//posts/play-google-xss-game.html</link><description>&lt;div&gt;&lt;h4&gt;玩下google的xss游戏，总共六关，打完就是这个画面,进入&lt;a href="https://xss-game.appspot.com//" target="_blank"&gt;需要翻墙&lt;/a&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;br&gt;
+ &lt;img src="http://ww2.sinaimg.cn/mw1024/67804861tw1eibhts69eaj20h50h5did.jpg" width="700"&gt;
+&lt;br&gt;
+&lt;br&gt;&lt;/p&gt;
+&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/play-google-xss-game.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><category>Google</category><guid>http://zhukite.github.io//posts/play-google-xss-game.html</guid><pubDate>Sun, 13 Jul 2014 23:33:33 GMT</pubDate></item><item><title>CAPTCHA and Turing(验证码与图灵)</title><link>http://zhukite.github.io//posts/captcha-and-turing.html</link><description>&lt;div&gt;&lt;h4&gt;验证码的原名为CAPTCHA，是一大串英文的缩写：Completely Automated Public Turing test to tell Computers and Humans Apart，全自动区分电脑和人类的图灵测试。它的目的在于区分人眼与电脑程式，产生只有人类才能辨别的文字，以避免恶意程式攻击或垃圾留言。然而程式设计者的技能日新月异，现在的验证码也得五花八门，扭曲的文字已经不够用了，网站设计者必须使用算数、照片辨识、两种以上的混合扭曲字元等等验证码，才能稍稍抵挡可能的恶意攻击。&lt;/h4&gt;
+&lt;p&gt;&lt;br&gt;
+ &lt;img src="http://pansci.tw/wp-content/uploads/2014/04/Captcha.jpg"&gt;
+&lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/captcha-and-turing.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><guid>http://zhukite.github.io//posts/captcha-and-turing.html</guid><pubDate>Mon, 28 Apr 2014 23:03:34 GMT</pubDate></item><item><title>Zeus木马新变种感染SaaS厂商Salesforce.com</title><link>http://zhukite.github.io//posts/new-zeus-variant-targeting-salesforcecom.html</link><description>&lt;div&gt;&lt;h4&gt;Zeus木马以往是攻击银行网站（你懂的，钱嘛），现在第一次针对SaaS（软件即服务）的应用进行攻击，其中最早开启SaaS模式的厂商salesforce的一名雇员的家庭电脑近日受到新变种的zeus木马感染。攻击的手法也很有巧妙，绕过避开了公司的安全监控，在该雇员的家庭电脑实施感染攻击。&lt;/h4&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;adollom实验团队称这攻击方式是下地雷，当攻击者埋下“地雷”在这位公司雇员的不受公司控制的个人设备里来获取公司的资源信息，攻击者现在绕过传统的安全防范措施，等待感染者连接公司*.my.salesforce.com，通过这个被感染的用户的设备来盗取公司数据。这次zeus攻击是利用了一旦用户已经通过身份验证，便合理地建立终端用户和salesforce.com的互相信任关系这个条件。This is not an exploit of a Salesforce.com vulnerability（所以说为条件，不是漏洞）。&lt;/h4&gt;
+&lt;p&gt;&lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/new-zeus-variant-targeting-salesforcecom.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><guid>http://zhukite.github.io//posts/new-zeus-variant-targeting-salesforcecom.html</guid><pubDate>Sun, 23 Feb 2014 16:43:59 GMT</pubDate></item><item><title>ssl_tsl protocol</title><link>http://zhukite.github.io//posts/ssl_tsl-protocol.html</link><description>&lt;div&gt;&lt;h4&gt;互联网的通信安全，建立在SSL/TLS协议之上。下面简要介绍SSL/TLS协议的运行机制。文章的重点是设计思想和运行过程，不涉及具体的&lt;a href="http://tools.ietf.org/html/rfc5246" target="_blank"&gt;实现细节&lt;/a&gt; 。&lt;/h4&gt;
+&lt;h4&gt;信息在明文的情况下传播带来三大风险，常见攻击方式是中间人攻击：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;窃听风险（eavesdropping）：第三方可以获知通信内容&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;篡改风险（tampering）：第三方可以修改通信内容。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;冒充风险（pretending）：第三方可以冒充他人身份参与通信。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4&gt;SSL/TLS协议是为了解决这三大风险而设计的，希望达到：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;所有信息都是加密传播，第三方无法窃听。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;具有校验机制，一旦被篡改，通信双方会立刻发现。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;配备身份证书，防止身份被冒充。&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/ssl_tsl-protocol.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><guid>http://zhukite.github.io//posts/ssl_tsl-protocol.html</guid><pubDate>Thu, 20 Feb 2014 21:41:27 GMT</pubDate></item><item><title>security in internet of things</title><link>http://zhukite.github.io//posts/security-in-internet-of-things.html</link><description>&lt;div&gt;&lt;h4&gt;安全界的发展是依附于整个行业，这个行业可不仅是互联网，可以说安全界的触角从互联网到某些内网到物联网到传统的工控网等网络都有延伸（这些“网”之间可以没明显界限），主角是互联网。&lt;/h4&gt;
+&lt;h4&gt;终端安全（PC电脑、手机、Pad），云端安全（网站、IAAS、PAAS、SAAS），链路安全（家庭路由器、DNS服务器、各大节点路由器）都被大型厂商盯上。时下热门的移动互联网，大多终端上的APP背后也是云端，也是同样的Web，也是原汁原味的HTTP协议，曾经在PC上研究的Web安全，在手机上也是持续存在的。&lt;/h4&gt;
+&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/security-in-internet-of-things.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><guid>http://zhukite.github.io//posts/security-in-internet-of-things.html</guid><pubDate>Thu, 20 Feb 2014 10:56:11 GMT</pubDate></item><item><title>mp4 convert to gif</title><link>http://zhukite.github.io//posts/mp4-convert-to-gif.html</link><description>&lt;div&gt;&lt;h3&gt;动态GIF图片现在复苏了，不少在线分享和社交网络网站都开始支持动态GIF图片，由于在消费和共享上的容易，GIF的动画已经成为主流互联网文化的一部分了。下面介绍一下在Linux使用ffmpeg把自己旅行时录制的mp4格式的视频文件转换gif动态图。&lt;/h3&gt;
+&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/mp4-convert-to-gif.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><category>ubuntu</category><guid>http://zhukite.github.io//posts/mp4-convert-to-gif.html</guid><pubDate>Thu, 13 Feb 2014 17:31:23 GMT</pubDate></item><item><title>safety and security</title><link>http://zhukite.github.io//posts/safety-and-security.html</link><description>&lt;div&gt;&lt;h3&gt;在英文里，有两个单词，一个是Safety，一个是Security，很不幸的是，这两个英文单词翻译成中文都叫“安全”，因此总是被混淆.&lt;/h3&gt;
+&lt;p&gt;&lt;br&gt;&lt;/p&gt;
+&lt;h4&gt;&lt;a href="http://coolshell.cn/articles/6976.html" target="_blank"&gt;谈谈数据安全和云存储&lt;/a&gt; 里面的解析比较合理，特此引用如下：&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;所谓Safety，也就是数据不丢失的意思。这是目前云存储解决的问题，你可以把你的数据放在云端，你的所有的终端设备都可以通过云端来共享同步你的数据，这样，云端就成了你数据同步和备份的数据中枢。说得专业一点，这又叫Availability，中文叫可用性，意思是，你的数据总是可用的，基本不会丢失。&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;所谓Security，也就是数据的隐私和不泄露。就目前而言，看到的云存储解决的都是Availability，而不是Security。Security解决的是私密和不泄露的问题。
+ &lt;/p&gt;&lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/safety-and-security.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;</description><category>IT</category><guid>http://zhukite.github.io//posts/safety-and-security.html</guid><pubDate>Mon, 10 Feb 2014 11:21:46 GMT</pubDate></item></channel></rss>
