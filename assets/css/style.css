@@ -76,14 +76,14 @@ img {
     max-width:960px;
 	max-height:226px;
     overflow:hidden;
-/*	background:url() no-repeat scroll center bottom transparent;*/
+	/*background:url() no-repeat scroll center bottom transparent;*/
 }
 .logo {
     float:left;
 }
 .logo a {
     height:60px;
-    display:block;
+  /*  display:block;*/
    /* background-color:#144263;*/
     position:relative;
     color: #000080;
