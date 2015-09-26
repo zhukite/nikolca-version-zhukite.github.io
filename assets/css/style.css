@@ -99,6 +99,12 @@ img {
     float:right;
 }
 
+@media screen and (max-device-width: 400px) {
+　　　　.main_nav {
+　　　　　　display:none;
+　　　　}
+}
+　　
 .main_nav li {
     float:left;
     margin-left:20px;
