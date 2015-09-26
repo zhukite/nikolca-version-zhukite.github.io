@@ -81,7 +81,7 @@ img {
 }
 .logo {
     float:left;
-    width:auto;
+
 }
 .logo a {
     height:60px;
@@ -97,16 +97,9 @@ img {
 
 .main_nav {
     float:right;
-    height:60px;
     
 }
 
-
-@media screen and (max-device-width: 400px) {
-　　　　.main_nav {
-　　　　　　display:none;
-　　　　}
-}
 　　
 .main_nav li {
     float:left;
