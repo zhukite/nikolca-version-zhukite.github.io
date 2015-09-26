@@ -94,11 +94,12 @@ img {
     padding: 0 30px;
 }
 
-/*
+
 .main_nav {
     float:right;
+    width:auto;
 }
-*/
+
 
 @media screen and (max-device-width: 400px) {
 　　　　.main_nav {
