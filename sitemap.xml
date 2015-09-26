@@ -6,417 +6,809 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://zhukite.github.io/</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-07-20</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-01-07</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2014/index.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2015/</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-08-03</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2015/index.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-08-03</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/archive.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-01-08</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/chuang-yi.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/du-shu.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/fun.html</loc>
+  <lastmod>2014-12-12</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/google.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/hai-nan.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-07-08</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/index.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/it-1.html</loc>
+  <lastmod>2014-12-14</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/it.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/other.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-07-24</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/tavel.html</loc>
+  <lastmod>2014-12-12</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/travel-1.html</loc>
+  <lastmod>2014-12-14</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/travel-2.html</loc>
+  <lastmod>2014-12-14</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/travel-yun-nan-xi-cang.html</loc>
+  <lastmod>2014-12-12</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/travel.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-08-05</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/travelyun-nan-xi-cang.html</loc>
+  <lastmod>2014-12-12</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/ubuntu.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/xi-cang-xin-jiang.html</loc>
+  <lastmod>2014-12-12</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/xi-cang.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/xin-jiang-xi-cang-yun-nan.html</loc>
+  <lastmod>2014-12-12</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/xin-jiang.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/yan-xi.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/yun-nan.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/evil.html</loc>
+  <lastmod>2014-12-12</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/galleries/</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2014-12-12</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/galleries/index.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index-1.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index-2.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index-3.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-07-08</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index-4.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-07-20</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index-5.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-08-03</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-08-05</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/listings/</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2014-12-12</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/listings/index.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/along-the-borderland.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/bing-cha-cha-gong-lu.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/cang-nan-ming-zhu-cheng-zhen-tou-chu-you-lan-de-guang-mang.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/captcha-and-turing.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/posts/ce.html</loc>
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/circle-hainan-island.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/cycle-hainan-island.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-07-08</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/dian-xi-bei-huan-xian.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/du-la-ma-wang-guo-de-fu-mie-you-gan.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/du-ou-wen-la-tie-mo-er-de-zhong-guo-de-ya-zhou-nei-lu-bian-jiang.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/east-himalaya-cycle-trip.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/epic-style-picture.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/freedom-and-honor-partition-of-india.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/fruit-hunter.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/funny-movie-wood-job.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/guangxi-photo.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/hainan-island-postcript.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/hui-xiang-ou-shu.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/install-and-configure-goagent-at-ubuntu.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/jian-nan-de-yi-yue.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/just-talk.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/line-of-actual-control.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/man-on-the-road-of-credential.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/memories-of-nujiang.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/mission-au-congo-brazzaville.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-08-05</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/mp4-convert-to-gif.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/new-zeus-variant-targeting-salesforcecom.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/pa-mi-er-gao-yuan.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/play-google-xss-game.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/random-image-of-head.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/road-test.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/safety-and-security.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/security-in-internet-of-things.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/seize-the-day.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/simplicity-can-be-beautiful.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/simply-chic.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-07-24</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/sinkiang-photo.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/ssl_tsl-protocol.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/start-up-nation.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/the-first-anniversary-of-blog.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/tian-shan-du-ku-gong-lu.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/tibet-photo-about-people.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/tibet-photo.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/using-koding-edit-static-blog-in-the-cloud.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/way-finding.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-08-03</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/work-trip-at-capital-city.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-18</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/work-trip-at-shanghai.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-07-20</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/xi-cang-xin-jiang-hui-yi-lu.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/xue-yu-qiu-fa-ji.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/yin-di-zhi-yi-de-zhi-hui.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/zai-ubuntuti-yan-huginhe-bing-quan-jing-tu.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/zhong-yue-yan-bian-yan-hai.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/stories/about.html</loc>
+<<<<<<< HEAD
   <lastmod>2015-09-26</lastmod>
+=======
+  <lastmod>2015-06-13</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/tipue_search.html</loc>
+  <lastmod>2014-12-12</lastmod>
+>>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
   <priority>0.5000</priority>
  </url>
 </urlset>

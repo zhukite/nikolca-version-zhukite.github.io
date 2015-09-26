@@ -1,0 +1,45 @@
+## -*- coding: utf-8 -*-
+<%namespace name="base_helper" file="base_helper.tmpl"/>
+<%inherit file="base_base.tmpl"/>
+<%block name="base_body_content">
+
+    <div class="con_left" id="conLeft">
+        <%block name="content"></%block>
+    </div>
+    
+## 注释右边    
+    <%doc>
+#    <div class="con_right">
+#        <div class="about_box">
+#            <a href="${g_blog_author_url}" target="_blank" class="avatar_box"><img src="${g_blog_author_avatar}" width="100" height="100" alt="头像"></a>
+#            <div class="info">
+#                <h3><a href="${g_blog_author_url}" target="_blank">${blog_author}</a></h3>
+#                <p>${g_blog_author_short_desc}</p>
+#            </div>
+#        </div>
+#        ${g_blog_sidebox}
+#        %if search_form:
+#                ${search_form}
+#        %endif
+#        
+#        <ul class="cate_box" id="cateBox">
+#            <li class="categories">文章分类
+#                <ul>
+#                   <li class="cat-item "><a href="javascript:void(0)" title="查看下的所有文章"><span class="num">0</span>加载中……</a>
+#                   </li>
+#                </ul>
+#            </li>
+#        </ul>
+#        
+#    </div>
+ </%doc>
+</%block>
+
+
+<%block name="base_footer_content">
+##    ${base_helper.late_load_js()}
+    ${base_helper.go_top_js()}
+    <%block name="load_comment_num"></%block>
+</%block>
+
+</body>
