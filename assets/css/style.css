@@ -97,7 +97,7 @@ img {
 
 .main_nav {
     float:right;
-    width:auto;
+    display:block;
 }
 
 
