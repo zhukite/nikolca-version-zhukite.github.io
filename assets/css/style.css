@@ -66,11 +66,8 @@ img {
 }
 .header {
     max-width: 960px;
-<<<<<<< HEAD
-    height:226px;
-=======
-    height:60px;
->>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
+    max-height:226px;
+    margin:20px auto 0;
 	margin-left:auto;
 	margin-right:auto;
     box-shadow:0 3px 3px rgba(0,0,0,0.7);
@@ -78,11 +75,7 @@ img {
 }
 .header_box {
     max-width:960px;
-<<<<<<< HEAD
 	height:226px;
-=======
-	height:60px;
->>>>>>> 945d2eea1073a26f4b6792e867a23543c2e7c385
     margin:0 auto;
     overflow:hidden;
 	background:url() no-repeat scroll center bottom transparent;
