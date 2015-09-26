@@ -93,10 +93,8 @@ TRANSLATIONS_PATTERN = "{path}.{lang}.{ext}"
 # (the same way you would do with a (translatable) setting.)
 NAVIGATION_LINKS = {
     DEFAULT_LANG: (
-        ("/categories/it.html", "IT"),
-        ("/categories/travel.html", "旅行"),
-	("/categories/index.html", "标签"),
-	("/archive.html", "归档"),
+	    ("/categories/index.html", "Tag"),
+	    ("/archive.html", "Archive"),
         ("/stories/about.html", "About"),
     ),
 }
@@ -400,7 +398,7 @@ GZIP_EXTENSIONS = ('.txt', '.htm', '.html', '.css', '.js', '.json', '.xml')
 # Used for create favicon link like this:
 # <link rel="name" href="file" sizes="size"/>
 FAVICONS = {
-    ("icon", "50x49.ico", "50x49"),
+    ("icon", "50x49.png", "50x49"),
     #("icon", "/icon_128x128.png", "128x128"),
 }
 
