@@ -75,36 +75,26 @@ img {
 }
 .header_box {
     max-width:960px;
-	height:60px;
+	max-height:60px;
     overflow:hidden;
-	/*background:url() no-repeat scroll center bottom transparent;*/
 }
 .logo {
     float:left;
-    width:auto;
+
 }
 .logo a {
     height:60px;
     display:block;
    /* background-color:#144263;*/
-   
+    position:relative;
     color: #000080;
     line-height: 60px;
     font-size: 40px;
     padding: 0 30px;
 }
-
-
 .main_nav {
     float:right;
 }
-
-@media screen and (max-device-width: 400px) {
-　　　　.main_nav {
-　　　　　　display:none;
-　　　　}
-}
-　　
 .main_nav li {
     float:left;
     margin-left:20px;
