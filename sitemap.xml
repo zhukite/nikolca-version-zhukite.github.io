@@ -31,12 +31,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/2016/</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-01-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2016/index.html</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-01-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -56,7 +56,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/du-shu.html</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-01-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -146,12 +146,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-5.html</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-01-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-01-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -315,6 +315,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://zhukite.github.io/posts/principles-of-economics.html</loc>
+  <lastmod>2016-01-20</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://zhukite.github.io/posts/random-image-of-head.html</loc>
   <lastmod>2016-01-06</lastmod>
   <priority>0.5000</priority>
@@ -371,7 +376,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/the-second-anniversary-of-blog.html</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-01-20</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
