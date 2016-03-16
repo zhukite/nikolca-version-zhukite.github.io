@@ -81,12 +81,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/other.html</loc>
-  <lastmod>2016-01-29</lastmod>
+  <lastmod>2016-01-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/travel.html</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-03-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -146,12 +146,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-5.html</loc>
-  <lastmod>2016-01-29</lastmod>
+  <lastmod>2016-03-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2016-01-29</lastmod>
+  <lastmod>2016-03-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -406,7 +406,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/walking-the-himalayas.html</loc>
-  <lastmod>2016-01-29</lastmod>
+  <lastmod>2016-03-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -422,6 +422,11 @@
  <url>
   <loc>http://zhukite.github.io/posts/work-trip-at-shanghai.html</loc>
   <lastmod>2016-01-06</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/posts/work-trip-in-shanghai-again.html</loc>
+  <lastmod>2016-03-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
