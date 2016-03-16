@@ -40,6 +40,9 @@
 
 ![](http://ww1.sinaimg.cn/mw1024/67804861gw1f1z0zlhmalj21kw16o7kd.jpg)
 
+
+<!-- TEASER_END -->
+
 ![](http://ww3.sinaimg.cn/mw1024/67804861gw1f1z0zfwwj4j21kw23u4qp.jpg)
 
 ### 大光明电影院
