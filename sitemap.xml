@@ -31,12 +31,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/2016/</loc>
-  <lastmod>2016-03-16</lastmod>
+  <lastmod>2016-03-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2016/index.html</loc>
-  <lastmod>2016-03-16</lastmod>
+  <lastmod>2016-03-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -86,7 +86,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/travel.html</loc>
-  <lastmod>2016-03-18</lastmod>
+  <lastmod>2016-03-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -146,12 +146,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-5.html</loc>
-  <lastmod>2016-03-16</lastmod>
+  <lastmod>2016-03-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2016-03-18</lastmod>
+  <lastmod>2016-03-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -247,6 +247,11 @@
  <url>
   <loc>http://zhukite.github.io/posts/hui-xiang-ou-shu.html</loc>
   <lastmod>2016-01-06</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/posts/in-the-name-of-architecture.html</loc>
+  <lastmod>2016-03-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -426,7 +431,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/work-trip-in-shanghai-again.html</loc>
-  <lastmod>2016-03-18</lastmod>
+  <lastmod>2016-03-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
