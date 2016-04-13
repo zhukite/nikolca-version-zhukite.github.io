@@ -3,7 +3,7 @@
 .. description: 
 .. tags: travel , 西藏
 .. date: 2014/07/07 20:43:46
-.. title: east himalaya cycle trip
+.. title: East Himalaya Cycle Trip(东段喜马拉雅山穿越游)
 .. slug: east-himalaya-cycle-trip
 -->
 
