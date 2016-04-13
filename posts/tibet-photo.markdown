@@ -12,15 +12,13 @@
 
 
 ### 翻过阿鲁腊卡山
-
-![](http://ww3.sinaimg.cn/bmiddle/67804861gw1ege5j5hbnbj21kw16oqn9.jpg)
-
+<div align="center"><img src="http://ww3.sinaimg.cn/bmiddle/67804861gw1ege5j5hbnbj21kw16oqn9.jpg"  width="500" align="center"/></div>
 <br/>
 <br/>
 <br/>
 
 ### 俯瞰怒江
-![](http://ww2.sinaimg.cn/bmiddle/67804861gw1ege5j8w02hj21kw16oamp.jpg)
+<div align="center"><img src="http://ww2.sinaimg.cn/bmiddle/67804861gw1ege5j8w02hj21kw16oamp.jpg"  width="500" align="center"/></div>
 <br/>
 <br/>
 <br/>
