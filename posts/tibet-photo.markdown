@@ -7,18 +7,20 @@
 .. slug: tibet-photo
 -->
 
-## 西藏的行程：从云南贡山出发，骑进迪麻洛，翻过阿鲁腊卡山，下到丙中洛的双拉，骑行丙察察线（丙中洛-察瓦龙-察隅），察隅--古玉乡--然乌--米堆冰川--波密--通麦--八一--派镇（雅鲁藏布江）--直白（南迦巴瓦峰）--拉萨--羊卓雍错--江孜。
+## 2012年暑假 西藏的行程：从云南贡山出发，骑进迪麻洛，翻过阿鲁腊卡山，下到丙中洛的双拉，骑行丙察察线（丙中洛-察瓦龙-察隅），察隅--古玉乡--然乌--米堆冰川--波密--通麦--八一--派镇（雅鲁藏布江）--直白（南迦巴瓦峰）--拉萨--羊卓雍错--江孜。
 <br/>
 
 
 ### 翻过阿鲁腊卡山
-<div align="center"><img src="http://ww3.sinaimg.cn/bmiddle/67804861gw1ege5j5hbnbj21kw16oqn9.jpg"  width="500" align="center"/></div>
+
+![](http://ww3.sinaimg.cn/bmiddle/67804861gw1ege5j5hbnbj21kw16oqn9.jpg)
+
 <br/>
 <br/>
 <br/>
 
 ### 俯瞰怒江
-<div align="center"><img src="http://ww2.sinaimg.cn/bmiddle/67804861gw1ege5j8w02hj21kw16oamp.jpg"  width="500" align="center"/></div>
+![](http://ww2.sinaimg.cn/bmiddle/67804861gw1ege5j8w02hj21kw16oamp.jpg)
 <br/>
 <br/>
 <br/>
