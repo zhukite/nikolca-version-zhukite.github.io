@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags:  travel
+.. tags:  travel ,  上海
 .. date: 2015/06/06 14:31:56
 .. title: 侬好，上海（work trip at ShangHai）
 .. slug: work-trip-at-shanghai

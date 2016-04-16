@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags: travel
+.. tags: travel , 非洲
 .. date: 2015/07/20 17:19:53
 .. title: Mission au Congo (Brazzaville)
 .. slug: mission-au-congo-brazzaville
