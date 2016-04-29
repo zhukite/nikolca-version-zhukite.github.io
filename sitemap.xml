@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://zhukite.github.io/</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-04-29</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -31,12 +31,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/2016/</loc>
-  <lastmod>2016-04-13</lastmod>
+  <lastmod>2016-04-29</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2016/index.html</loc>
-  <lastmod>2016-04-13</lastmod>
+  <lastmod>2016-04-29</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -46,72 +46,82 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/</loc>
-  <lastmod>2015-09-26</lastmod>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/chuang-yi.html</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/du-shu.html</loc>
-  <lastmod>2016-01-20</lastmod>
+  <lastmod>2016-04-29</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/fei-zhou.html</loc>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/google.html</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/hai-nan.html</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/index.html</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/it.html</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/other.html</loc>
-  <lastmod>2016-01-30</lastmod>
+  <lastmod>2016-04-16</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/categories/shang-hai.html</loc>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/travel.html</loc>
-  <lastmod>2016-04-13</lastmod>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/ubuntu.html</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/xi-cang.html</loc>
-  <lastmod>2016-04-13</lastmod>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/xin-jiang.html</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/yan-xi.html</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/yun-nan.html</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -146,12 +156,17 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-5.html</loc>
-  <lastmod>2016-04-13</lastmod>
+  <lastmod>2016-04-29</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/index-6.html</loc>
+  <lastmod>2016-04-29</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2016-04-13</lastmod>
+  <lastmod>2016-04-29</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -230,6 +245,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://zhukite.github.io/posts/fu jian zhu.html</loc>
+  <lastmod>2016-04-29</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://zhukite.github.io/posts/funny-movie-wood-job.html</loc>
   <lastmod>2016-01-06</lastmod>
   <priority>0.5000</priority>
@@ -251,7 +271,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/in-the-name-of-architecture.html</loc>
-  <lastmod>2016-04-13</lastmod>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -296,7 +316,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/mission-au-congo-brazzaville.html</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -411,7 +431,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/vision-scau.html</loc>
-  <lastmod>2016-04-13</lastmod>
+  <lastmod>2016-04-29</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -431,12 +451,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/work-trip-at-shanghai.html</loc>
-  <lastmod>2016-01-06</lastmod>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/work-trip-in-shanghai-again.html</loc>
-  <lastmod>2016-04-06</lastmod>
+  <lastmod>2016-04-16</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
