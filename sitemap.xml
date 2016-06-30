@@ -31,12 +31,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/2016/</loc>
-  <lastmod>2016-06-03</lastmod>
+  <lastmod>2016-06-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2016/index.html</loc>
-  <lastmod>2016-06-03</lastmod>
+  <lastmod>2016-06-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -56,7 +56,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/categories/du-shu.html</loc>
-  <lastmod>2016-04-29</lastmod>
+  <lastmod>2016-06-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -161,12 +161,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-6.html</loc>
-  <lastmod>2016-06-03</lastmod>
+  <lastmod>2016-06-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2016-06-03</lastmod>
+  <lastmod>2016-06-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -186,7 +186,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/bicycle-tour-in-kashgar.html</loc>
-  <lastmod>2016-06-03</lastmod>
+  <lastmod>2016-06-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -412,6 +412,11 @@
  <url>
   <loc>http://zhukite.github.io/posts/the-first-anniversary-of-blog.html</loc>
   <lastmod>2016-01-06</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/posts/the-great-game-the-emergence-of-wall-street-as-a-world-power.html</loc>
+  <lastmod>2016-06-30</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
