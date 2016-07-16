@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags: 
+.. tags: other
 .. date: 2016/07/16 08:04:58
 .. title: Silicon Valley
 .. slug: silicon-valley
