@@ -1,5 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveller</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Thu, 30 Jun 2016 03:17:55 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>伟大的博弈（The Great Game: The Emergence of Wall Street as a World Power）</title><link>http://zhukite.github.io//posts/the-great-game-the-emergence-of-wall-street-as-a-world-power.html</link><description>&lt;h4&gt;John S Gordon从1653年荷兰人为防御英国人的进攻环绕纽约城修墙（于是有了以后的“Wall”street）一路写到 1999年的互联网泡沫。华尔街从梧桐树下的碰头交易开始，从一个边缘的股票交易市场一步一步演变成了全球的金融中心。围绕这个过程作者也介绍了美国经济制度和全球的金融体系在三百多年里持续的变革。&lt;/h4&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveller</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/rss.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Sat, 16 Jul 2016 09:52:10 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>Silicon Valley</title><link>http://zhukite.github.io//posts/silicon-valley.html</link><description>&lt;h4&gt;《硅谷》是一部讲述硅谷程序员创业的喜剧，自然吸引IT从业人员的兴趣，比起《生活大爆炸》那些装逼的物理学家和工程师，《硅谷》更贴近我们的生活。&lt;/h4&gt;
+&lt;h4&gt;2014年毕业答辩后无意间看了这部HBO电视剧的第一季，短短八集，每集20来分钟，以调侃的剧情来讲述硅谷创业过程，非常适合放松愉悦。&lt;/h4&gt;
+&lt;h4&gt;至2016年已经播放完第三季，每季每集都能紧跟当下IT圈潮流，有空就刷了几遍剧情，即使剧中有些内容是不符合现实，例如delete键可以秒删远程服务的后台数据，哈哈~&lt;/h4&gt;
+&lt;h4&gt;总结一下每季的感想：第一季就是有个好想法就行动，从一个音乐播放软件，因为里面的压缩算法，然后发展成做压缩平台，最搞笑的是居然撸管也能启发出新的算法Middle-out。&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="" src="http://ww2.sinaimg.cn/mw1024/67804861gw1f5vuecdop0j211y0kiwgp.jpg"&gt;&lt;/p&gt;
+&lt;h4&gt;详情请访问 &lt;a href="http://www.piedpiper.com/"&gt;piedpiper&lt;/a&gt; 这个网站居然跟着剧情进展来维护，每次有新发布都在blog更新内容，如果不知道这个电视剧的人或者外行人，还真以为存在这么一家搞压缩算法的创业公司，其实是个简单网页，里面有公司的宗旨，技术简单描述还有团队成员的简历。&lt;/h4&gt;
+&lt;h4&gt;第二季则是告诫我们特别注意知识产权的保护，以及千万不要用公司的电脑来做自己的创业内容，否则后果很严重，万一哪天飞黄腾达了，母公司看着你眼红就分分钟官司缠身。&lt;/h4&gt;
+&lt;h4&gt;第三季则是告诉我们，创业公司被董事会安排的外来新CEO乱搞，违背创业公司发展方向的时候，还搞了臭鼬工程来坚持公司的初衷，最后还是因为竞争对手的平台收购才引起董事会的注意，重新让公司走回原定的平台发展方向，做一个云端平台的发展方向。&lt;/h4&gt;
+&lt;h4&gt;但是又因为作为SaaS应用的新实践而且带有工程师设计的平台界面（人机交互上对普通大众来讲一时难以适应），导致只有注册量好看而使用量不显著（此处吐槽了Elizabeth Holmes的验血公司造假骗投资，听闻有部新电影要拍这位女富婆的经历），从而影响第二轮投资而被低价出售，但却因祸得福被新风投公司(男主角的装B屋主和男主角的2B好友成立的公司)收购了。&lt;/h4&gt;
+&lt;p&gt;&lt;img alt="" src="http://ww1.sinaimg.cn/mw1024/67804861gw1f5vueclyrij20s000xt92.jpg"&gt;&lt;/p&gt;
+&lt;h4&gt;第三季结局之后更名了，留意上图，新公司名留个悬念到第四季来解答。&lt;/h4&gt;</description><guid>http://zhukite.github.io//posts/silicon-valley.html</guid><pubDate>Sat, 16 Jul 2016 08:04:58 GMT</pubDate></item><item><title>伟大的博弈（The Great Game: The Emergence of Wall Street as a World Power）</title><link>http://zhukite.github.io//posts/the-great-game-the-emergence-of-wall-street-as-a-world-power.html</link><description>&lt;h4&gt;John S Gordon从1653年荷兰人为防御英国人的进攻环绕纽约城修墙（于是有了以后的“Wall”street）一路写到 1999年的互联网泡沫。华尔街从梧桐树下的碰头交易开始，从一个边缘的股票交易市场一步一步演变成了全球的金融中心。围绕这个过程作者也介绍了美国经济制度和全球的金融体系在三百多年里持续的变革。&lt;/h4&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
 &lt;h4&gt;从书中一个个鲜活的大小人物制造的一件件惊心动魄的金融事件中我能看到，“证券经纪人”从个人到行业，从西部牛仔式的无法无天开始，懂得自律，并最终把行业的管理权交给政府和社会。这个漫长学习过程的驱动力自始至终是个体的利益，而非良知或道德。就像多数细菌，今天留存在下来的都建立了克制自身无限膨胀的机制，懂得怎么和食物源共生。而这只是因为那些不懂的都已经和他们的宿主一起被时间淘汰了。利益的冲突、算计和妥协推动着游戏规则的建立。这是原书名(The Great Game)的深意，也是“博弈”作为译名缘由。&lt;/h4&gt;
 &lt;p&gt;&lt;br&gt;&lt;/p&gt;
@@ -137,9 +147,4 @@
 &lt;/ul&gt;
 &lt;h4&gt;经济学不一定能让一个人致富，但是能改变一个人的世界观。&lt;/h4&gt;
 &lt;div class="code"&gt;&lt;pre&gt;                                                —— —— 记于淫雨霏霏的大寒夜
-&lt;/pre&gt;&lt;/div&gt;</description><category>读书</category><guid>http://zhukite.github.io//posts/principles-of-economics.html</guid><pubDate>Wed, 20 Jan 2016 11:04:42 GMT</pubDate></item><item><title>三星高照，新年来到(the second anniversary of blog)</title><link>http://zhukite.github.io//posts/the-second-anniversary-of-blog.html</link><description>&lt;h4&gt;俗语云：三星高照，新年来到。今夜难得天朗气清，夜观星象，忽见猎户座之金腰带，也即是传说中的三星高照，方觉博客又迈过一个新年。&lt;/h4&gt;
-&lt;p&gt;&lt;img alt="" src="http://ww3.sinaimg.cn/large/67804861jw1ezr99ws5caj20sg0kt0w3.jpg"&gt;&lt;/p&gt;
-&lt;p&gt;&lt;br&gt;&lt;/p&gt;
-&lt;h4&gt;新一年计划只想用一个英语单词形容：change！&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;                                                 —— —— 记于温暖的小寒夜
-&lt;/pre&gt;&lt;/div&gt;</description><category>other</category><guid>http://zhukite.github.io//posts/the-second-anniversary-of-blog.html</guid><pubDate>Wed, 06 Jan 2016 15:50:07 GMT</pubDate></item></channel></rss>
+&lt;/pre&gt;&lt;/div&gt;</description><category>读书</category><guid>http://zhukite.github.io//posts/principles-of-economics.html</guid><pubDate>Wed, 20 Jan 2016 11:04:42 GMT</pubDate></item></channel></rss>
