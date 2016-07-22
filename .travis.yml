@@ -1,0 +1,31 @@
+language: python
+
+branches:
+  except:
+    - master
+
+
+python:
+- '2.7'
+
+install:
+- pip install nikola
+
+before_script:
+- echo -e "Host github.com\n\tStrictHostKeyChecking no\n" >> ~/.ssh/config
+- git config --global user.name "zhukite"
+- git config --global user.email "zhukite@hotmail.com"
+- git clone --quiet "https://${GH_TOKEN}@${GH_REF}" -b master output > /dev/null
+
+script:
+- nikola build
+
+after_success:
+- cd output
+- git add .
+- git commit -m "[ci skip] Update output from Travis CI"
+- git push origin master
+
+env:
+  global:
+    - GH_REF: github.com/zhukite/zhukite.github.io.git
