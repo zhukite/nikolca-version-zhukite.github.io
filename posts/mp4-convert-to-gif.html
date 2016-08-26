@@ -1,0 +1,169 @@
+<!DOCTYPE html><html lang="zh_cn"><head><meta name="viewport" content="width=device-width, initial-scale=1"><!--[if lt IE 9]>
+　　　　<script src="http://css3-mediaqueries-js.googlecode.com/svn/trunk/css3-mediaqueries.js"></script>
+　　<![endif]--></head><body><p>
+　　
+    
+    <meta charset="utf-8"><meta name="description" content=""><meta name="author" content="zhukite"></p><title>mp4 convert to gif | pseudo traveller</title><link href="../assets/css/style.css" rel="stylesheet" type="text/css"><link href="../assets/css/rst.css" rel="stylesheet" type="text/css"><link href="../assets/css/code.css" rel="stylesheet" type="text/css"><link href="../assets/css/myrst.css" rel="stylesheet" type="text/css"><link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml"><link rel="icon" href="50x49.png" sizes="50x49"><script src="../assets/js/jquery.js" type="text/javascript"></script><!-- Menubar --><div class="header">
+
+    <div class="header_box" id="aaa">
+            <h1 class="logo" id="logo"><a href="../">pseudo traveller</a>
+            </h1>
+            <ul class="main_nav" id="mainNav"><li><a href="../categories/index.html">Tag</a>
+                </li><li><a href="../archive.html">Archive</a>
+                </li><li><a href="../stories/about.html">About</a>
+
+            </li></ul></div>
+</div>
+<!-- End of Menubar -->
+<div class="content clearfix">
+    <!--Body content-->
+    
+
+    <div class="con_left" id="conLeft">
+        
+    <div class="article_box">
+    	<div class="article_title">
+    		
+    <h3>mp4 convert to gif</h3>
+
+    	</div>
+	    <div class="entry ">                    
+		    	<h3>动态GIF图片现在复苏了，不少在线分享和社交网络网站都开始支持动态GIF图片，由于在消费和共享上的容易，GIF的动画已经成为主流互联网文化的一部分了。下面介绍一下在Linux使用ffmpeg把自己旅行时录制的mp4格式的视频文件转换gif动态图。</h3>
+<!-- TEASER_END -->
+
+<p><br></p>
+<h4>首先，安装ffmpeg，我的操作系统是Ubuntu 12.04 ，指令是下面：</h4>
+<div class="code"><pre><span class="err">$</span> <span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">install</span> <span class="n">ffmpeg</span>
+</pre></div>
+
+
+<h4>如果你的操作系统别的Linux发行版，请参考<a href="http://xmodulo.com/2013/06/how-to-install-ffmpeg-on-linux.html" target="_blank">How to install FFmpeg on Linux</a></h4>
+<p><br></p>
+<h4>后来发现不行，那个网站老是fetch不到，一直404，只好下源代码编译安装</h4>
+<h4>使用git克隆ffmpeg源代码的地址：</h4>
+<div class="code"><pre><span class="n">git</span> <span class="n">clone</span> <span class="n">git</span><span class="o">:</span><span class="c1">//source.ffmpeg.org/ffmpeg.git ffmpeg</span>
+</pre></div>
+
+
+<h4>另外，ffmpeg编译时需要使用yasm，如果系统中没有安装，可以通过下面的命令来安装：</h4>
+<div class="code"><pre><span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">install</span> <span class="n">yasm</span>
+</pre></div>
+
+
+<p><br></p>
+<h4>上述的编译工具安装好后，就可开始编译ffmpeg了。</h4>
+<h4>ffmpeg是采用autoconfig和automake等工具自动生成makefile，然后再通过make进行编译，具体的编译的过程如下：</h4>
+<ul><li>使用./configure产生makefile文件</li>
+<li>使用make进行编译</li>
+<li>使用sudo make install将ffmpeg安装到系统中，因为这个需要需要root权限。</li>
+</ul><h4>再装个ImageMagick，发现原来已经有了，如果没有就看这里<a href="http://ask.xmodulo.com/install-imagemagick-linux.html" target="_blank">安装ImageMagick</a></h4>
+<p><br></p>
+<h4>弄个人的slam dunk视频,只有4秒，mp4格式的</h4>
+<div class="code"><pre><span class="err">$</span> <span class="n">ffmpeg</span> <span class="o">-</span><span class="n">t</span> <span class="mi">4</span> <span class="o">-</span><span class="n">ss</span> <span class="mo">00</span><span class="o">:</span><span class="mo">00</span><span class="o">:</span><span class="mo">00</span> <span class="o">-</span><span class="n">i</span> <span class="n">slam</span><span class="p">.</span><span class="n">mp4</span> <span class="n">out1</span><span class="p">.</span><span class="n">gif</span>
+</pre></div>
+
+
+<h4>-t是时间长度，-ss是开始时间 ，这样独立的帧就输出了，时间有点长。虚拟机比较慢</h4>
+<p><br></p>
+<h4>最后一步，</h4>
+<div class="code"><pre><span class="err">$</span> <span class="n">convert</span> <span class="o">-</span><span class="n">delay</span> <span class="mi">1</span><span class="n">x20</span> <span class="o">-</span><span class="n">loop</span> <span class="mi">0</span> <span class="n">out</span><span class="o">*</span><span class="p">.</span><span class="n">gif</span> <span class="n">am</span><span class="p">.</span><span class="n">gif</span>
+</pre></div>
+
+
+<h4>"-delay"是控制动态速度的选项。这个选项表示在显示下一帧画面前需要等待的秒数：帧数/每秒帧数 。"-loop 0"选项表示动画的无限次循环。如果你愿意，你可以指定"-loop N"让动画只重复N次。</h4>
+<h4>需要调节大小</h4>
+<div class="code"><pre><span class="n">convert</span>  <span class="n">am</span><span class="p">.</span><span class="n">gif</span> <span class="o">-</span><span class="n">resize</span> <span class="mi">50</span><span class="o">%</span>  <span class="n">small</span><span class="o">-</span><span class="n">am</span><span class="p">.</span><span class="n">gif</span>
+</pre></div>
+
+
+<h4>享受技术带来的乐趣吧！:-) 奉上帕米尔高原 slam dunk</h4>
+<p><img alt="" src="http://ww4.sinaimg.cn/mw1024/67804861gw1edi5rzwyaug208w050b2e.gif"></p>  
+        </div>
+            
+        <div class="art_copy">
+            
+    <!-- Social buttons -->
+	<div class="bshare-custom icon-medium-plus"><div class="bsPromo bsPromo2"></div><b>喜欢这篇文章就分享:</b> <a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到微信" class="bshare-weixin"></a><a title="分享到Facebook" class="bshare-facebook" href="javascript:void(0);"></a><a title="分享到Twitter" class="bshare-twitter" href="javascript:void(0);"></a><a title="分享到人人网" class="bshare-renren" href="javascript:void(0);"></a><a title="分享到腾讯微博" class="bshare-qqmb" href="javascript:void(0);"></a><span class="BSHARE_COUNT bshare-share-count" style="float: none;">24.6K</span></div><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script><!-- End of social buttons --><p>如需转载请链接原文地址：http://zhukite.github.io//posts/mp4-convert-to-gif.html</p>
+                 
+        </div>
+	    <ul class="article_info"><!--
+             <li class="cate"></li>
+             <li class="vote"></li>
+             --><li class="tag">
+                <ul class="tags_list"><li>
+                        <a href="../categories/it.html" rel="tag">IT</a>
+                    </li>
+                    <li>
+                        <a href="../categories/ubuntu.html" rel="tag">ubuntu</a>
+                    </li>
+                </ul></li>
+             <li class="date">2014-02-13 17:31</li>
+        </ul></div>
+
+	
+    <div class="art_nav">
+        <div class="previous">
+            上一篇：
+            <a href="simplicity-can-be-beautiful.html" rel="prev">Simplicity can be beautiful</a>
+        </div>
+        <div class="next">
+            下一篇：
+            <a href="security-in-internet-of-things.html" rel="next">security in internet of things</a>
+        </div>
+    </div>
+
+
+        
+    <!-- Duoshuo Comment BEGIN -->
+    <div class="ds-thread" data-thread-key="1392283883.0" data-title="&lt;bound method Post.title of &lt;nikola.post.Post object at 0x23c85d0&gt;&gt;" data-author-key="zhukite"></div>
+    <script type="text/javascript">
+    var duoshuoQuery = {short_name:"zhukite"};
+    (function() {
+        var ds = document.createElement('script');
+        ds.type = 'text/javascript';ds.async = true;
+        ds.src = 'http://static.duoshuo.com/embed.js';
+        ds.charset = 'UTF-8';
+        (document.getElementsByTagName('head')[0] 
+        || document.getElementsByTagName('body')[0]).appendChild(ds);
+    })();
+    </script><!-- Duoshuo Comment END --><span id="post-comments"></span>
+
+
+    </div>
+    
+    
+
+    <!--End of body content-->
+</div>
+<div class="footer">
+    Contents © 2016         <a href="mailto:zhukite@hotmail.com">zhukite</a> - Powered by         <a href="http://getnikola.com" rel="nofollow">Nikola</a> 
+</div>
+<div id="goTop" class="go_top" title="返回顶部"></div>
+
+
+    
+    <script>
+        $(function(){
+            //回到顶部
+            $(window).scroll(function(){  
+                    var scrollt = document.documentElement.scrollTop + document.body.scrollTop; //获取滚动后的高度 
+                    if( scrollt >200 ){  //判断滚动后高度超过200px,就显示  
+                        $("#goTop").fadeIn(400); //淡出     
+                    }else{      
+                        $("#goTop").stop().fadeOut(400); //如果返回或者没有超过,就淡入.必须加上stop()停止之前动画,否则会出现闪动   
+                    }
+            });
+
+            $("#goTop").click(function(){ 
+                    $("html,body").animate({scrollTop:"0px"},500);
+            });
+            //滚到评论
+            var hash = window.location.hash;
+            if(hash&&$(hash).length==1){
+                $('html,body').animate({
+                        scrollTop: $(hash).offset().top
+                        },1000);
+            }
+
+        });
+    </script><!-- Social buttons --><!-- End of social buttons --><script type="text/javascript">var cnzz_protocol = (("https:" == document.location.protocol) ? " https://" : " http://");document.write(unescape("%3Cspan id='cnzz_stat_icon_1000257069'%3E%3C/span%3E%3Cscript src='" + cnzz_protocol + "s96.cnzz.com/z_stat.php%3Fid%3D1000257069%26show%3Dpic' type='text/javascript'%3E%3C/script%3E"));</script></body></html>
