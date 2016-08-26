@@ -1,42 +1,42 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveller (ubuntu)</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/categories/ubuntu.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Fri, 26 Aug 2016 18:35:11 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>use nikola to build a blog at ubuntu and mount on gitpage</title><link>http://zhukite.github.io//posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html</link><description>&lt;div&gt;&lt;h3&gt;好记性不如烂笔头，还是记录下整个静态博客搭建在github的流程。&lt;/h3&gt;
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title>pseudo traveller (ubuntu)</title><link>http://zhukite.github.io/</link><description>zhukite's blog</description><atom:link href="http://zhukite.github.io/categories/ubuntu.xml" type="application/rss+xml" rel="self"></atom:link><lastBuildDate>Sat, 16 Apr 2016 16:06:24 GMT</lastBuildDate><generator>nikola</generator><docs>http://blogs.law.harvard.edu/tech/rss</docs><item><title>use nikola to build a blog at ubuntu and mount on gitpage</title><link>http://zhukite.github.io//posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html</link><description>&lt;div&gt;&lt;h3&gt;好记性不如烂笔头，还是记录下整个静态博客搭建在github的流程。&lt;/h3&gt;
 &lt;h4&gt;我用的OS是ubuntu12.04，先安装python-pip，python-dev，在ubuntu安装很简单，输入&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;&lt;span class="n"&gt;sudo&lt;/span&gt; &lt;span class="n"&gt;apt&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;get&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="n"&gt;python&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;pip&lt;/span&gt; 
-&lt;span class="n"&gt;sudo&lt;/span&gt; &lt;span class="n"&gt;apt&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;get&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="n"&gt;python&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;dev&lt;/span&gt;
+&lt;div class="code"&gt;&lt;pre&gt;sudo apt-get install python-pip 
+sudo apt-get install python-dev
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;h4&gt;就可以。 按照nikola执行&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;&lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="n"&gt;nikola&lt;/span&gt;
+&lt;div class="code"&gt;&lt;pre&gt;pip install nikola
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;h4&gt;注意：可能在执行安装nikola操作的时候会出现libxml/libxslt errors的报错。&lt;/h4&gt;
 &lt;h4&gt;那就需要先安装libxml2-dev和libslt1-dev,&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;&lt;span class="n"&gt;sudo&lt;/span&gt; &lt;span class="n"&gt;apt&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;get&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="n"&gt;libxml2&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;dev&lt;/span&gt;
-&lt;span class="n"&gt;sudo&lt;/span&gt; &lt;span class="n"&gt;apt&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;get&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="n"&gt;libxslt1&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;dev&lt;/span&gt;
+&lt;div class="code"&gt;&lt;pre&gt;sudo apt-get install libxml2-dev
+sudo apt-get install libxslt1-dev
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;h4&gt;我的实际情况是在去年装的版本是nikola 6.0.1版本，现在（2014.8.23）nikola版本是7.0.1了，导致我原来的博客主题themes一些文件和变量发生变化，在进行nikola build的时候报错不能执行下去。&lt;/h4&gt;
 &lt;h4&gt;所以将version 6.0.1的nikola安装包git上去我的一个repo那里。&lt;/h4&gt;
 &lt;h4&gt;按照前面把libxml2-dev和libslt1-dev安装好后，执行nikola的安装，需要加sudo权限&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;&lt;span class="n"&gt;sudo&lt;/span&gt; &lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="n"&gt;https&lt;/span&gt;&lt;span class="o"&gt;:&lt;/span&gt;&lt;span class="c1"&gt;//github.com/zhukite/nikola-install/archive/master.zip&lt;/span&gt;
+&lt;div class="code"&gt;&lt;pre&gt;sudo pip install https://github.com/zhukite/nikola-install/archive/master.zip
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;h4&gt;nikola安装完成！因为我原来一些post是用markdown写的，所以要装多个附加依赖包，&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;&lt;span class="n"&gt;sudo&lt;/span&gt; &lt;span class="n"&gt;pip&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="n"&gt;nikola&lt;/span&gt; &lt;span class="n"&gt;markdown&lt;/span&gt;
+&lt;div class="code"&gt;&lt;pre&gt;sudo pip install nikola markdown
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;h4&gt;接下来就新建一个文件夹，在里面新建个website;&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;&lt;span class="n"&gt;nikola&lt;/span&gt; &lt;span class="n"&gt;init&lt;/span&gt;
+&lt;div class="code"&gt;&lt;pre&gt;nikola init
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;h4&gt;然后新建一个post，&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;&lt;span class="n"&gt;nikola&lt;/span&gt; &lt;span class="n"&gt;new_post&lt;/span&gt; &lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;f&lt;/span&gt; &lt;span class="n"&gt;markdown&lt;/span&gt;
+&lt;div class="code"&gt;&lt;pre&gt;nikola new_post -f markdown
 &lt;/pre&gt;&lt;/div&gt;
 
 
@@ -47,12 +47,12 @@
 &lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><category>ubuntu</category><guid>http://zhukite.github.io//posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html</guid><pubDate>Sun, 24 Aug 2014 18:56:01 GMT</pubDate></item><item><title>在Ubuntu环境安装配置GoAgent</title><link>http://zhukite.github.io//posts/install-and-configure-goagent-at-ubuntu.html</link><description>&lt;div&gt;&lt;h4&gt;离开校园网ipv6这么好的教育网之后，google和github都不能访问，需要翻墙，由于本人的博客之前搭建在ubuntu环境下，更新博客内容都要git。如github在外面普通AD下几乎是不能访问，所以goAgent来翻墙完成git的任务。&lt;/h4&gt;
 &lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/install-and-configure-goagent-at-ubuntu.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><category>ubuntu</category><guid>http://zhukite.github.io//posts/install-and-configure-goagent-at-ubuntu.html</guid><pubDate>Thu, 17 Jul 2014 00:44:05 GMT</pubDate></item><item><title>mp4 convert to gif</title><link>http://zhukite.github.io//posts/mp4-convert-to-gif.html</link><description>&lt;div&gt;&lt;h3&gt;动态GIF图片现在复苏了，不少在线分享和社交网络网站都开始支持动态GIF图片，由于在消费和共享上的容易，GIF的动画已经成为主流互联网文化的一部分了。下面介绍一下在Linux使用ffmpeg把自己旅行时录制的mp4格式的视频文件转换gif动态图。&lt;/h3&gt;
 &lt;p class="more"&gt;&lt;a href="http://zhukite.github.io//posts/mp4-convert-to-gif.html"&gt;阅读全文…&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;</description><category>IT</category><category>ubuntu</category><guid>http://zhukite.github.io//posts/mp4-convert-to-gif.html</guid><pubDate>Thu, 13 Feb 2014 17:31:23 GMT</pubDate></item><item><title>在ubuntu体验Hugin合并全景图</title><link>http://zhukite.github.io//posts/zai-ubuntuti-yan-huginhe-bing-quan-jing-tu.html</link><description>&lt;div&gt;&lt;h4&gt;在ubuntu安装hugin，&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;&lt;span class="err"&gt;$&lt;/span&gt; &lt;span class="n"&gt;sudo&lt;/span&gt; &lt;span class="n"&gt;apt&lt;/span&gt;&lt;span class="o"&gt;-&lt;/span&gt;&lt;span class="n"&gt;get&lt;/span&gt; &lt;span class="n"&gt;install&lt;/span&gt; &lt;span class="n"&gt;hugin&lt;/span&gt;
+&lt;div class="code"&gt;&lt;pre&gt;&lt;span class="nv"&gt;$ &lt;/span&gt;sudo apt-get install hugin
 &lt;/pre&gt;&lt;/div&gt;
 
 
 &lt;h4&gt;启动 Hugin&lt;/h4&gt;
-&lt;div class="code"&gt;&lt;pre&gt;&lt;span class="n"&gt;hugin&lt;/span&gt;
+&lt;div class="code"&gt;&lt;pre&gt;hugin
 &lt;/pre&gt;&lt;/div&gt;
 
 

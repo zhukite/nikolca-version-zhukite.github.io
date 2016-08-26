@@ -1,0 +1,16 @@
+## -*- coding: utf-8 -*-
+<%inherit file="base.tmpl"/>
+<%block name="content">
+    <div class="article_box">
+        <div class="article_title">
+            <h3>${title}</h3>
+        </div>
+        <div class="entry" >  
+            <ul class="archives">                  
+               % for text, link in items:
+                <li><a href="${link}">${text}</a>
+               % endfor 
+            </ul>      
+        </div>
+    </div>
+</%block>

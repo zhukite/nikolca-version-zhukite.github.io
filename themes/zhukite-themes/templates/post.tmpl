@@ -1,0 +1,63 @@
+## -*- coding: utf-8 -*-
+<%namespace name="helper" file="post_helper.tmpl"/>
+<%namespace name="disqus" file="disqus_helper.tmpl"/>
+<%inherit file="base.tmpl"/>
+<%block name="extra_head">
+${helper.twitter_card_information(post)}
+% if post.meta('keywords'):
+    <meta name="keywords" content="${post.meta('keywords')|h}"/>
+% endif
+</%block>
+<%block name="content">
+    <div class="article_box">
+    	<div class="article_title">
+    		${helper.html_title()}
+    	</div>
+	    <div class="entry " >                    
+		    	${post.text(lang)}  
+        </div>
+        % if not post.meta('password'):
+            
+        % endif
+        % if not post.meta('link'):
+        <div class="art_copy">
+            
+%if add_this_buttons:
+    <!-- Social buttons -->
+	<div class="bshare-custom icon-medium-plus"><div class="bsPromo bsPromo2"></div><b>喜欢这篇文章就分享:</b> <a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到微信" class="bshare-weixin"></a><a title="分享到Facebook" class="bshare-facebook" href="javascript:void(0);"></a><a title="分享到Twitter" class="bshare-twitter" href="javascript:void(0);"></a><a title="分享到人人网" class="bshare-renren" href="javascript:void(0);"></a><a title="分享到腾讯微博" class="bshare-qqmb" href="javascript:void(0);"></a><span class="BSHARE_COUNT bshare-share-count" style="float: none;">24.6K</span></div><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
+    <!-- End of social buttons -->
+%endif
+            <p>如需转载请链接原文地址：${post.permalink(absolute=True)}</p>
+                 
+        </div>
+        % else:
+        <div class="art_copy">
+            原载于：${post.meta('link')}
+        </div>
+        % endif
+	    <ul class="article_info">
+             <!--
+             <li class="cate"></li>
+             <li class="vote"></li>
+             -->
+             %if post.tags:
+             <li class="tag">
+                <ul class="tags_list">
+                    %for tag in post.tags:
+                    <li>
+                        <a href="${_link('tag', tag)}" rel="tag">${tag}</a>
+                    </li>
+                    %endfor
+                </ul>
+             </li>
+             <li class="date">${post.formatted_date(date_format)}</li>
+             %endif
+        </ul>
+    </div>
+
+	${helper.html_pager(post)}
+
+ ##   %if post.meta('comment')=="True":
+        ${disqus.html_disqus(post)}
+ ##   %endif
+</%block>
