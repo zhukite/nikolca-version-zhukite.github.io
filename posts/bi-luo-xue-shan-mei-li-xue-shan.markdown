@@ -119,7 +119,7 @@
 
 ### 走南线，我参与到赶马行列，学了不少与滇马交流的语言，算是半个马帮成员，会点马语为我后来的旅行带来不少好处，这是后话了。
 
-![](http://ww2.sinaimg.cn/large/67804861gw1f77roy287tj21kw0citcv.jpg)
+![](http://ww1.sinaimg.cn/mw1024/67804861gw1f77s66caeij20u03sgax6.jpg)
 
 <br/>
 
