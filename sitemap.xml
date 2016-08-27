@@ -460,6 +460,11 @@
   <priority>0.5000</priority>
  </url>
  <url>
+  <loc>http://zhukite.github.io/posts/tiger-leaping-gorge.html</loc>
+  <lastmod>2016-08-27</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
   <loc>http://zhukite.github.io/posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html</loc>
   <lastmod>2016-07-22</lastmod>
   <priority>0.5000</priority>
