@@ -6,7 +6,7 @@
                         http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
  <url>
   <loc>http://zhukite.github.io/</loc>
-  <lastmod>2016-08-26</lastmod>
+  <lastmod>2016-11-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -31,12 +31,12 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/2016/</loc>
-  <lastmod>2016-09-13</lastmod>
+  <lastmod>2016-11-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/2016/index.html</loc>
-  <lastmod>2016-09-13</lastmod>
+  <lastmod>2016-11-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -171,12 +171,17 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/index-6.html</loc>
-  <lastmod>2016-09-13</lastmod>
+  <lastmod>2016-11-18</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/index-7.html</loc>
+  <lastmod>2016-11-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
   <loc>http://zhukite.github.io/index.html</loc>
-  <lastmod>2016-09-13</lastmod>
+  <lastmod>2016-11-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -207,6 +212,11 @@
  <url>
   <loc>http://zhukite.github.io/posts/bing-cha-cha-gong-lu.html</loc>
   <lastmod>2016-07-22</lastmod>
+  <priority>0.5000</priority>
+ </url>
+ <url>
+  <loc>http://zhukite.github.io/posts/bing-cha-cha.html</loc>
+  <lastmod>2016-11-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
@@ -356,7 +366,7 @@
  </url>
  <url>
   <loc>http://zhukite.github.io/posts/nan-jia-ba-wa.html</loc>
-  <lastmod>2016-09-13</lastmod>
+  <lastmod>2016-11-18</lastmod>
   <priority>0.5000</priority>
  </url>
  <url>
