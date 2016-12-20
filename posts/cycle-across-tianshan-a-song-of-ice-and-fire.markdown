@@ -3,7 +3,7 @@
 .. description: 
 .. tags: travel
 .. date: 2016/12/08 22:57:31
-.. title: 冰与火之歌——穿越新疆天山独库(Cycle Across Tianshan:A Song of Ice and Fire)
+.. title: 冰与火之歌——穿越新疆天山独库(Across Tianshan)
 .. slug: cycle-across-tianshan-a-song-of-ice-and-fire
 -->
 
