@@ -16,7 +16,7 @@
     <link href="assets/css/code.css" rel="stylesheet" type="text/css">
     <link href="assets/css/myrst.css" rel="stylesheet" type="text/css">
             <link rel="alternate" type="application/rss+xml" title="RSS" href="rss.xml">
-            <link rel="icon" href="50x49.png" sizes="50x49">
+            <link rel="icon" href="16x16.ico" sizes="16x16">
     <script src="assets/js/jquery.js" type="text/javascript"></script>
 
     
@@ -53,7 +53,7 @@
                 <h3><a href="posts/epic-style-picture.html">epic style travel picture</a></h3>
                 <div class="comment_num comment_highlight">
                     <a href="posts/epic-style-picture.html#post-comments" title="">
-                    <span data-thread-key="1410824782.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
+                    <span data-thread-key="1410795982.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
                     </a>
                 </div>
             </div>
@@ -131,49 +131,49 @@
                 <h3><a href="posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html">use nikola to build a blog at ubuntu and mount on gitpage</a></h3>
                 <div class="comment_num comment_highlight">
                     <a href="posts/use-nikola-to-build-a-blog-at-ubuntu-and-mount-on-gitpage.html#post-comments" title="">
-                    <span data-thread-key="1408906561.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
+                    <span data-thread-key="1408877761.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
                     </a>
                 </div>
             </div>
             <div class="entry ">
                 <div><h3>好记性不如烂笔头，还是记录下整个静态博客搭建在github的流程。</h3>
 <h4>我用的OS是ubuntu12.04，先安装python-pip，python-dev，在ubuntu安装很简单，输入</h4>
-<div class="code"><pre>sudo apt-get install python-pip 
-sudo apt-get install python-dev
+<div class="code"><pre><span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">install</span> <span class="n">python</span><span class="o">-</span><span class="n">pip</span> 
+<span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">install</span> <span class="n">python</span><span class="o">-</span><span class="n">dev</span>
 </pre></div>
 
 
 <h4>就可以。 按照nikola执行</h4>
-<div class="code"><pre>pip install nikola
+<div class="code"><pre><span class="n">pip</span> <span class="n">install</span> <span class="n">nikola</span>
 </pre></div>
 
 
 <h4>注意：可能在执行安装nikola操作的时候会出现libxml/libxslt errors的报错。</h4>
 <h4>那就需要先安装libxml2-dev和libslt1-dev,</h4>
-<div class="code"><pre>sudo apt-get install libxml2-dev
-sudo apt-get install libxslt1-dev
+<div class="code"><pre><span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">install</span> <span class="n">libxml2</span><span class="o">-</span><span class="n">dev</span>
+<span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">install</span> <span class="n">libxslt1</span><span class="o">-</span><span class="n">dev</span>
 </pre></div>
 
 
 <h4>我的实际情况是在去年装的版本是nikola 6.0.1版本，现在（2014.8.23）nikola版本是7.0.1了，导致我原来的博客主题themes一些文件和变量发生变化，在进行nikola build的时候报错不能执行下去。</h4>
 <h4>所以将version 6.0.1的nikola安装包git上去我的一个repo那里。</h4>
 <h4>按照前面把libxml2-dev和libslt1-dev安装好后，执行nikola的安装，需要加sudo权限</h4>
-<div class="code"><pre>sudo pip install https://github.com/zhukite/nikola-install/archive/master.zip
+<div class="code"><pre><span class="n">sudo</span> <span class="n">pip</span> <span class="n">install</span> <span class="n">https</span><span class="o">:</span><span class="c1">//github.com/zhukite/nikola-install/archive/master.zip</span>
 </pre></div>
 
 
 <h4>nikola安装完成！因为我原来一些post是用markdown写的，所以要装多个附加依赖包，</h4>
-<div class="code"><pre>sudo pip install nikola markdown
+<div class="code"><pre><span class="n">sudo</span> <span class="n">pip</span> <span class="n">install</span> <span class="n">nikola</span> <span class="n">markdown</span>
 </pre></div>
 
 
 <h4>接下来就新建一个文件夹，在里面新建个website;</h4>
-<div class="code"><pre>nikola init
+<div class="code"><pre><span class="n">nikola</span> <span class="n">init</span>
 </pre></div>
 
 
 <h4>然后新建一个post，</h4>
-<div class="code"><pre>nikola new_post -f markdown
+<div class="code"><pre><span class="n">nikola</span> <span class="n">new_post</span> <span class="o">-</span><span class="n">f</span> <span class="n">markdown</span>
 </pre></div>
 
 
@@ -206,7 +206,7 @@ sudo apt-get install libxslt1-dev
                 <h3><a href="posts/fruit-hunter.html">水果猎人</a></h3>
                 <div class="comment_num comment_highlight">
                     <a href="posts/fruit-hunter.html#post-comments" title="">
-                    <span data-thread-key="1406592690.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
+                    <span data-thread-key="1406563890.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
                     </a>
                 </div>
             </div>
@@ -234,7 +234,7 @@ sudo apt-get install libxslt1-dev
                 <h3><a href="posts/install-and-configure-goagent-at-ubuntu.html">在Ubuntu环境安装配置GoAgent</a></h3>
                 <div class="comment_num comment_highlight">
                     <a href="posts/install-and-configure-goagent-at-ubuntu.html#post-comments" title="">
-                    <span data-thread-key="1405557845.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
+                    <span data-thread-key="1405529045.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
                     </a>
                 </div>
             </div>
@@ -265,7 +265,7 @@ sudo apt-get install libxslt1-dev
                 <h3><a href="posts/play-google-xss-game.html">play google XSS game</a></h3>
                 <div class="comment_num comment_highlight">
                     <a href="posts/play-google-xss-game.html#post-comments" title="">
-                    <span data-thread-key="1405294413.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
+                    <span data-thread-key="1405265613.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
                     </a>
                 </div>
             </div>
@@ -300,7 +300,7 @@ sudo apt-get install libxslt1-dev
                 <h3><a href="posts/du-la-ma-wang-guo-de-fu-mie-you-gan.html">读《喇嘛王国的覆灭》有感</a></h3>
                 <div class="comment_num comment_highlight">
                     <a href="posts/du-la-ma-wang-guo-de-fu-mie-you-gan.html#post-comments" title="">
-                    <span data-thread-key="1404825579.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
+                    <span data-thread-key="1404796779.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
                     </a>
                 </div>
             </div>
@@ -335,7 +335,7 @@ sudo apt-get install libxslt1-dev
                 <h3><a href="posts/east-himalaya-cycle-trip.html">East Himalaya Cycle Trip(东段喜马拉雅山穿越游)</a></h3>
                 <div class="comment_num comment_highlight">
                     <a href="posts/east-himalaya-cycle-trip.html#post-comments" title="">
-                    <span data-thread-key="1404765826.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
+                    <span data-thread-key="1404737026.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
                     </a>
                 </div>
             </div>
@@ -384,7 +384,7 @@ sudo apt-get install libxslt1-dev
                 <h3><a href="posts/xue-yu-qiu-fa-ji.html">《雪域求法记》后感</a></h3>
                 <div class="comment_num comment_highlight">
                     <a href="posts/xue-yu-qiu-fa-ji.html#post-comments" title="">
-                    <span data-thread-key="1402339292.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
+                    <span data-thread-key="1402310492.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
                     </a>
                 </div>
             </div>
@@ -417,7 +417,7 @@ sudo apt-get install libxslt1-dev
                 <h3><a href="posts/man-on-the-road-of-credential.html">man on the road (of credential)</a></h3>
                 <div class="comment_num comment_highlight">
                     <a href="posts/man-on-the-road-of-credential.html#post-comments" title="">
-                    <span data-thread-key="1401801581.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
+                    <span data-thread-key="1401772781.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
                     </a>
                 </div>
             </div>
@@ -447,7 +447,7 @@ sudo apt-get install libxslt1-dev
                 <h3><a href="posts/line-of-actual-control.html">Line of Actual Control</a></h3>
                 <div class="comment_num comment_highlight">
                     <a href="posts/line-of-actual-control.html#post-comments" title="">
-                    <span data-thread-key="1401699756.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
+                    <span data-thread-key="1401670956.0" class="ds-thread-count" data-count-type="comments">暂无评论</span>
                     </a>
                 </div>
             </div>
