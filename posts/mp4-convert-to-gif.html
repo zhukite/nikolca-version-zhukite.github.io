@@ -16,7 +16,7 @@
     <link href="../assets/css/code.css" rel="stylesheet" type="text/css">
     <link href="../assets/css/myrst.css" rel="stylesheet" type="text/css">
             <link rel="alternate" type="application/rss+xml" title="RSS" href="../rss.xml">
-            <link rel="icon" href="50x49.png" sizes="50x49">
+            <link rel="icon" href="50x49.ico" sizes="50x49">
     <script src="../assets/js/jquery.js" type="text/javascript"></script>
 
     
@@ -62,7 +62,7 @@
 
 <p><br></p>
 <h4>首先，安装ffmpeg，我的操作系统是Ubuntu 12.04 ，指令是下面：</h4>
-<div class="code"><pre><span class="nv">$ </span>sudo apt-get install ffmpeg
+<div class="code"><pre><span class="err">$</span> <span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">install</span> <span class="n">ffmpeg</span>
 </pre></div>
 
 
@@ -70,12 +70,12 @@
 <p><br></p>
 <h4>后来发现不行，那个网站老是fetch不到，一直404，只好下源代码编译安装</h4>
 <h4>使用git克隆ffmpeg源代码的地址：</h4>
-<div class="code"><pre>git clone git://source.ffmpeg.org/ffmpeg.git ffmpeg
+<div class="code"><pre><span class="n">git</span> <span class="n">clone</span> <span class="n">git</span><span class="o">:</span><span class="c1">//source.ffmpeg.org/ffmpeg.git ffmpeg</span>
 </pre></div>
 
 
 <h4>另外，ffmpeg编译时需要使用yasm，如果系统中没有安装，可以通过下面的命令来安装：</h4>
-<div class="code"><pre>sudo apt-get install yasm
+<div class="code"><pre><span class="n">sudo</span> <span class="n">apt</span><span class="o">-</span><span class="n">get</span> <span class="n">install</span> <span class="n">yasm</span>
 </pre></div>
 
 
@@ -90,20 +90,20 @@
 <h4>再装个ImageMagick，发现原来已经有了，如果没有就看这里<a href="http://ask.xmodulo.com/install-imagemagick-linux.html" target="_blank">安装ImageMagick</a></h4>
 <p><br></p>
 <h4>弄个人的slam dunk视频,只有4秒，mp4格式的</h4>
-<div class="code"><pre><span class="nv">$ </span>ffmpeg -t <span class="m">4</span> -ss 00:00:00 -i slam.mp4 out1.gif
+<div class="code"><pre><span class="err">$</span> <span class="n">ffmpeg</span> <span class="o">-</span><span class="n">t</span> <span class="mi">4</span> <span class="o">-</span><span class="n">ss</span> <span class="mo">00</span><span class="o">:</span><span class="mo">00</span><span class="o">:</span><span class="mo">00</span> <span class="o">-</span><span class="n">i</span> <span class="n">slam</span><span class="p">.</span><span class="n">mp4</span> <span class="n">out1</span><span class="p">.</span><span class="n">gif</span>
 </pre></div>
 
 
 <h4>-t是时间长度，-ss是开始时间 ，这样独立的帧就输出了，时间有点长。虚拟机比较慢</h4>
 <p><br></p>
 <h4>最后一步，</h4>
-<div class="code"><pre><span class="nv">$ </span>convert -delay 1x20 -loop <span class="m">0</span> out*.gif am.gif
+<div class="code"><pre><span class="err">$</span> <span class="n">convert</span> <span class="o">-</span><span class="n">delay</span> <span class="mi">1</span><span class="n">x20</span> <span class="o">-</span><span class="n">loop</span> <span class="mi">0</span> <span class="n">out</span><span class="o">*</span><span class="p">.</span><span class="n">gif</span> <span class="n">am</span><span class="p">.</span><span class="n">gif</span>
 </pre></div>
 
 
 <h4>"-delay"是控制动态速度的选项。这个选项表示在显示下一帧画面前需要等待的秒数：帧数/每秒帧数 。"-loop 0"选项表示动画的无限次循环。如果你愿意，你可以指定"-loop N"让动画只重复N次。</h4>
 <h4>需要调节大小</h4>
-<div class="code"><pre>convert  am.gif -resize 50%  small-am.gif
+<div class="code"><pre><span class="n">convert</span>  <span class="n">am</span><span class="p">.</span><span class="n">gif</span> <span class="o">-</span><span class="n">resize</span> <span class="mi">50</span><span class="o">%</span>  <span class="n">small</span><span class="o">-</span><span class="n">am</span><span class="p">.</span><span class="n">gif</span>
 </pre></div>
 
 
@@ -113,10 +113,33 @@
             
         <div class="art_copy">
             
-    <!-- Social buttons -->
-	<div class="bshare-custom icon-medium-plus"><div class="bsPromo bsPromo2"></div><b>喜欢这篇文章就分享:</b> <a title="分享到QQ空间" class="bshare-qzone"></a><a title="分享到新浪微博" class="bshare-sinaminiblog"></a><a title="分享到微信" class="bshare-weixin"></a><a title="分享到Facebook" class="bshare-facebook" href="javascript:void(0);"></a><a title="分享到Twitter" class="bshare-twitter" href="javascript:void(0);"></a><a title="分享到人人网" class="bshare-renren" href="javascript:void(0);"></a><a title="分享到腾讯微博" class="bshare-qqmb" href="javascript:void(0);"></a><span class="BSHARE_COUNT bshare-share-count" style="float: none;">24.6K</span></div><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/buttonLite.js#style=-1&amp;uuid=&amp;pophcol=2&amp;lang=zh"></script><script type="text/javascript" charset="utf-8" src="http://static.bshare.cn/b/bshareC0.js"></script>
-    <!-- End of social buttons -->
-            <p>如需转载请链接原文地址：http://zhukite.github.io//posts/mp4-convert-to-gif.html</p>
+   <!-- JiaThis Button BEGIN -->
+<div class="jiathis_style_32x32">
+<a class="jiathis_button_qzone"></a>
+<a class="jiathis_button_tsina"></a>
+<a class="jiathis_button_weixin"></a>
+<a class="jiathis_button_renren"></a>
+<a class="jiathis_button_douban"></a>
+<a class="jiathis_button_cqq"></a>
+<a class="jiathis_button_fb"></a>
+<a class="jiathis_button_twitter"></a>
+<a class="jiathis_button_copy"></a>
+<a class="jiathis_button_fav"></a>
+<a class="jiathis_button_ydnote"></a>
+<a href="http://www.jiathis.com/share" class="jiathis jiathis_txt jiathis_separator jtico jtico_jiathis" target="_blank"></a>
+<a class="jiathis_counter_style"></a>
+</div>
+<script type="text/javascript">
+var jiathis_config={
+	summary:"",
+	shortUrl:false,
+	hideMore:false
+}
+</script>
+<script type="text/javascript" src="http://v3.jiathis.com/code/jia.js" charset="utf-8"></script>
+<!-- JiaThis Button END -->
+
+           
                  
         </div>
 	    <ul class="article_info">
@@ -153,7 +176,7 @@
 
         
     <!-- Duoshuo Comment BEGIN -->
-    <div class="ds-thread" data-thread-key="1392312683.0" data-title="&lt;bound method Post.title of &lt;nikola.post.Post object at 0x7f2c02fef310&gt;&gt;" data-author-key="zhukite"></div>
+    <div class="ds-thread" data-thread-key="1392283883.0" data-title="&lt;bound method Post.title of &lt;nikola.post.Post object at 0x7f5721085a90&gt;&gt;" data-author-key="zhukite"></div>
     <script type="text/javascript">
     var duoshuoQuery = {short_name:"zhukite"};
     (function() {
