@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 
-.. tags: 
+.. tags: travel
 .. date: 2016/11/08 09:47:59
 .. title: 丙察察
 .. slug: bing-cha-cha
