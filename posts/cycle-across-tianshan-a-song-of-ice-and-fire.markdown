@@ -3,7 +3,7 @@
 .. description: 
 .. tags: travel
 .. date: 2016/12/08 22:57:31
-.. title: Cycle Across Tianshan:A Song of Ice and Fire
+.. title: 冰与火之歌——穿越新疆天山独库(Cycle Across Tianshan:A Song of Ice and Fire)
 .. slug: cycle-across-tianshan-a-song-of-ice-and-fire
 -->
 
@@ -16,6 +16,8 @@
 <br/>
 
 ### 听说天山独库公路风景一流，气候地貌变化多端，一日之内奏唱冰与火之歌。所以新疆首条路线就选择了天山独库。在乌鲁木齐逗留不过3个小时，我就离开了前往石油城独山子，那里是独库公路的起点。
+
+<!-- TEASER_END -->
 
 ![](http://ww4.sinaimg.cn/mw1024/67804861gw1fax2djniitj20kk0wxgr6.jpg)
 
