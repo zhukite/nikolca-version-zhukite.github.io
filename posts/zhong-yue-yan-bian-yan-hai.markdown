@@ -1,7 +1,7 @@
 <!-- 
 .. link: 
 .. description: 骑行中越沿边公路S325
-.. tags: travel ,  广西
+.. tags: 广西 , travel
 .. date: 2014/01/22 14:12:40
 .. title: 骑车在广西海陆边境上转个圈
 .. slug: zhong-yue-yan-bian-yan-hai
